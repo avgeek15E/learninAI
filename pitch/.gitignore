@@ -18,6 +18,9 @@ venv/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# Requirements files
+req.txt
+
 # OS-specific
 .DS_Store
 Thumbs.db
