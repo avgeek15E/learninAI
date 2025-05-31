@@ -1,5 +1,5 @@
 def main():
-    print("Hello from pracstat!")
+    print("Hello from pitch!")
 
 
 if __name__ == "__main__":
