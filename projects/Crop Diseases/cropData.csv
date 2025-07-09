@@ -1,0 +1,3661 @@
+Temperature,Humidity,Rainfall,Soil_pH,N,P,K,Crop,Disease
+21.3,61.5,134.1,5.89,64,59,27,Potato,Early Blight
+22.2,67.5,149.2,6.12,83,22,44,Potato,Late Blight
+22.6,53,127,6.59,101,39,43,Wheat,Powdery Mildew
+34.1,48.8,271.5,6.49,94,36,36,Rice,Leaf Blast
+37.6,40,237.4,6.57,64,50,36,Cotton,Bacterial Blight
+22.1,56,107.6,6.38,102,58,44,Cotton,Bacterial Blight
+29.9,84.7,272.2,6.14,105,26,40,Chili,Leaf Spot
+36,87.4,139.7,7.07,114,45,23,Maize,Turcicum Leaf Blight
+33.6,49.1,195.3,6.78,111,60,20,Chili,Anthracnose
+21.1,65.6,28.5,6.12,106,38,46,Wheat,Powdery Mildew
+25.3,84.7,294.9,7.42,79,52,38,Wheat,Karnal Bunt
+30.4,46.6,101,5.66,77,31,55,Wheat,Karnal Bunt
+22.6,83.4,42.4,6.56,61,49,42,Tomato,Septoria Leaf Spot
+22.6,74.1,264.8,6.26,61,33,58,Cotton,Root Rot
+31.7,84.9,206.7,7.4,92,22,58,Wheat,Rust
+34.5,49.6,163.3,6.07,99,54,31,Maize,Downy Mildew
+28.1,86.7,51.2,7.43,78,49,22,Chili,Anthracnose
+28.3,41.5,253,6.31,68,38,20,Wheat,Rust
+31.8,54.7,218.2,6.73,60,31,42,Wheat,Powdery Mildew
+25.7,64.4,247.5,6.31,55,54,48,Chili,Anthracnose
+20.1,81.3,112.1,6.9,91,58,49,Tomato,Early Blight
+37.1,60.6,150.3,5.87,51,26,42,Wheat,Powdery Mildew
+28.4,87.9,75.5,6.09,57,51,29,Rice,Sheath Blight
+27.2,69.7,22.1,5.91,98,56,58,Potato,Black Scurf
+37.2,75.3,208.4,6.56,77,33,33,Cotton,Leaf Curl
+37.2,89.9,221.2,6,62,33,45,Chili,Powdery Mildew
+27,67.2,201,5.86,77,35,25,Maize,Common Rust
+24.7,45.5,267.3,6.36,94,39,30,Tomato,Late Blight
+29.3,58.9,14.3,6.27,114,51,36,Wheat,Powdery Mildew
+21.4,80.5,22.6,6.12,71,47,21,Tomato,Septoria Leaf Spot
+26.4,53.9,261.1,6.45,100,49,28,Tomato,Early Blight
+32.4,80.1,103,6.46,103,45,55,Wheat,Powdery Mildew
+39.1,65.2,116.8,5.5,84,26,24,Chili,Powdery Mildew
+39.9,59,68.1,6.57,77,54,44,Chili,Anthracnose
+34.7,58.1,227.4,6.59,100,32,20,Potato,Early Blight
+21.2,47,41,7.01,64,27,36,Tomato,Septoria Leaf Spot
+35.2,60.8,167,5.74,86,50,30,Tomato,Septoria Leaf Spot
+39.4,80.6,24.3,7.06,78,22,29,Potato,Black Scurf
+29.4,64.2,185.6,7.46,109,56,31,Tomato,Early Blight
+23.6,74.7,144.5,5.67,113,52,37,Potato,Early Blight
+25.6,66.2,198.3,7.09,84,25,47,Wheat,Karnal Bunt
+31.7,73.9,53.7,7.34,118,53,21,Wheat,Karnal Bunt
+37,76.5,273,6.03,100,32,59,Tomato,Septoria Leaf Spot
+31.1,83.7,14.1,7.39,93,28,29,Chili,Leaf Spot
+25.5,81.4,75,7.38,83,29,30,Potato,Black Scurf
+35.6,40.6,89.4,5.68,53,21,28,Cotton,Bacterial Blight
+35.9,48.5,86.4,6.45,84,40,42,Rice,Bacterial Leaf Blight
+27.2,62.8,145.6,6.01,111,60,22,Maize,Downy Mildew
+24,74.7,40.7,7.26,106,35,44,Potato,Late Blight
+32.3,85.9,115.8,6.59,117,56,55,Tomato,Late Blight
+24.9,44.3,262,6.38,64,24,35,Wheat,Rust
+24.3,68.4,114,6.65,61,54,41,Rice,Sheath Blight
+28.3,44.4,138.4,6.85,65,39,29,Cotton,Root Rot
+38.3,81.7,163.1,6.73,69,22,27,Tomato,Late Blight
+39.5,50.2,88.3,6.35,87,42,25,Rice,Sheath Blight
+24,59.4,211.8,7.05,52,20,23,Chili,Leaf Spot
+25.2,81.4,25.7,7.3,114,46,35,Wheat,Powdery Mildew
+30.2,75,157.7,7.09,57,46,58,Cotton,Leaf Curl
+31.9,80.7,287,6.7,100,52,41,Rice,Bacterial Leaf Blight
+20.8,56.9,295.1,5.76,78,38,25,Cotton,Root Rot
+29.7,42.5,152.5,6.91,55,28,21,Wheat,Rust
+30.9,50.1,79.5,6.25,74,51,35,Tomato,Septoria Leaf Spot
+29.7,79.4,58.1,5.74,89,50,29,Wheat,Karnal Bunt
+21.8,46.3,185.2,7.16,116,47,47,Cotton,Bacterial Blight
+23,70.4,258,6.74,118,27,53,Tomato,Late Blight
+21.1,80.9,298.9,7.49,82,32,23,Tomato,Septoria Leaf Spot
+21.4,78.7,182.7,7.33,103,28,43,Rice,Leaf Blast
+36.2,49,90,6.2,50,55,27,Potato,Early Blight
+25.2,55.2,234.3,5.57,116,59,36,Chili,Leaf Spot
+39.3,56.8,117.8,6.58,68,27,40,Maize,Turcicum Leaf Blight
+29.2,62.2,105.5,6.29,54,34,44,Rice,Bacterial Leaf Blight
+37.1,54.1,143.5,5.54,90,47,34,Potato,Black Scurf
+21.6,60.2,50.6,5.72,105,39,24,Chili,Powdery Mildew
+37.2,86.6,53.8,5.53,66,51,32,Maize,Turcicum Leaf Blight
+33.7,49.5,11,5.76,58,54,57,Chili,Anthracnose
+31.5,40.6,127.2,7.14,73,38,23,Maize,Downy Mildew
+37.6,68.6,82.2,6.19,61,55,30,Cotton,Root Rot
+37.2,54.8,124.9,6.57,96,52,36,Tomato,Early Blight
+34.3,71.1,240.9,6.51,108,54,31,Wheat,Rust
+22.5,74.8,67.7,6.45,58,45,30,Tomato,Late Blight
+34.5,58.5,132.3,6.54,91,45,29,Chili,Powdery Mildew
+23.8,54.2,240.9,6.44,106,32,26,Wheat,Powdery Mildew
+21.9,40.9,237.3,5.9,110,25,39,Wheat,Powdery Mildew
+37.9,82.2,138.4,6.06,107,20,47,Cotton,Root Rot
+28.8,83.5,293.6,6.55,103,40,22,Chili,Anthracnose
+24.5,58.9,41.7,6.66,81,31,28,Wheat,Karnal Bunt
+21.4,79.7,107.7,6.01,88,49,56,Cotton,Root Rot
+34.3,41,161,7.02,51,50,20,Maize,Common Rust
+31.9,66.2,125.3,6.73,87,57,46,Cotton,Bacterial Blight
+32.5,44.1,31.1,7.34,111,43,21,Wheat,Powdery Mildew
+22.8,46.9,279.3,5.79,88,30,22,Cotton,Root Rot
+27.1,55.1,37.8,6.66,79,29,55,Maize,Turcicum Leaf Blight
+28,43.9,220.5,6.1,82,30,56,Rice,Sheath Blight
+29.1,42.4,214.6,6.54,84,29,28,Wheat,Karnal Bunt
+30.4,65.1,29.5,7.46,97,46,26,Tomato,Septoria Leaf Spot
+35.4,80.6,289.1,6.11,112,47,45,Chili,Powdery Mildew
+27.1,87.8,179.3,7.08,89,47,22,Tomato,Late Blight
+31.4,61.4,254.3,5.98,119,54,47,Potato,Early Blight
+33.4,88.2,121.2,5.79,91,43,26,Rice,Sheath Blight
+30.9,56.9,174.7,5.92,55,54,25,Chili,Anthracnose
+21,71.3,236,6.53,70,39,28,Wheat,Powdery Mildew
+36.1,67.4,275.3,6.56,72,43,33,Rice,Bacterial Leaf Blight
+39.1,42.2,197.8,6.63,100,46,56,Wheat,Rust
+38.7,52.4,39.3,6.87,112,48,50,Tomato,Late Blight
+33.3,65.5,48.2,5.55,50,48,48,Rice,Bacterial Leaf Blight
+37.9,51.7,237,6.89,56,55,35,Cotton,Root Rot
+38.8,52.2,46.9,5.99,64,30,31,Maize,Turcicum Leaf Blight
+29.4,44,143.8,6.52,105,29,41,Maize,Turcicum Leaf Blight
+27.9,76,61.8,7.06,73,57,32,Chili,Powdery Mildew
+23.2,64.1,240.6,6.87,53,41,35,Cotton,Leaf Curl
+22.6,63.6,290.3,5.91,115,37,48,Maize,Downy Mildew
+26.9,52.4,170.9,7.22,115,49,59,Chili,Leaf Spot
+25.1,55.3,291.8,6.16,94,22,45,Potato,Early Blight
+35.2,78.5,160.3,6.91,85,59,53,Tomato,Late Blight
+22.5,51.2,257.7,6.12,91,30,55,Maize,Downy Mildew
+35.5,43.5,17.4,6.79,84,32,59,Potato,Black Scurf
+37,82.7,233.1,7.19,94,31,47,Cotton,Root Rot
+25.1,67.3,180.4,6.28,85,43,28,Tomato,Septoria Leaf Spot
+23.8,61.8,283.1,5.72,61,26,34,Wheat,Rust
+35.5,81.2,166.4,6.57,79,58,38,Cotton,Root Rot
+24.6,88.4,269.4,6.17,79,36,29,Maize,Common Rust
+35.8,40.5,272.2,7.06,57,21,32,Maize,Common Rust
+21,78.2,121.2,5.59,61,56,34,Tomato,Early Blight
+28.4,79.3,218.6,6.1,72,51,41,Maize,Common Rust
+32.3,56.9,158,7.05,58,24,38,Rice,Leaf Blast
+20.9,89.8,291.3,5.71,92,20,34,Maize,Turcicum Leaf Blight
+29.8,81.6,101.4,6.04,70,26,23,Rice,Leaf Blast
+20.1,82.2,179.9,7.13,79,29,50,Potato,Early Blight
+26.2,77,197.9,6.67,109,29,27,Cotton,Leaf Curl
+26.2,78.8,38.9,5.87,119,60,22,Maize,Downy Mildew
+34.5,66,211.8,5.7,120,58,35,Rice,Sheath Blight
+39.1,79,77.5,5.81,98,27,46,Rice,Sheath Blight
+38.2,67.5,134.6,6.1,78,34,59,Cotton,Root Rot
+24.9,90,189.7,7.34,66,60,60,Wheat,Powdery Mildew
+22.3,88.4,97.2,6.86,51,32,28,Maize,Common Rust
+28.6,45.7,223.4,6.2,63,53,54,Cotton,Bacterial Blight
+27.2,81.7,147.8,6.28,83,25,26,Tomato,Late Blight
+24.1,80.7,165.5,6.51,72,29,40,Maize,Common Rust
+24.7,55.2,200.7,5.92,68,20,44,Chili,Powdery Mildew
+25.1,40.5,228.4,6.94,99,49,27,Chili,Leaf Spot
+26.8,89.7,213.8,7.17,93,41,21,Cotton,Leaf Curl
+35.4,82.6,186.9,6.29,55,51,25,Rice,Leaf Blast
+23.9,85.8,287.9,5.57,51,26,40,Rice,Sheath Blight
+30.5,84.4,128.3,7.31,70,49,47,Chili,Anthracnose
+37.4,53.7,183.3,7.06,88,50,52,Cotton,Root Rot
+39.5,74.6,49.8,7.36,64,47,28,Wheat,Karnal Bunt
+37.6,49.1,131.2,7.04,56,24,30,Cotton,Leaf Curl
+21.6,55.9,259.2,5.52,85,42,28,Wheat,Rust
+39.7,51.2,62.4,6.58,83,34,26,Chili,Leaf Spot
+37.4,59.1,63.2,7.28,109,35,58,Rice,Bacterial Leaf Blight
+39.9,71.2,147.6,6.9,114,25,59,Potato,Black Scurf
+20.8,56.6,126.5,7.23,58,55,48,Rice,Leaf Blast
+38.6,62.4,298.9,6.71,74,46,21,Chili,Leaf Spot
+33.3,44,218.9,6.87,52,43,56,Wheat,Karnal Bunt
+30.2,78.3,49.7,6.08,83,23,37,Chili,Leaf Spot
+30.9,73.3,296.7,5.64,99,47,60,Maize,Common Rust
+34.6,74.7,27,7.44,100,29,34,Wheat,Karnal Bunt
+34.2,46.5,78.1,5.62,64,27,42,Chili,Powdery Mildew
+24.4,50.1,283.6,7.15,97,21,49,Tomato,Septoria Leaf Spot
+33,56.7,294.6,7.05,82,35,27,Cotton,Leaf Curl
+26.2,59.5,145.8,6.68,73,42,38,Chili,Leaf Spot
+28.3,85.3,226.1,6.34,116,37,52,Cotton,Root Rot
+20.2,47.4,31.3,6.97,60,22,44,Cotton,Root Rot
+37.4,48.7,59.8,5.75,91,33,27,Cotton,Bacterial Blight
+39.5,88.6,155.6,5.61,104,30,58,Rice,Sheath Blight
+35.9,57.9,215.9,5.91,87,58,23,Potato,Black Scurf
+30.2,45.8,138,5.73,107,41,34,Tomato,Early Blight
+21.7,69.3,150.8,7.01,117,25,24,Wheat,Karnal Bunt
+32.2,69.8,196.3,6.06,61,22,21,Maize,Common Rust
+39.4,86.8,58.9,6.93,120,24,58,Rice,Bacterial Leaf Blight
+24.6,56.6,37.7,6.82,71,52,51,Tomato,Late Blight
+30,59.9,146.7,6.51,111,54,25,Maize,Turcicum Leaf Blight
+37.6,78.2,207.2,5.84,109,44,59,Chili,Powdery Mildew
+29.6,61.3,232,5.83,101,29,40,Chili,Anthracnose
+31.1,43.3,282.4,6.64,61,53,47,Tomato,Late Blight
+36.4,46.2,206,5.88,84,43,48,Wheat,Powdery Mildew
+33.2,45.6,93.5,6.57,103,31,47,Chili,Leaf Spot
+24.3,57.6,10.7,6.97,94,38,25,Chili,Powdery Mildew
+33.3,55.4,225,5.92,102,57,55,Rice,Bacterial Leaf Blight
+27.1,75.8,292.9,6.96,100,28,43,Tomato,Septoria Leaf Spot
+21.1,41.7,70.9,6.28,94,23,44,Tomato,Late Blight
+25.6,77.8,253.5,7.03,92,28,52,Wheat,Karnal Bunt
+39.1,56.1,124.7,6.14,81,41,36,Maize,Common Rust
+27.8,77.8,153.2,5.78,119,49,37,Maize,Downy Mildew
+24.9,84.7,155.7,7.44,100,44,26,Tomato,Early Blight
+24.1,41.3,157.8,7.14,73,21,29,Maize,Turcicum Leaf Blight
+22.6,88.2,160.3,6.89,83,30,24,Tomato,Late Blight
+25.5,64,136.2,5.96,66,28,24,Maize,Downy Mildew
+31.6,61.7,237,6.9,62,48,22,Wheat,Rust
+36.6,48.8,34.7,7.14,86,44,27,Rice,Sheath Blight
+31.5,64.6,218,6.9,104,57,28,Tomato,Late Blight
+39.2,89.7,119.6,7.39,95,25,49,Cotton,Bacterial Blight
+21.3,49.6,19.8,6.57,53,26,58,Maize,Common Rust
+20,72,105.7,6.02,63,29,47,Maize,Downy Mildew
+36.1,80.6,23.2,6.77,58,60,46,Maize,Turcicum Leaf Blight
+22.7,83.6,130,5.73,83,26,55,Cotton,Bacterial Blight
+30.6,88.2,60.9,7.04,88,59,54,Tomato,Septoria Leaf Spot
+34.2,63.1,239.6,6.05,69,26,20,Maize,Downy Mildew
+21.8,79.3,125.1,7.3,59,51,56,Tomato,Septoria Leaf Spot
+28.1,59.3,117,7.14,115,22,39,Cotton,Leaf Curl
+27.8,72.6,36.4,7.07,104,57,20,Rice,Bacterial Leaf Blight
+24.3,59.2,166.1,6.73,58,42,60,Chili,Anthracnose
+26.4,72.2,125.9,6.51,119,24,35,Tomato,Early Blight
+20.8,50.9,222.2,5.96,59,26,32,Chili,Leaf Spot
+29.5,47,83.4,6.08,111,35,47,Cotton,Leaf Curl
+27.8,71.9,284.3,7.43,117,24,21,Rice,Leaf Blast
+38.3,88.9,213.6,6.84,119,28,24,Chili,Leaf Spot
+21.3,79.7,72.1,6.45,114,48,44,Tomato,Early Blight
+24.1,43.9,23.3,7.25,61,45,57,Maize,Turcicum Leaf Blight
+20.8,65,201.8,6.42,64,23,40,Potato,Late Blight
+32.1,82.8,260,5.54,94,36,26,Tomato,Septoria Leaf Spot
+23.1,44.3,299.1,5.83,68,58,35,Wheat,Karnal Bunt
+40,63.8,93.4,5.57,103,34,53,Maize,Downy Mildew
+29.3,45.4,152.8,5.8,99,33,56,Chili,Powdery Mildew
+36.8,87.9,292.1,5.51,58,42,55,Potato,Early Blight
+38.4,72.5,160.4,7.36,81,52,46,Cotton,Leaf Curl
+35.6,88.1,152.7,5.78,62,46,24,Chili,Powdery Mildew
+30.8,69.2,140.5,7.3,115,55,47,Tomato,Early Blight
+32.3,74.5,194.4,7.48,117,58,33,Potato,Early Blight
+30.3,45.8,15.1,6.02,90,55,38,Rice,Sheath Blight
+37.9,76.7,155.8,5.85,73,59,53,Potato,Black Scurf
+29.8,56.4,65.2,6.87,51,22,60,Wheat,Rust
+31.7,75.9,243.8,6.35,103,41,41,Potato,Early Blight
+25.3,86.5,155.5,6.61,92,46,45,Wheat,Karnal Bunt
+20.7,50.7,281.8,7.4,75,54,24,Maize,Turcicum Leaf Blight
+34.7,88.8,86.3,7.14,107,21,58,Tomato,Early Blight
+38,54.7,76.4,5.83,112,30,32,Chili,Powdery Mildew
+21,52.7,106.5,6.45,88,23,44,Wheat,Powdery Mildew
+23.5,64.5,195.1,7.23,60,20,35,Rice,Bacterial Leaf Blight
+22,59.2,232.2,7.07,86,56,50,Chili,Leaf Spot
+23.1,59.8,154.9,7.36,70,23,47,Tomato,Late Blight
+24.2,43.8,112.1,7.21,60,49,23,Tomato,Late Blight
+39.9,59.3,283.3,6.47,61,53,28,Wheat,Rust
+33.3,57.4,138.5,6.3,104,57,24,Chili,Powdery Mildew
+35.4,73.9,45.5,7.16,90,40,54,Potato,Late Blight
+29.9,44.6,76.6,6.07,70,40,27,Maize,Downy Mildew
+22.1,88.7,280.4,5.65,101,40,46,Maize,Downy Mildew
+27.2,63.5,253.9,6.2,55,60,36,Tomato,Late Blight
+35.6,78.9,40.7,7.26,65,28,20,Cotton,Leaf Curl
+25.1,79.9,80.7,5.69,59,60,53,Potato,Late Blight
+38.6,76,121.4,5.88,58,45,35,Tomato,Septoria Leaf Spot
+30.8,45.7,289.9,7.04,69,30,60,Rice,Leaf Blast
+26.9,70.1,28.4,6.33,120,32,20,Wheat,Karnal Bunt
+38.4,86.6,75.4,6.5,50,59,31,Chili,Powdery Mildew
+39.2,40.1,237.2,5.85,73,50,45,Tomato,Late Blight
+27.9,53.3,280,6.89,117,27,28,Potato,Black Scurf
+32.9,61,186.7,5.95,80,33,20,Rice,Bacterial Leaf Blight
+26.3,78.2,174.3,6.59,116,60,27,Potato,Black Scurf
+35.1,84.4,229.1,6.96,55,42,49,Wheat,Rust
+22.3,45.5,81.8,6.78,55,56,25,Potato,Early Blight
+26.6,88.9,156,7.4,106,32,47,Tomato,Early Blight
+32.1,60.1,28.7,6.1,63,47,52,Wheat,Karnal Bunt
+28.6,79,201.1,6.56,54,47,50,Rice,Leaf Blast
+20.9,54.4,144.5,5.95,65,38,60,Cotton,Leaf Curl
+31.6,49.1,241.2,6.35,109,32,47,Wheat,Rust
+28.5,61.6,119.2,5.78,94,31,55,Chili,Powdery Mildew
+25.3,48,261.3,7.15,50,36,27,Cotton,Root Rot
+34.6,86.6,60.9,7.25,85,29,51,Tomato,Early Blight
+29.8,54.7,245.9,6.48,88,38,50,Rice,Bacterial Leaf Blight
+29.8,65.5,290.5,6.97,74,50,20,Maize,Common Rust
+30.2,88.5,82.8,6.51,52,28,25,Rice,Leaf Blast
+35.3,65.5,292.5,6.21,55,54,50,Wheat,Powdery Mildew
+22.1,49.7,234.3,6.47,74,44,27,Wheat,Powdery Mildew
+31.7,70.1,145.6,7.08,88,52,49,Chili,Powdery Mildew
+27.9,63.9,168.6,6.29,119,35,25,Tomato,Early Blight
+36.7,41.8,203.2,5.61,78,28,53,Chili,Leaf Spot
+21.8,79.8,86.1,6.41,119,57,43,Tomato,Early Blight
+36,76.9,274,5.96,59,37,44,Rice,Bacterial Leaf Blight
+29.9,84.3,15,6.27,98,39,57,Cotton,Leaf Curl
+31.8,76.7,77.9,7.17,112,40,56,Wheat,Karnal Bunt
+29,69.9,17,7.38,71,59,21,Rice,Sheath Blight
+26,71,93.3,7.36,69,60,35,Chili,Anthracnose
+36.8,84.6,140.9,5.74,119,45,49,Potato,Black Scurf
+25.8,80.9,114.7,6.28,79,41,39,Rice,Sheath Blight
+29.7,56.9,266.4,7.17,104,29,38,Potato,Black Scurf
+25.3,44.8,162.7,7.4,66,34,54,Wheat,Karnal Bunt
+25.9,86.5,162.8,5.8,50,29,24,Tomato,Late Blight
+37.7,62.4,36.7,6.59,100,48,28,Wheat,Rust
+28,65.6,220,6.87,101,27,46,Cotton,Bacterial Blight
+22.4,68.7,244.3,6.41,69,45,58,Chili,Leaf Spot
+31.6,73.2,69.2,6.43,51,52,34,Potato,Early Blight
+26.6,84.6,299,6.73,106,50,24,Wheat,Rust
+32.5,48,276,6.48,80,54,56,Potato,Early Blight
+31.3,59.3,30.2,6.62,55,48,24,Tomato,Late Blight
+34.5,87.2,120.9,6.06,51,43,28,Wheat,Rust
+29.7,78.2,115.7,6.39,55,25,41,Rice,Sheath Blight
+21.6,70.8,203.8,5.95,64,25,28,Chili,Powdery Mildew
+27.9,49.8,160.8,6.82,77,22,29,Chili,Leaf Spot
+22.9,72.2,32.1,7.2,110,38,38,Chili,Anthracnose
+39.6,74.5,207,6.51,54,48,21,Chili,Powdery Mildew
+39.2,51.7,74.3,7.12,103,45,49,Rice,Bacterial Leaf Blight
+37.6,42.8,109.2,6.38,85,26,26,Chili,Anthracnose
+38.5,68.7,263.5,6.09,96,43,46,Wheat,Powdery Mildew
+36,41.9,246.6,5.96,78,33,55,Potato,Late Blight
+28.5,62.3,35.2,6.84,110,38,54,Maize,Turcicum Leaf Blight
+30.4,59.8,180.9,6,63,28,32,Rice,Leaf Blast
+39.7,60.4,155.9,6.35,111,44,29,Maize,Downy Mildew
+39.5,54.6,236.3,6.61,117,49,33,Maize,Turcicum Leaf Blight
+35.8,75.3,235.9,6.4,99,41,28,Maize,Turcicum Leaf Blight
+22.7,74.6,133.1,6.89,106,36,33,Wheat,Karnal Bunt
+28.5,66.4,233.3,5.73,84,34,28,Rice,Brown Spot
+31.1,68.5,200.6,6.72,82,39,25,Cotton,Leaf Spot
+32,49.1,248.3,6.59,82,54,39,Cotton,Bacterial Blight
+36.9,87.4,156.5,7.02,117,53,28,Maize,Turcicum Leaf Blight
+18.1,74.6,166.2,6.27,78,25,45,Potato,Late Blight
+31.6,87.7,290.6,6.41,107,29,43,Chili,Leaf Spot
+24.5,82.3,167.9,6.93,88,46,45,Apple,Cedar Apple Rust
+37.1,73.4,236.3,6.29,95,47,35,Rice,Bacterial Leaf Blight
+31.5,63.8,212.2,5.74,79,29,30,Rice,Brown Spot
+23,63.5,131.5,6.53,98,35,48,Wheat,Powdery Mildew
+20.3,73.6,151.7,6.14,78,35,52,Apple,Apple Scab
+21,83.7,168.5,5.92,110,32,43,Wheat,Septoria Leaf Spot
+20.5,63.2,158.5,6.18,74,59,29,Potato,Early Blight
+18.1,71.1,170,6.34,112,31,39,Wheat,Septoria Leaf Spot
+24.5,83.3,189.8,6.62,90,48,38,Apple,Cedar Apple Rust
+26.7,74.5,156.1,6.26,98,51,28,Tomato,Early Blight
+24.7,67.6,156.9,6.43,99,54,35,Tomato,Early Blight
+18.1,76,182,6.3,108,37,33,Wheat,Septoria Leaf Spot
+22.9,60.9,156.3,5.91,63,63,34,Potato,Early Blight
+27.3,67.5,146.4,6.34,80,45,32,Tomato,Early Blight
+25.4,83.2,186.6,5.99,97,39,28,Maize,Common Rust
+33.8,68.8,228.3,5.9,88,37,28,Rice,Brown Spot
+22.9,60,143.3,6.92,96,40,48,Wheat,Powdery Mildew
+22.1,63.8,150.4,5.89,83,61,25,Potato,Early Blight
+24,76.7,187,6.6,75,49,49,Apple,Cedar Apple Rust
+29.8,70.7,197.8,6.37,86,44,26,Cotton,Leaf Spot
+28.8,76.2,163.8,6.51,92,30,35,Chili,Powdery Mildew
+36.3,74.1,240.3,6.47,96,46,39,Rice,Bacterial Leaf Blight
+23.8,72.3,173.2,6.28,75,29,49,Potato,Late Blight
+28.2,74.5,161.6,6.29,94,48,49,Tomato,Bacterial Spot
+31.8,83.8,250.5,6.14,97,26,35,Chili,Leaf Spot
+20.7,60.1,140.5,6.04,69,56,34,Potato,Early Blight
+28.3,81,185.9,6.1,93,34,29,Maize,Common Rust
+20,73.7,199.5,6.11,109,35,33,Wheat,Septoria Leaf Spot
+28.6,68.5,166.5,6.68,91,49,37,Tomato,Bacterial Spot
+18.1,78,174.2,6.11,77,46,45,Apple,Cedar Apple Rust
+21.1,89.1,168.5,5.83,87,32,30,Tomato,Late Blight
+25.5,55.9,122.5,7.92,59,47,32,Potato,Common Scab
+27,63.1,128.3,6.14,94,54,37,Tomato,Early Blight
+32.9,50,265.8,6.66,98,44,38,Rice,Leaf Blast
+21.3,81.8,170.6,6.09,88,38,30,Tomato,Late Blight
+20.1,68.6,172.3,6.14,87,26,46,Potato,Late Blight
+33.4,53,182.5,6.64,110,62,22,Chili,Anthracnose
+28.9,68.9,235.6,5.61,72,39,28,Rice,Brown Spot
+25.4,68,156.2,6.49,95,44,30,Chili,Powdery Mildew
+20.7,81.4,168.2,6.37,95,31,41,Wheat,Septoria Leaf Spot
+23.9,74,186.9,5.84,97,25,44,Wheat,Septoria Leaf Spot
+36.8,91.1,133.5,6.92,124,44,20,Maize,Turcicum Leaf Blight
+26.6,75.5,133.1,7.09,96,50,47,Apple,Fire Blight
+24.7,62.2,124.1,6.31,82,57,39,Tomato,Early Blight
+37.9,44,243.7,6.68,69,56,36,Cotton,Bacterial Blight
+23.2,61.9,141.9,6.62,94,34,36,Wheat,Leaf Rust
+22,76.9,177.5,6.12,80,22,49,Potato,Late Blight
+20,61.6,146.5,6.08,76,53,32,Potato,Early Blight
+29.5,72.6,186.9,6.17,104,31,27,Maize,Common Rust
+18.5,77.1,160.4,5.87,111,36,43,Wheat,Septoria Leaf Spot
+23.5,80.1,198.4,5.89,79,35,49,Apple,Apple Scab
+34,86.6,199.1,6.25,105,44,24,Maize,Gray Leaf Spot
+34.9,80.7,266.3,6.66,98,48,37,Rice,Bacterial Leaf Blight
+23.3,52.4,143.3,7.81,65,48,39,Potato,Common Scab
+21.9,77.1,173.5,6.69,91,54,44,Apple,Cedar Apple Rust
+26.3,53.8,115,6.93,54,55,35,Potato,Common Scab
+35.6,79.5,271.9,6.03,102,46,46,Rice,Bacterial Leaf Blight
+30.6,68.7,141.7,6.32,89,40,45,Tomato,Bacterial Spot
+25.2,50.1,102.9,7.11,56,53,39,Potato,Common Scab
+22.1,48.7,108.6,6.91,54,41,36,Potato,Common Scab
+24.7,69.5,157.4,5.95,60,63,29,Potato,Early Blight
+23.3,71.1,156.4,6.33,87,31,47,Potato,Late Blight
+31.1,49.3,212.1,6.39,61,56,39,Cotton,Bacterial Blight
+32.7,47.7,288.1,6.14,85,36,34,Rice,Leaf Blast
+19,77.7,165,6.12,90,47,44,Apple,Cedar Apple Rust
+27.1,65.1,164.8,6.07,100,46,36,Wheat,Leaf Rust
+27.3,61.1,133.3,6.01,94,54,25,Tomato,Early Blight
+23.1,59.8,118.2,7.53,52,49,30,Potato,Common Scab
+33.3,46.5,287.3,6.3,87,38,37,Rice,Leaf Blast
+21.1,63.1,127.5,6.56,90,43,47,Wheat,Powdery Mildew
+21.5,76.8,180.7,5.81,103,35,36,Wheat,Septoria Leaf Spot
+21.4,78.6,182.3,6.52,82,26,47,Potato,Late Blight
+28.1,72.1,210.6,5.92,76,33,28,Rice,Brown Spot
+26.8,54.2,122.3,7.12,58,50,40,Potato,Common Scab
+34.9,72.5,275.7,6.45,104,40,35,Rice,Bacterial Leaf Blight
+27,66.4,151.2,6.39,104,50,41,Tomato,Bacterial Spot
+35.1,52.2,253.9,6.35,92,32,39,Rice,Leaf Blast
+18.9,78.4,183.1,6.11,79,40,49,Apple,Cedar Apple Rust
+27.3,77.9,174.5,6.74,110,45,26,Maize,Common Rust
+30.4,71.7,212.4,6.36,92,29,30,Rice,Brown Spot
+31.3,85.9,267.9,6.45,96,34,41,Chili,Leaf Spot
+34,93.3,148.5,7.08,110,48,26,Maize,Turcicum Leaf Blight
+30.7,68,212.1,5.61,86,30,28,Rice,Brown Spot
+16.9,89.3,197.9,5.98,72,41,40,Apple,Apple Scab
+30,89.8,291.6,6.46,100,32,37,Chili,Leaf Spot
+30.6,70.3,151.6,6.87,95,62,36,Tomato,Early Blight
+21.5,75.4,166.6,6.2,111,34,35,Wheat,Septoria Leaf Spot
+22.2,80.2,198.2,6.04,86,31,33,Tomato,Late Blight
+25.7,65.3,122.1,6.06,83,57,25,Tomato,Early Blight
+19,80.1,194.8,5.73,81,36,42,Tomato,Late Blight
+30.2,50.1,182.3,6.7,113,57,18,Chili,Anthracnose
+22.3,75,135.7,7.24,92,59,58,Apple,Fire Blight
+24.7,67,147.1,5.84,75,64,26,Potato,Early Blight
+32.7,45.5,198.6,6.53,112,60,16,Chili,Anthracnose
+34.4,89.6,233.6,6.61,98,36,42,Rice,Bacterial Leaf Blight
+33.7,75.9,185.7,6.34,97,48,19,Maize,Gray Leaf Spot
+35.7,80.6,225.5,6.45,109,47,48,Rice,Bacterial Leaf Blight
+27.2,72.2,150.1,6.41,93,56,29,Tomato,Early Blight
+22.5,67.4,175.8,6.44,75,32,41,Potato,Late Blight
+28.1,72.8,150.3,6.7,99,39,30,Chili,Powdery Mildew
+24.3,65,127.2,6.42,98,36,40,Wheat,Powdery Mildew
+24.7,77.3,174.6,6.98,91,50,37,Apple,Cedar Apple Rust
+32.9,84.8,187,6.16,96,43,29,Maize,Gray Leaf Spot
+27.7,74.1,165.7,6.78,96,44,30,Chili,Powdery Mildew
+35.7,50.3,270,6.78,94,34,31,Rice,Leaf Blast
+30.8,76.4,154.6,6.24,91,50,45,Tomato,Bacterial Spot
+23.5,79.7,164,7.23,97,56,58,Apple,Fire Blight
+23.9,58.5,127.8,6.82,101,42,47,Wheat,Powdery Mildew
+29.4,69.7,173.9,6.83,82,52,39,Cotton,Verticillium Wilt
+20.4,56.9,129.2,6.89,91,39,44,Wheat,Powdery Mildew
+30.4,83.3,250.5,6.1,97,33,37,Chili,Leaf Spot
+33.6,69,210.2,6.67,93,41,28,Cotton,Leaf Spot
+21.6,66.7,152.6,6.12,79,51,29,Potato,Early Blight
+35.2,47.4,253.9,6.48,96,38,38,Rice,Leaf Blast
+24,76.7,148,7.48,85,46,51,Apple,Fire Blight
+20.1,76.9,148.3,6.29,82,29,40,Potato,Late Blight
+27.8,72.8,147.1,6.13,99,51,26,Tomato,Early Blight
+20.8,80.6,167.6,6.04,91,53,37,Apple,Cedar Apple Rust
+22.6,67,140.9,6.19,84,53,29,Potato,Early Blight
+30.1,85.5,258.5,6.01,105,29,42,Chili,Leaf Spot
+25.8,65.1,152.9,6.33,85,37,33,Chili,Powdery Mildew
+20.3,54.5,130,5.73,74,35,31,Wheat,Leaf Rust
+32.9,36.6,206.9,5.86,54,50,37,Cotton,Bacterial Blight
+18.4,77.5,166,6.06,76,33,46,Potato,Late Blight
+31.3,70.1,161.3,6.62,91,40,42,Tomato,Bacterial Spot
+22.9,66.8,164.1,6,79,25,43,Potato,Late Blight
+23.2,82.3,189.6,6.3,87,52,43,Apple,Cedar Apple Rust
+27.6,75.5,184.2,6.48,101,32,31,Chili,Powdery Mildew
+26.8,73.6,173.8,6.75,94,49,35,Tomato,Bacterial Spot
+25.1,76.6,182.8,6.35,100,33,29,Maize,Common Rust
+28.2,85.7,205.4,6.36,106,37,18,Maize,Gray Leaf Spot
+19,83.7,198.1,5.59,77,36,38,Tomato,Late Blight
+25.9,67.8,185.4,6.09,73,36,29,Cotton,Leaf Spot
+21.1,63.3,133.6,6.16,74,60,32,Potato,Early Blight
+23.5,67.7,153.3,6.49,77,32,44,Potato,Late Blight
+24.9,61.9,139.8,6.75,107,37,44,Wheat,Powdery Mildew
+21.9,65.4,157.2,6.05,62,64,31,Potato,Early Blight
+31.5,82.1,274.8,6.17,102,28,43,Chili,Leaf Spot
+22.4,56,124.6,6.74,95,44,45,Wheat,Powdery Mildew
+34.6,45.8,194.4,6.86,107,53,22,Chili,Anthracnose
+27.8,68.9,144.4,6.11,93,56,30,Tomato,Early Blight
+19.5,83,186.8,6.16,104,28,39,Wheat,Septoria Leaf Spot
+36.1,85.8,238.4,6.04,108,40,36,Rice,Bacterial Leaf Blight
+34.5,47.8,198.6,6.96,109,51,19,Chili,Anthracnose
+31.5,87.2,283.5,6.4,100,31,39,Chili,Leaf Spot
+30.4,47,235.3,6.41,79,54,40,Cotton,Bacterial Blight
+29.2,69,202.3,6.71,87,48,25,Cotton,Leaf Spot
+35,51.5,280.7,6.47,97,30,38,Rice,Leaf Blast
+23.2,73.1,152.8,6.28,73,49,40,Apple,Apple Scab
+29.7,74.4,153.4,6.73,90,33,32,Chili,Powdery Mildew
+34.8,75.9,197.5,6.09,90,38,30,Cotton,Leaf Spot
+30.1,64.3,210.6,6.02,75,31,28,Rice,Brown Spot
+30.2,51.4,263.1,6.33,88,42,38,Rice,Leaf Blast
+35,67.5,182.7,6.33,89,38,28,Cotton,Leaf Spot
+31.5,53.3,285.2,6.77,91,39,34,Rice,Leaf Blast
+34.8,87.1,151.2,6.91,110,53,21,Maize,Turcicum Leaf Blight
+36.6,74.4,236.2,6.24,109,37,43,Rice,Bacterial Leaf Blight
+24.3,75.3,164.2,6.08,80,46,44,Apple,Cedar Apple Rust
+22.7,76.8,172.1,6.11,112,36,34,Wheat,Septoria Leaf Spot
+26.9,60.2,156,6.54,100,48,35,Wheat,Leaf Rust
+28.4,76.3,159.8,6.6,85,42,31,Chili,Powdery Mildew
+31.1,69.6,210.4,6.19,92,37,25,Cotton,Leaf Spot
+18.6,83.6,169.3,6,79,41,36,Apple,Cedar Apple Rust
+27.5,62.9,162.9,6.44,86,49,37,Wheat,Leaf Rust
+32,54.9,200.5,7.32,74,41,39,Cotton,Verticillium Wilt
+25.9,83.1,166.8,6.26,100,40,29,Maize,Common Rust
+27.7,73.7,152.1,6.35,97,42,39,Chili,Powdery Mildew
+28.7,82.7,189.9,6.04,107,47,26,Maize,Gray Leaf Spot
+18.5,83.7,195.3,5.75,84,39,41,Tomato,Late Blight
+26.2,56.1,105.7,7.63,65,53,41,Potato,Common Scab
+20.1,93.8,195.2,5.84,80,34,34,Tomato,Late Blight
+24.7,62.1,121.8,6.27,95,54,33,Tomato,Early Blight
+27.9,65.7,161,6.27,97,33,36,Wheat,Leaf Rust
+31.1,51,215.7,6.33,83,54,43,Cotton,Bacterial Blight
+30.6,61.6,188.8,7.43,78,44,39,Cotton,Verticillium Wilt
+22.2,67.5,150.9,6.02,86,29,44,Potato,Late Blight
+33.8,56.4,203.7,6.97,102,53,24,Chili,Anthracnose
+31.8,50.5,197.1,6.82,70,53,31,Cotton,Verticillium Wilt
+35.4,88.6,149.2,6.91,120,43,21,Maize,Turcicum Leaf Blight
+23.6,55.2,140.1,6.88,108,39,47,Wheat,Powdery Mildew
+26.8,45.1,139.9,7.52,66,45,30,Potato,Common Scab
+26.1,45,125.5,6.58,55,41,39,Potato,Common Scab
+20.3,63.4,154.1,5.8,68,55,30,Potato,Early Blight
+20,76.6,194.3,6.35,112,28,43,Wheat,Septoria Leaf Spot
+24.2,53.8,125,6.61,63,44,40,Potato,Common Scab
+23.8,49.1,133.7,6.97,65,57,36,Potato,Common Scab
+21.7,68.5,162.4,7,93,51,48,Apple,Fire Blight
+27.2,84.8,152.3,6.3,101,37,34,Maize,Common Rust
+19,70,171.5,6.26,78,33,48,Potato,Late Blight
+28.6,66.7,216.3,6.94,92,45,32,Cotton,Leaf Spot
+28.2,51.2,193.8,6.83,83,44,35,Cotton,Verticillium Wilt
+23,84.1,153,6.47,74,39,42,Apple,Apple Scab
+22.6,85.4,191,6.03,88,34,36,Tomato,Late Blight
+31.5,80.7,293.8,6.26,103,28,37,Chili,Leaf Spot
+34.1,84.8,265.4,6.67,94,43,43,Rice,Bacterial Leaf Blight
+24.5,58.9,104.2,7.65,58,53,33,Potato,Common Scab
+20.8,60.7,149.3,5.81,74,64,30,Potato,Early Blight
+24.4,62.5,126.7,6.64,98,44,41,Wheat,Powdery Mildew
+35.5,89,271.5,6.23,94,38,48,Rice,Bacterial Leaf Blight
+20.2,68,148.8,5.83,81,63,25,Potato,Early Blight
+22.4,50.8,132.1,7.85,54,41,43,Potato,Common Scab
+31.9,87.9,298.2,6.35,96,29,41,Chili,Leaf Spot
+34.9,79.5,188,6.18,91,44,32,Cotton,Leaf Spot
+34.1,49.6,243.8,6.53,66,48,43,Cotton,Bacterial Blight
+33.9,61.6,255.9,6.14,80,35,29,Rice,Brown Spot
+27.6,54.9,193.7,6.92,89,45,39,Cotton,Verticillium Wilt
+18.7,80.8,180.5,6.68,87,47,42,Apple,Cedar Apple Rust
+27.1,74.2,165,7.03,81,51,57,Apple,Fire Blight
+23.8,74.8,152,6.34,76,20,42,Potato,Late Blight
+30.9,65.3,142.6,6.47,99,42,39,Tomato,Bacterial Spot
+35.8,52.9,223.5,6.49,69,54,39,Cotton,Bacterial Blight
+20.6,61.6,127.1,6.81,101,44,43,Wheat,Powdery Mildew
+23.9,77.5,178.2,6.4,97,33,38,Wheat,Septoria Leaf Spot
+33.4,67.7,209.2,6.15,85,35,32,Rice,Brown Spot
+33.4,79.8,173.5,6.04,112,45,25,Maize,Gray Leaf Spot
+33,68.2,216.1,6.81,88,46,29,Cotton,Leaf Spot
+30.5,86.6,264.4,6.07,98,31,43,Chili,Leaf Spot
+22.8,84.5,170.7,6.2,96,33,37,Wheat,Septoria Leaf Spot
+37,86.9,146.6,7.09,123,53,25,Maize,Turcicum Leaf Blight
+32.5,58.7,209,6.63,76,48,38,Cotton,Bacterial Blight
+35.5,55.2,229,7.23,113,56,25,Chili,Anthracnose
+32.8,65.3,238.5,5.67,72,36,25,Rice,Brown Spot
+25.6,70.4,217.3,5.27,83,25,30,Chili,Leaf Spot
+31.3,52.5,173.6,7.35,88,47,35,Cotton,Verticillium Wilt
+27.2,60,170.3,7.26,80,53,35,Cotton,Verticillium Wilt
+33.3,91.2,137.3,7.2,124,48,26,Maize,Turcicum Leaf Blight
+31.2,39.8,232.1,6.54,82,50,37,Cotton,Bacterial Blight
+33.9,67.4,200.6,5.6,76,33,25,Rice,Brown Spot
+21.3,80.9,181.2,5.53,75,39,34,Tomato,Late Blight
+28.2,72.1,176,5.93,98,32,25,Maize,Common Rust
+29.4,53.2,201.6,6.95,88,47,32,Cotton,Verticillium Wilt
+32.9,87.3,133.2,6.86,115,44,24,Maize,Turcicum Leaf Blight
+34.1,71,212.8,6.59,99,46,32,Cotton,Leaf Spot
+30.8,77.9,189.1,6.54,99,44,33,Cotton,Leaf Spot
+22.3,59.1,120.3,7.11,66,56,34,Potato,Common Scab
+25,69,139.1,6.44,98,40,44,Wheat,Leaf Rust
+30.2,83,186.9,6.2,113,37,25,Maize,Gray Leaf Spot
+19.1,82.6,185.6,6.14,82,34,32,Tomato,Late Blight
+20.6,74.2,178,6.12,76,22,48,Potato,Late Blight
+30.1,65.3,158.6,6.74,89,40,41,Tomato,Bacterial Spot
+32,50.5,195.8,6.68,104,57,20,Chili,Anthracnose
+27.2,67.5,157,6.19,100,45,38,Wheat,Leaf Rust
+33,82.5,198.1,6.4,106,39,21,Maize,Gray Leaf Spot
+22.1,54.1,143.1,6.54,103,37,46,Wheat,Powdery Mildew
+36.5,88.6,186.8,7.28,97,45,50,Tomato,Bacterial Spot
+23,58.4,130,7.86,65,51,39,Potato,Common Scab
+26.5,69.7,168.4,6.63,80,52,36,Cotton,Verticillium Wilt
+26,53.3,120.8,6.71,65,45,37,Potato,Common Scab
+24.5,74.9,143.3,7.17,98,54,47,Apple,Fire Blight
+21,87.3,197.8,5.93,71,47,52,Apple,Apple Scab
+21.4,73.4,166.1,6.34,87,24,48,Potato,Late Blight
+29.8,79.3,201.7,6.66,110,44,18,Maize,Gray Leaf Spot
+23.1,64.9,129.4,6.6,91,39,42,Wheat,Powdery Mildew
+37.2,94.4,132.4,6.94,124,41,26,Maize,Turcicum Leaf Blight
+21.3,51.8,137.5,6.98,97,35,43,Wheat,Powdery Mildew
+30.8,80.1,163.8,6.33,95,50,46,Tomato,Bacterial Spot
+32,66,230.8,6.06,77,30,25,Rice,Brown Spot
+23.7,67.3,160.1,6.47,81,29,43,Potato,Late Blight
+23.7,81.1,163.5,6.34,103,32,30,Wheat,Septoria Leaf Spot
+35,86.5,244.1,6.1,91,35,40,Rice,Bacterial Leaf Blight
+26.1,67.4,175.1,6.74,99,35,35,Chili,Powdery Mildew
+25.1,68.4,138.7,6.29,91,59,33,Tomato,Early Blight
+18.4,72.7,173.2,6.23,75,31,42,Potato,Late Blight
+28.5,56.7,167.7,6.57,87,50,31,Cotton,Verticillium Wilt
+33.9,70.6,223.7,6.21,86,37,31,Cotton,Leaf Spot
+27.1,74.4,169.1,6.6,88,59,50,Apple,Fire Blight
+34.3,86.5,136.9,7.05,106,46,26,Maize,Turcicum Leaf Blight
+31.5,48.2,266.7,6.31,90,42,38,Rice,Leaf Blast
+22.7,80.2,160.2,5.85,82,32,37,Tomato,Late Blight
+19.6,70.6,178.2,6.51,106,37,44,Wheat,Septoria Leaf Spot
+20.9,75,149.9,6.01,79,30,42,Potato,Late Blight
+33.4,91.8,142.9,6.85,119,43,21,Maize,Turcicum Leaf Blight
+23.4,49.6,131.6,7.17,65,56,42,Potato,Common Scab
+29.7,84.3,185.3,6.19,102,43,32,Maize,Common Rust
+34,51.2,264.1,6.49,86,40,35,Rice,Leaf Blast
+29.9,77.8,160.3,6.49,91,42,49,Tomato,Bacterial Spot
+30.6,86.5,254.7,6.16,114,31,42,Chili,Leaf Spot
+21.2,74.8,191.8,6.52,74,49,49,Apple,Apple Scab
+27.8,68.4,154.1,6.64,97,41,44,Tomato,Bacterial Spot
+24.6,68.1,149,6.15,80,52,33,Potato,Early Blight
+16.3,88,190.3,5.87,74,47,52,Apple,Apple Scab
+18.4,67.5,163.2,6.17,87,26,42,Potato,Late Blight
+25.3,69.2,121.6,6.48,98,50,32,Tomato,Early Blight
+28.6,77.7,156.4,6.43,95,40,32,Maize,Common Rust
+26.4,70.7,182.6,6.31,86,34,34,Chili,Powdery Mildew
+23.8,69.6,154,6.56,92,46,37,Wheat,Leaf Rust
+24,70.4,193.4,6.09,111,33,43,Wheat,Septoria Leaf Spot
+27.7,72.2,157.1,7.01,98,50,48,Apple,Fire Blight
+18,84,163.7,6.24,78,42,47,Apple,Cedar Apple Rust
+31.9,58.1,150.7,6.67,83,49,37,Cotton,Verticillium Wilt
+22.4,84.7,166.2,5.98,99,36,32,Wheat,Septoria Leaf Spot
+27,53.4,112.8,6.83,57,47,31,Potato,Common Scab
+33.6,77.1,190.4,6.34,82,36,34,Cotton,Leaf Spot
+24.6,68.2,158.5,6.09,75,56,34,Potato,Early Blight
+21.2,75.7,156,6.24,87,26,43,Potato,Late Blight
+22,84.7,167.6,5.83,76,40,37,Tomato,Late Blight
+22,52.1,141.4,6.58,100,41,49,Wheat,Powdery Mildew
+23.8,72.2,155.1,6.55,76,45,43,Apple,Apple Scab
+33.8,54.6,207.7,6.89,103,62,21,Chili,Anthracnose
+28.8,78.6,176.5,6.23,86,43,38,Tomato,Bacterial Spot
+32.6,57.5,181,6.63,109,51,22,Chili,Anthracnose
+23.2,75.8,147.4,6.35,83,21,44,Potato,Late Blight
+25.8,84.3,159,6.12,92,39,28,Maize,Common Rust
+25,49.4,105.5,7.48,64,46,39,Potato,Common Scab
+23.4,55.9,124,6.5,108,43,49,Wheat,Powdery Mildew
+16.6,75.2,187.4,5.96,86,36,40,Apple,Apple Scab
+20.5,69.2,134.1,6.18,71,52,30,Potato,Early Blight
+29.9,80.3,189,5.84,92,36,28,Maize,Common Rust
+20.6,74.2,147.9,6.44,87,27,49,Potato,Late Blight
+24.4,58.4,148.8,6.43,91,35,41,Wheat,Powdery Mildew
+31,88.8,298.2,6.16,110,27,40,Chili,Leaf Spot
+35,93.6,146.4,6.96,107,45,27,Maize,Turcicum Leaf Blight
+34.6,50.6,195.2,6.68,105,61,18,Chili,Anthracnose
+35.8,93.7,152.4,7,114,49,24,Maize,Turcicum Leaf Blight
+23.4,84.3,178.9,6.03,70,45,43,Apple,Apple Scab
+29.8,78,165.1,6.33,100,30,32,Maize,Common Rust
+21.4,73.1,189.7,5.84,112,27,43,Wheat,Septoria Leaf Spot
+21.6,68.1,137.6,6.07,79,58,29,Potato,Early Blight
+27.9,65.7,182.8,7.05,71,45,32,Cotton,Verticillium Wilt
+30.6,88.9,190.9,6.13,100,40,24,Maize,Gray Leaf Spot
+18.1,80.6,169.4,6.5,81,36,49,Apple,Apple Scab
+25.5,76.3,171.5,6.54,86,53,49,Tomato,Bacterial Spot
+24.9,61.4,149,6.66,95,42,43,Wheat,Powdery Mildew
+19.5,78,195.8,6.03,75,40,52,Apple,Apple Scab
+33.4,85.3,208.8,6.36,107,43,22,Maize,Gray Leaf Spot
+35.4,48.2,283.5,6.39,94,35,32,Rice,Leaf Blast
+34.4,48.4,288.3,6.52,92,39,30,Rice,Leaf Blast
+21.9,62.9,140.7,6.09,67,58,29,Potato,Early Blight
+21.2,51.9,127.7,6.61,103,35,42,Wheat,Powdery Mildew
+19.4,93.8,177.1,5.91,81,35,33,Tomato,Late Blight
+32.9,92.2,135.6,7.1,114,46,28,Maize,Turcicum Leaf Blight
+35.7,57.7,245.1,6.46,83,45,38,Cotton,Bacterial Blight
+30.2,75,222,6.36,88,49,32,Cotton,Leaf Spot
+30,76.8,184.1,5.95,100,44,34,Maize,Common Rust
+22.4,74.4,159,6.54,90,53,46,Apple,Fire Blight
+21,89.2,188.8,5.72,75,42,31,Tomato,Late Blight
+36.6,86.5,226.5,7.36,94,49,37,Cotton,Leaf Spot
+27.3,63,141.4,6.23,92,37,40,Wheat,Leaf Rust
+20.1,61.6,151.5,6.06,60,53,27,Potato,Early Blight
+19.4,83.7,174.9,6.37,88,45,40,Apple,Cedar Apple Rust
+20.9,76.1,199.5,5.84,97,25,39,Wheat,Septoria Leaf Spot
+18.9,66.8,155.6,6.05,85,20,45,Potato,Late Blight
+25.8,84.6,162.6,6.1,95,38,25,Maize,Common Rust
+28.4,66.6,203.8,6.91,70,52,31,Cotton,Verticillium Wilt
+23,73.7,143.1,6.3,100,36,44,Wheat,Leaf Rust
+25.7,77,164.3,6.19,104,40,30,Maize,Common Rust
+29.4,84.6,178.7,6.28,101,31,26,Maize,Common Rust
+31.8,57.7,196,6.57,115,60,20,Chili,Anthracnose
+22.7,92.2,215.5,6.53,85,44,38,Tomato,Late Blight
+22.3,72,193.4,5.92,101,28,35,Wheat,Septoria Leaf Spot
+34.2,90.2,153.4,7.02,124,46,27,Maize,Turcicum Leaf Blight
+29.2,54.7,206.5,7.09,76,46,38,Cotton,Verticillium Wilt
+22.6,79.2,188.5,6.89,85,49,35,Apple,Cedar Apple Rust
+30.4,83.5,179.7,6.06,95,38,16,Maize,Gray Leaf Spot
+26,81.7,182.2,6.38,99,32,25,Maize,Common Rust
+32.7,80.9,178.8,7.07,101,53,50,Tomato,Bacterial Spot
+28.3,87.9,276.5,6.01,95,31,43,Chili,Leaf Spot
+23.2,64.6,146.4,6.18,69,64,34,Potato,Early Blight
+26.1,54.8,180.9,7.07,74,51,33,Cotton,Verticillium Wilt
+20.4,86.3,193.1,5.83,79,41,42,Tomato,Late Blight
+23.9,77,178.6,6.24,76,28,44,Potato,Late Blight
+33,68.8,184.5,6.08,88,49,27,Cotton,Leaf Spot
+25.3,62.8,158.8,6.41,97,39,43,Wheat,Leaf Rust
+33.7,77.4,191.9,6.32,89,43,27,Cotton,Leaf Spot
+25.4,76.3,150.4,6.78,95,44,30,Chili,Powdery Mildew
+33.2,85.1,196.6,6.42,99,41,25,Maize,Gray Leaf Spot
+20.2,77,184.2,6.81,84,47,45,Apple,Cedar Apple Rust
+25.6,48,135.6,6.93,57,41,31,Potato,Common Scab
+23.8,73.4,177.8,6.03,81,23,47,Potato,Late Blight
+20.9,43.2,123.4,6,54,39,27,Potato,Common Scab
+28,78.6,165.9,6.49,107,41,30,Maize,Common Rust
+26.5,66.4,170,7.11,97,45,50,Apple,Fire Blight
+24.2,62.2,138.4,6.62,95,36,43,Wheat,Powdery Mildew
+16.5,87.7,167.1,5.93,82,40,52,Apple,Apple Scab
+30.3,52.9,196.2,6.93,101,53,19,Chili,Anthracnose
+21.8,51.3,136.7,6.91,105,36,46,Wheat,Powdery Mildew
+18.8,84.9,160.7,6.55,81,47,43,Apple,Cedar Apple Rust
+33.7,60,214.9,6.15,88,35,32,Rice,Brown Spot
+26.6,78.8,144.4,6.34,89,54,35,Tomato,Bacterial Spot
+25.8,60.7,201.5,7.24,74,45,35,Cotton,Verticillium Wilt
+26.9,64.4,147.9,6.58,98,49,37,Wheat,Leaf Rust
+28.4,86.2,183.5,6.25,97,37,17,Maize,Gray Leaf Spot
+21.5,92.9,167.2,6.17,75,44,42,Tomato,Late Blight
+31.2,88.1,175,6.35,104,35,21,Maize,Gray Leaf Spot
+19.9,83,195.3,6.08,96,35,34,Wheat,Septoria Leaf Spot
+26.3,83.3,180.9,6.45,91,39,26,Maize,Common Rust
+23,52.3,149,6.67,100,37,44,Wheat,Powdery Mildew
+21.9,69.5,152,6.04,63,52,25,Potato,Early Blight
+34,75.5,173.6,6.05,102,47,27,Maize,Gray Leaf Spot
+27.3,73.6,149.7,6.26,87,49,35,Wheat,Leaf Rust
+26.3,65.2,156.4,6.5,81,51,57,Apple,Fire Blight
+22.8,67,154.2,6.34,85,45,35,Wheat,Leaf Rust
+34.3,94,130.6,6.99,123,45,24,Maize,Turcicum Leaf Blight
+30.7,87.6,271.5,6.43,98,27,35,Chili,Leaf Spot
+30.9,86.4,276,6.34,103,27,35,Chili,Leaf Spot
+27.5,76.6,187.9,6.27,91,34,31,Chili,Powdery Mildew
+32.5,86.2,263.1,6.73,92,45,45,Rice,Bacterial Leaf Blight
+18.2,67,178.7,6.27,89,26,43,Potato,Late Blight
+22.1,84.2,170.7,6.45,96,33,31,Wheat,Septoria Leaf Spot
+26.8,48,138.1,7.99,64,59,38,Potato,Common Scab
+23.1,68.4,174.3,6.14,84,30,45,Potato,Late Blight
+26.4,73.3,174.9,6.51,86,48,46,Tomato,Bacterial Spot
+33.4,83.9,203,6.38,99,40,20,Maize,Gray Leaf Spot
+36.5,48.1,212.6,6.49,60,52,40,Cotton,Bacterial Blight
+29.8,84.8,192.3,7.06,92,55,42,Tomato,Bacterial Spot
+19.9,89.5,184.8,6.29,85,46,53,Apple,Apple Scab
+23.8,79.5,171.2,6.07,86,20,40,Potato,Late Blight
+30.8,45.7,185.9,6.79,115,52,16,Chili,Anthracnose
+23.1,78.6,177.1,6.91,94,43,37,Apple,Cedar Apple Rust
+18.5,68.6,172.8,6.02,83,34,48,Potato,Late Blight
+21.5,86.2,183.9,5.8,81,43,32,Tomato,Late Blight
+18.9,89.1,162.3,5.93,83,39,43,Tomato,Late Blight
+32.2,69.7,222.4,6.17,70,29,34,Rice,Brown Spot
+29.6,66.5,187.4,6.7,94,45,28,Cotton,Leaf Spot
+34.1,85.3,146.1,7.17,116,54,21,Maize,Turcicum Leaf Blight
+24.4,67.4,150.9,6.08,68,54,33,Potato,Early Blight
+23.8,66.4,168.5,6.22,88,22,46,Potato,Late Blight
+24.5,65.1,168.5,6.36,94,37,44,Wheat,Leaf Rust
+33.7,45.4,259.3,6.72,96,35,33,Rice,Leaf Blast
+30.5,52.1,259.8,6.65,90,36,34,Rice,Leaf Blast
+34.7,53.5,198.3,6.53,117,54,21,Chili,Anthracnose
+20.6,75.9,171.8,6.08,84,22,47,Potato,Late Blight
+34.3,70.1,229.9,6,80,47,26,Cotton,Leaf Spot
+26.7,65,157.9,6.42,99,55,30,Tomato,Early Blight
+30.4,73.6,240.2,6.57,94,44,40,Rice,Bacterial Leaf Blight
+23.6,67.6,161.1,6.69,101,37,41,Wheat,Leaf Rust
+32.5,84,257.4,6.19,99,45,42,Rice,Bacterial Leaf Blight
+20.4,74.3,182.3,6.04,96,25,36,Wheat,Septoria Leaf Spot
+18.7,88,182.7,6.15,84,32,36,Tomato,Late Blight
+31.4,67.1,229.7,6.01,71,35,33,Rice,Brown Spot
+25.5,75,158.2,6.47,96,48,32,Tomato,Early Blight
+32.6,50,270.2,6.64,91,44,35,Rice,Leaf Blast
+23.2,59,125.4,6.82,99,41,48,Wheat,Powdery Mildew
+31.6,46.6,247.3,6.42,76,56,39,Cotton,Bacterial Blight
+36.9,87.7,156.5,6.82,123,48,26,Maize,Turcicum Leaf Blight
+34.3,74.2,258,6.98,96,41,45,Rice,Bacterial Leaf Blight
+23.4,72.1,165.6,7.15,89,46,45,Apple,Fire Blight
+31.4,47.6,274,6.48,98,35,33,Rice,Leaf Blast
+30.4,62.6,215.3,5.68,81,31,34,Rice,Brown Spot
+21.8,50.8,121,6.65,91,41,48,Wheat,Powdery Mildew
+26.1,66,169.3,6.3,99,33,33,Chili,Powdery Mildew
+22.7,73.7,139.6,7.3,95,49,55,Apple,Fire Blight
+23.7,65.3,151.9,6,84,33,42,Potato,Late Blight
+18.9,77.6,161.6,6.44,83,42,40,Apple,Apple Scab
+27.4,56.7,152.5,7.1,87,45,37,Cotton,Verticillium Wilt
+30.3,50.7,288.2,6.37,88,43,30,Rice,Leaf Blast
+34,89.9,204.3,6.04,114,44,27,Maize,Gray Leaf Spot
+36.6,61.9,214.4,7.24,127,55,24,Chili,Anthracnose
+26.8,69.6,197.8,6.8,86,51,32,Cotton,Verticillium Wilt
+18.5,70.3,164.1,6.13,113,34,42,Wheat,Septoria Leaf Spot
+26.1,62.5,142.4,6.4,100,44,41,Wheat,Leaf Rust
+33.6,53.4,252.2,6.42,98,30,32,Rice,Leaf Blast
+20.4,83.5,160.3,6.64,77,52,46,Apple,Cedar Apple Rust
+25.4,75.2,177.5,6.74,92,38,30,Chili,Powdery Mildew
+25.5,45.9,133.6,6.51,54,54,34,Potato,Common Scab
+22.9,83.5,165.9,6.33,83,54,40,Apple,Cedar Apple Rust
+30.2,73.7,246.8,6.03,82,34,31,Rice,Brown Spot
+19.1,77,161,6.24,77,21,47,Potato,Late Blight
+21.4,68.7,136.7,6.19,60,64,25,Potato,Early Blight
+33.2,75,209.1,6.49,83,48,27,Cotton,Leaf Spot
+36.5,89.3,146.4,6.82,106,52,20,Maize,Turcicum Leaf Blight
+24.3,55.8,126.3,7.56,50,44,39,Potato,Common Scab
+33.6,50.8,243.9,6.73,71,45,39,Cotton,Bacterial Blight
+29.2,66.8,247.8,5.91,71,33,32,Rice,Brown Spot
+28.4,68.6,170.8,6.36,99,52,46,Tomato,Bacterial Spot
+19.6,77,155.9,6.23,75,21,43,Potato,Late Blight
+28.1,80.5,297.9,6.14,112,28,36,Chili,Leaf Spot
+20.6,59.2,148.2,6.8,91,38,45,Wheat,Powdery Mildew
+22.4,70.5,130.4,6.33,91,43,42,Wheat,Leaf Rust
+20.8,69,131.1,7.38,92,57,52,Apple,Fire Blight
+34.1,86.6,136.9,6.83,123,47,23,Maize,Turcicum Leaf Blight
+27.2,69.2,155.6,6.61,91,43,36,Chili,Powdery Mildew
+32.4,84.1,181.7,6.65,106,46,18,Maize,Gray Leaf Spot
+31,41.8,217,6.5,68,56,35,Cotton,Bacterial Blight
+29.1,70.1,181.9,6.2,109,38,25,Maize,Common Rust
+28.2,78.6,205.9,6.07,82,40,34,Cotton,Leaf Spot
+25.1,73.6,167.2,6.03,107,41,31,Maize,Common Rust
+26.6,65.7,153.9,7.14,92,54,54,Apple,Fire Blight
+26.8,78.8,199.3,7,100,35,54,Potato,Late Blight
+28.6,70.6,201.9,6.11,72,26,26,Rice,Brown Spot
+30.2,78.2,219.1,6.02,96,39,26,Cotton,Leaf Spot
+26.2,58.1,170.6,6.9,85,47,39,Cotton,Verticillium Wilt
+26.9,69.5,148.7,6.01,82,50,27,Tomato,Early Blight
+27.1,71.1,134,6.47,94,51,31,Tomato,Early Blight
+21.7,63.1,122.5,6.53,105,35,44,Wheat,Powdery Mildew
+32,84,177.7,6.15,95,38,20,Maize,Gray Leaf Spot
+22.8,73.8,175.4,6.1,76,24,40,Potato,Late Blight
+23.1,74.9,158.8,6.8,81,58,55,Apple,Fire Blight
+33.7,47.9,194,6.93,110,60,20,Chili,Anthracnose
+24.2,87.3,214.5,6,91,43,33,Tomato,Late Blight
+30,88.2,270.3,6.49,110,34,40,Chili,Leaf Spot
+31.6,49.7,202.4,6.78,117,54,21,Chili,Anthracnose
+24.7,72.2,165.4,6.07,95,48,38,Wheat,Leaf Rust
+23.2,48.2,117,7.86,60,43,31,Potato,Common Scab
+22.9,54.9,121.2,6.56,90,44,49,Wheat,Powdery Mildew
+32.8,46.6,209.7,6.62,103,57,20,Chili,Anthracnose
+31,87.7,298.5,6.39,99,25,44,Chili,Leaf Spot
+30.8,65.9,251.8,6.15,76,37,32,Rice,Brown Spot
+26,71,153.2,6.33,98,40,31,Maize,Common Rust
+25.3,79.9,179.5,6.25,85,40,34,Chili,Powdery Mildew
+29.4,65.4,166.3,6.22,92,32,32,Chili,Powdery Mildew
+29.3,74.5,205,6.1,83,42,33,Cotton,Leaf Spot
+24.8,60.8,147.1,6.38,103,42,38,Wheat,Leaf Rust
+28.8,73.5,251.9,5.83,84,34,33,Rice,Brown Spot
+31.5,65.5,229.2,5.72,72,28,26,Rice,Brown Spot
+19.6,75.6,165.1,6.02,72,37,40,Apple,Apple Scab
+32.2,51,230.5,6.38,79,56,37,Cotton,Bacterial Blight
+20.9,75.2,170.4,6.81,90,47,42,Apple,Cedar Apple Rust
+28.8,83.6,293.1,6.21,113,29,38,Chili,Leaf Spot
+20.9,84.1,183.4,6.72,85,53,41,Apple,Cedar Apple Rust
+22.7,78.7,165.7,6.82,87,45,41,Apple,Cedar Apple Rust
+32.3,75.4,184.5,5.88,84,42,25,Cotton,Leaf Spot
+21.9,77.6,169.2,6.65,78,49,47,Apple,Cedar Apple Rust
+32.3,51.5,252.2,6.33,91,38,38,Rice,Leaf Blast
+24.2,49.8,123.3,7.06,62,54,40,Potato,Common Scab
+22.8,78.4,189.6,6.33,102,37,34,Wheat,Septoria Leaf Spot
+21.1,50.9,123.9,6.76,106,35,47,Wheat,Powdery Mildew
+26,73.7,159.8,5.7,93,26,23,Maize,Common Rust
+25.5,67,128.4,6.46,81,57,32,Tomato,Early Blight
+29.9,55.1,168.7,6.62,87,47,35,Cotton,Verticillium Wilt
+25.8,80.5,177.7,6.12,92,34,28,Maize,Common Rust
+20.8,89.8,192.5,5.8,76,44,38,Tomato,Late Blight
+26.5,67.2,153.5,6.72,89,46,37,Cotton,Verticillium Wilt
+25.2,74.7,168,7.36,95,59,48,Apple,Fire Blight
+19.2,84.3,176.3,6.17,96,25,40,Wheat,Septoria Leaf Spot
+26.3,74.4,157.9,5.89,94,39,29,Maize,Common Rust
+25.9,80.3,189.8,6.13,104,37,29,Maize,Common Rust
+28.6,71.7,222.5,6.62,85,41,32,Cotton,Leaf Spot
+25.3,68.9,168.8,6.94,72,52,30,Cotton,Verticillium Wilt
+25.9,54.8,201.6,7.42,86,45,32,Cotton,Verticillium Wilt
+29.4,84.5,287.4,6.45,95,30,35,Chili,Leaf Spot
+23.2,60.8,134.8,6.16,75,50,26,Potato,Early Blight
+20.5,80,150.9,7.04,87,55,52,Apple,Fire Blight
+31.1,59.8,205.3,6.89,106,58,16,Chili,Anthracnose
+30.3,52.6,182.5,6.87,110,64,16,Chili,Anthracnose
+21.9,79.8,193,6.13,96,29,44,Wheat,Septoria Leaf Spot
+25.3,78,181.7,6.54,86,34,32,Chili,Powdery Mildew
+26.9,78.5,150.7,6.62,104,40,39,Chili,Powdery Mildew
+22.3,61.3,158.6,6.04,65,60,31,Potato,Early Blight
+29.3,67.9,212.7,6.05,86,37,30,Cotton,Leaf Spot
+25.9,74,155.1,6.2,93,46,35,Tomato,Early Blight
+30.3,65,180.6,7.31,78,41,35,Cotton,Verticillium Wilt
+31.3,53,293.4,6.61,84,43,33,Rice,Leaf Blast
+29.9,65.6,222.4,6.86,91,43,33,Cotton,Leaf Spot
+24.8,68.5,138.8,5.95,81,54,26,Potato,Early Blight
+30.5,76.5,206.4,6.36,103,43,17,Maize,Gray Leaf Spot
+20.6,84.9,171,6.35,87,54,49,Apple,Cedar Apple Rust
+22,54.5,117.9,6.7,69,50,33,Potato,Common Scab
+30.6,57.2,242.9,6.5,77,53,43,Cotton,Bacterial Blight
+25.9,60.4,157.2,6.47,98,59,37,Tomato,Early Blight
+19.8,91.5,194.5,5.76,82,31,36,Tomato,Late Blight
+32.1,92.3,150.8,7.12,110,46,26,Maize,Turcicum Leaf Blight
+29.4,70.7,186.3,6.46,99,43,39,Chili,Powdery Mildew
+19.5,78.3,181.1,6.32,99,37,34,Wheat,Septoria Leaf Spot
+32,68.9,244.2,5.9,71,26,30,Rice,Brown Spot
+31.2,86.6,292.8,6.04,104,34,42,Chili,Leaf Spot
+26.4,66.4,148.5,6.32,83,48,28,Tomato,Early Blight
+27.1,79.7,187.5,5.88,91,42,30,Maize,Common Rust
+19.8,75.5,185.1,6.06,92,41,35,Apple,Cedar Apple Rust
+35.1,76.4,230.1,6.26,90,45,42,Rice,Bacterial Leaf Blight
+20.8,59.9,149.9,6.67,97,39,41,Wheat,Powdery Mildew
+21.1,58.7,133.5,5.57,79,21,40,Potato,Late Blight
+27.9,66.1,156.9,6.67,101,53,35,Tomato,Bacterial Spot
+35,48,289.5,6.32,99,37,33,Rice,Leaf Blast
+29.7,71.4,216.5,6.62,84,42,34,Cotton,Leaf Spot
+32.6,40.6,228.5,6.75,79,54,38,Cotton,Bacterial Blight
+24.1,51.2,136.3,7.57,62,46,42,Potato,Common Scab
+37.6,85.8,158.8,6.9,105,46,23,Maize,Turcicum Leaf Blight
+20.2,78.7,142.2,7.01,82,58,56,Apple,Fire Blight
+23.9,79.5,145.2,6.48,84,33,44,Potato,Late Blight
+37.7,92.5,155.5,6.94,116,49,23,Maize,Turcicum Leaf Blight
+34.4,50.2,253.7,6.4,97,40,38,Rice,Leaf Blast
+35.3,79.8,253.9,6.72,92,46,37,Rice,Bacterial Leaf Blight
+25.8,65.6,178.8,6.37,99,38,31,Chili,Powdery Mildew
+23.2,55.6,132.7,7.32,69,41,37,Potato,Common Scab
+25.2,58,209.2,6.6,78,44,39,Cotton,Verticillium Wilt
+28.2,79.6,163.8,6.41,95,35,30,Chili,Powdery Mildew
+26.3,75.7,146.2,6.52,86,51,43,Tomato,Bacterial Spot
+30.8,80.4,277.3,6.04,114,33,35,Chili,Leaf Spot
+33.6,80.2,246.4,6.51,103,40,38,Rice,Bacterial Leaf Blight
+25.3,61.9,141.6,6.19,89,38,42,Wheat,Leaf Rust
+34.7,54.8,186.9,6.63,109,63,16,Chili,Anthracnose
+23.6,68.2,141.5,7.15,87,53,51,Apple,Fire Blight
+21,66.2,152.7,6.34,76,32,44,Potato,Late Blight
+33.6,70.2,218.7,6.26,86,36,34,Cotton,Leaf Spot
+30.1,85.4,208.1,6.67,106,44,17,Maize,Gray Leaf Spot
+26.8,65.9,156,6.69,87,50,35,Tomato,Bacterial Spot
+20.2,59.9,136,6.46,93,40,42,Wheat,Powdery Mildew
+34.8,70.6,185.3,6.49,97,48,25,Cotton,Leaf Spot
+21.5,80.8,197.7,6.51,105,36,38,Wheat,Septoria Leaf Spot
+37.6,87.2,273.3,6.47,103,48,40,Rice,Bacterial Leaf Blight
+18.1,84.5,184.2,6.42,82,45,45,Apple,Apple Scab
+34.6,55,216.6,6.72,66,53,37,Cotton,Bacterial Blight
+21.7,71.8,165.5,6.08,86,32,42,Potato,Late Blight
+24.4,58.7,130.4,6.88,100,35,45,Wheat,Powdery Mildew
+25.7,57,174.2,6.52,86,45,35,Cotton,Verticillium Wilt
+16.6,89.8,171.1,5.9,72,43,54,Apple,Apple Scab
+33,48.9,190,6.72,110,56,19,Chili,Anthracnose
+29.9,73.4,172.6,6.38,96,36,33,Chili,Powdery Mildew
+21,55.3,140.1,6.69,98,38,45,Wheat,Powdery Mildew
+19.9,79.8,172.2,6.35,77,48,39,Apple,Cedar Apple Rust
+27.3,74.9,146.1,6.3,88,49,38,Tomato,Early Blight
+31.8,51.6,257.9,6.64,86,36,32,Rice,Leaf Blast
+27.2,68.1,140.4,6.68,83,58,58,Apple,Fire Blight
+30.3,80.8,262.9,6.05,101,33,38,Chili,Leaf Spot
+27.4,75,178.7,6.43,98,44,38,Tomato,Bacterial Spot
+18.3,73.1,169.8,6.44,85,32,43,Potato,Late Blight
+23.4,82,164.2,6.66,90,48,48,Apple,Cedar Apple Rust
+33,69.2,262.3,5.65,81,33,34,Rice,Brown Spot
+28.1,67.5,143.8,6.48,94,49,42,Tomato,Bacterial Spot
+30.1,49.3,293.8,6.45,86,41,36,Rice,Leaf Blast
+21.9,58.3,122.3,6.4,103,41,44,Wheat,Powdery Mildew
+24.5,101.5,201.1,6.67,85,48,42,Tomato,Late Blight
+31.9,70.7,241.3,5.72,75,39,34,Rice,Brown Spot
+23.3,74.6,155.8,6.75,91,45,42,Wheat,Leaf Rust
+28.4,79.3,178.2,6.38,107,39,33,Maize,Common Rust
+29.6,84.4,197.8,6.23,111,43,28,Maize,Gray Leaf Spot
+33.6,81.7,135.9,6.55,109,44,23,Maize,Turcicum Leaf Blight
+25.6,73.2,132,6.21,94,34,42,Wheat,Leaf Rust
+29.3,64.5,168.9,7.33,82,45,35,Cotton,Verticillium Wilt
+27.2,70.3,122.3,6.21,91,45,27,Tomato,Early Blight
+16,81.7,162.1,5.97,81,46,44,Apple,Apple Scab
+32.8,59.7,182.2,6.64,104,53,18,Chili,Anthracnose
+23.5,74.1,141.9,6.62,92,32,35,Wheat,Leaf Rust
+36.1,85.9,148.8,6.91,115,51,27,Maize,Turcicum Leaf Blight
+30.9,68.8,145.4,6.32,104,48,37,Tomato,Bacterial Spot
+20.4,61.3,133.8,5.86,63,59,26,Potato,Early Blight
+24,62.8,135.3,6.1,80,64,29,Potato,Early Blight
+32.3,74.5,207.1,6.93,98,42,28,Cotton,Leaf Spot
+32.3,67.7,198.8,6.47,88,37,34,Cotton,Leaf Spot
+26.3,66.1,179.2,6.38,94,31,38,Chili,Powdery Mildew
+19,81.2,169.3,6.44,82,49,42,Apple,Cedar Apple Rust
+28.1,84.1,253.7,6.2,95,33,37,Chili,Leaf Spot
+26.7,51.6,187.6,6.84,83,40,31,Cotton,Verticillium Wilt
+30,76.4,169.2,6.69,103,41,36,Tomato,Bacterial Spot
+34,69.7,199.6,6.36,96,35,28,Cotton,Leaf Spot
+33.3,49,183.5,6.51,102,54,20,Chili,Anthracnose
+32.5,43.9,248.3,6.38,79,59,35,Cotton,Bacterial Blight
+33.1,85.3,240.3,6.18,98,46,41,Rice,Bacterial Leaf Blight
+19.2,75.7,163.6,6.16,85,54,40,Apple,Cedar Apple Rust
+24.3,65.1,132.5,6.39,87,34,38,Wheat,Leaf Rust
+27,74.6,169,6.05,101,42,41,Wheat,Leaf Rust
+36.2,86.8,133.5,7.14,120,44,26,Maize,Turcicum Leaf Blight
+25.6,55.7,196.9,6.65,82,53,36,Cotton,Verticillium Wilt
+30.3,89.4,172.6,6.54,101,35,26,Maize,Gray Leaf Spot
+31.7,89.3,206.4,6.6,109,34,31,Maize,Common Rust
+29.9,77.6,161.6,6.39,94,47,41,Tomato,Bacterial Spot
+15.1,83.1,174.7,6.58,83,49,47,Apple,Apple Scab
+28.2,80.7,161.1,5.8,107,42,26,Maize,Common Rust
+37.6,72.5,232.7,6.03,98,39,48,Rice,Bacterial Leaf Blight
+31,65.1,183.2,6.86,77,53,30,Cotton,Verticillium Wilt
+25.6,82.4,180.4,5.93,104,40,32,Maize,Common Rust
+21.2,72.5,148.7,6.33,87,25,47,Potato,Late Blight
+23.3,82.9,164.4,6.53,92,44,41,Apple,Cedar Apple Rust
+33.4,78.5,188.3,6.13,102,42,15,Maize,Gray Leaf Spot
+21.6,85.7,180.3,6.04,73,47,50,Apple,Apple Scab
+33.2,75.8,190.5,6.34,110,39,18,Maize,Gray Leaf Spot
+30.6,46.5,230,6.56,77,45,37,Cotton,Bacterial Blight
+29,73,150.4,6.19,95,59,25,Tomato,Early Blight
+27.2,63.7,168.7,6.77,89,36,43,Wheat,Leaf Rust
+25.5,74.7,137.5,6.24,89,58,34,Tomato,Early Blight
+17.9,81.3,169.9,5.87,77,41,53,Apple,Apple Scab
+30.4,74.9,215.9,6.56,81,37,27,Cotton,Leaf Spot
+36.5,71,233.2,6.71,105,41,45,Rice,Bacterial Leaf Blight
+30.1,61.6,204.2,5.91,80,36,30,Rice,Brown Spot
+28.5,70.8,212.8,5.64,78,28,30,Rice,Brown Spot
+18.4,78.2,167,5.61,76,48,32,Apple,Cedar Apple Rust
+20.2,87.8,181.8,5.73,77,41,35,Tomato,Late Blight
+33.5,95.3,295.3,7.04,128,37,40,Chili,Leaf Spot
+28.2,78.8,156.1,6.54,100,41,35,Chili,Powdery Mildew
+26,60.9,155,6.28,86,50,29,Tomato,Early Blight
+28.1,69.7,134.6,6.25,98,54,30,Tomato,Early Blight
+20.1,93.3,179.3,6.08,87,42,40,Tomato,Late Blight
+20.8,61.8,155.9,6.18,69,54,31,Potato,Early Blight
+28.1,66,254.4,6.02,80,32,28,Rice,Brown Spot
+37.2,59.5,245.1,6.36,80,51,44,Cotton,Bacterial Blight
+19.6,82.3,200,5.97,100,34,44,Wheat,Septoria Leaf Spot
+24.5,56.9,128.3,6.58,51,48,34,Potato,Common Scab
+22.6,69.9,132.2,6.02,84,57,31,Potato,Early Blight
+29.2,82.7,206.4,6.03,110,43,21,Maize,Gray Leaf Spot
+29.3,77.4,179.8,6.58,98,42,36,Chili,Powdery Mildew
+22.6,78,169.4,6.12,83,54,39,Apple,Cedar Apple Rust
+32.1,56.4,185.2,6.67,104,55,17,Chili,Anthracnose
+21.9,69.7,163,6.58,86,51,47,Apple,Fire Blight
+30.6,47.4,200.3,6.77,100,50,23,Chili,Anthracnose
+18.5,84.8,186.7,6.03,106,26,44,Wheat,Septoria Leaf Spot
+37.8,80.2,264,6.41,97,41,41,Rice,Bacterial Leaf Blight
+31.6,72.4,225.5,5.69,75,33,29,Rice,Brown Spot
+22.4,88.7,198,5.6,89,39,38,Tomato,Late Blight
+29.7,71.4,162.2,6.12,99,38,28,Maize,Common Rust
+20.8,76.8,176.2,6.48,86,24,46,Potato,Late Blight
+27,62.5,184,7.11,80,44,32,Cotton,Verticillium Wilt
+27.9,65.5,144.3,6.28,95,38,43,Wheat,Leaf Rust
+28.7,76.7,229.6,6.53,93,38,29,Cotton,Leaf Spot
+27.1,58.1,208.1,5.45,69,31,27,Rice,Brown Spot
+27.6,83.3,189.6,5.88,92,31,31,Maize,Common Rust
+20.2,67.1,145.4,5.91,81,50,28,Potato,Early Blight
+26.7,77.7,164.4,6.36,102,35,30,Chili,Powdery Mildew
+21.5,80,197.3,5.89,84,39,38,Tomato,Late Blight
+25.8,76.2,175.2,6.35,103,40,26,Maize,Common Rust
+21.9,70.3,198.4,5.84,97,25,38,Wheat,Septoria Leaf Spot
+22.7,63.5,130.3,6.84,103,44,48,Wheat,Powdery Mildew
+27.6,74.3,153.7,6.46,89,33,35,Chili,Powdery Mildew
+27.3,59.3,174.9,6.65,89,46,38,Cotton,Verticillium Wilt
+20.8,62.3,120.2,6.73,105,34,45,Wheat,Powdery Mildew
+28.2,76.5,181.1,6.66,89,44,39,Chili,Powdery Mildew
+29.5,76.5,227.4,6.72,97,44,28,Cotton,Leaf Spot
+33.2,75.3,179.7,6.06,103,48,22,Maize,Gray Leaf Spot
+34,52.8,269.7,6.62,87,43,33,Rice,Leaf Blast
+27.7,77.2,170.1,5.97,103,40,28,Maize,Common Rust
+34.5,59.3,206.4,6.79,108,61,22,Chili,Anthracnose
+33.9,85.1,150.5,6.91,121,45,24,Maize,Turcicum Leaf Blight
+33.5,52.3,270.5,6.61,95,40,30,Rice,Leaf Blast
+24.4,64,134,5.81,78,59,32,Potato,Early Blight
+23.8,89.7,161.2,5.87,75,40,46,Apple,Apple Scab
+21,83,190.5,5.94,85,49,52,Apple,Apple Scab
+33.4,80.1,184.2,6.41,109,35,23,Maize,Gray Leaf Spot
+21.7,51,149.3,6.89,107,44,40,Wheat,Powdery Mildew
+27.2,75.8,158.9,6.08,96,41,31,Maize,Common Rust
+32,83.7,272.9,6.16,98,26,44,Chili,Leaf Spot
+27.9,53.9,194.7,6.63,72,50,32,Cotton,Verticillium Wilt
+23.2,77.1,172.7,6.15,76,26,41,Potato,Late Blight
+28.2,61.8,212.2,5.78,86,30,31,Rice,Brown Spot
+27.3,66.9,152.6,6.53,98,48,44,Wheat,Leaf Rust
+25.6,55.4,105.4,6.95,57,56,34,Potato,Common Scab
+24.1,60.6,137.2,6.31,103,32,42,Wheat,Leaf Rust
+22.4,73.1,165.7,6.25,79,28,46,Potato,Late Blight
+26,64.2,154.1,6.61,80,46,39,Cotton,Verticillium Wilt
+20.4,84.2,188.7,6.12,75,40,41,Tomato,Late Blight
+30.2,88,280.5,6.11,107,31,42,Chili,Leaf Spot
+33.9,74.9,233.3,5.62,76,31,28,Rice,Brown Spot
+23.6,68.6,154.9,5.96,76,53,27,Potato,Early Blight
+26.2,67.8,186.5,7.45,89,45,32,Cotton,Verticillium Wilt
+29.5,74.2,210.2,6.18,70,32,28,Rice,Brown Spot
+31.8,62.3,242.6,5.97,70,31,28,Rice,Brown Spot
+20.9,84.3,175.3,6.14,109,34,34,Wheat,Septoria Leaf Spot
+35.9,42.8,218.4,6.48,83,51,42,Cotton,Bacterial Blight
+28.8,70.3,188.7,6.37,88,39,31,Cotton,Leaf Spot
+24.1,64.8,127.8,6.98,98,38,40,Wheat,Powdery Mildew
+20.9,78.1,183.6,6.05,78,43,49,Apple,Cedar Apple Rust
+32.5,48.6,197.7,6.72,108,55,15,Chili,Anthracnose
+23.4,51.2,156.5,5.8,72,41,27,Cotton,Verticillium Wilt
+15.2,75,171.8,6.43,73,46,45,Apple,Apple Scab
+19.8,71.1,197.6,6.59,72,49,51,Apple,Apple Scab
+25.5,74.5,131.3,6.29,99,58,33,Tomato,Early Blight
+21.6,85,182.6,6.53,71,45,42,Apple,Apple Scab
+28.7,87,201.4,6.02,102,36,26,Maize,Gray Leaf Spot
+28.2,78.5,206.2,6.45,99,38,27,Maize,Gray Leaf Spot
+27.6,65.1,169.5,6.39,88,47,39,Wheat,Leaf Rust
+33.9,85.2,153,6.96,121,50,28,Maize,Turcicum Leaf Blight
+23.5,48.5,100.1,7.59,69,44,39,Potato,Common Scab
+24.4,69.4,144,6.05,64,64,27,Potato,Early Blight
+28.7,74.1,214,6.64,97,42,26,Cotton,Leaf Spot
+32.5,77.6,194.2,6.2,110,46,26,Maize,Gray Leaf Spot
+18.7,83.2,168.9,6.98,89,42,42,Apple,Cedar Apple Rust
+25,71.9,157.9,6.45,86,51,37,Tomato,Early Blight
+26.7,57.4,127.9,7.57,59,58,40,Potato,Common Scab
+29.5,71.3,162.6,6.43,93,31,34,Chili,Powdery Mildew
+22.9,64.9,135.9,6.09,67,50,31,Potato,Early Blight
+26.5,71.8,174.1,6.69,102,54,41,Tomato,Bacterial Spot
+23.5,63.9,158.1,5.86,68,51,34,Potato,Early Blight
+36.8,59.8,234,6.77,80,57,40,Cotton,Bacterial Blight
+30.3,79.4,189.1,6.31,90,47,29,Cotton,Leaf Spot
+22.4,84.1,183.2,5.9,75,35,42,Apple,Apple Scab
+29.7,69.3,177.6,6.4,104,31,34,Chili,Powdery Mildew
+23.6,64.7,135,6.52,85,41,43,Wheat,Leaf Rust
+32.5,79.1,195.1,6.64,101,38,16,Maize,Gray Leaf Spot
+22.9,74.9,174,6.28,100,25,41,Wheat,Septoria Leaf Spot
+23.3,53,134.2,6.74,112,38,47,Wheat,Powdery Mildew
+25.5,73.3,152.8,6.51,95,31,37,Wheat,Leaf Rust
+29.1,80.3,270.7,6.22,104,32,38,Chili,Leaf Spot
+24.4,61.1,128.3,6.57,109,35,47,Wheat,Powdery Mildew
+23.1,66.4,131.4,5.95,75,57,33,Potato,Early Blight
+20.8,64.8,146,5.82,68,52,25,Potato,Early Blight
+31.5,58.6,202.2,6.95,89,54,33,Cotton,Verticillium Wilt
+26.8,74.7,131.2,7.21,97,54,45,Apple,Fire Blight
+30.1,70.4,201,6.1,80,45,30,Cotton,Leaf Spot
+25.5,73.4,153.9,6.65,93,44,44,Wheat,Leaf Rust
+22.5,50.8,119.5,7.48,69,52,41,Potato,Common Scab
+29.6,88.4,283.9,6.35,105,33,37,Chili,Leaf Spot
+25.8,64.1,144.1,6.46,97,51,37,Tomato,Early Blight
+33.8,84.2,226.9,6.41,106,40,43,Rice,Bacterial Leaf Blight
+21.4,80.4,160.9,6.69,84,51,47,Apple,Cedar Apple Rust
+29.7,89.6,177.2,6.36,99,48,29,Maize,Gray Leaf Spot
+23.3,56.2,132.1,6.93,107,44,43,Wheat,Powdery Mildew
+36.7,81,259.7,6.32,99,44,41,Rice,Bacterial Leaf Blight
+22,54.4,124.3,6.49,98,40,40,Wheat,Powdery Mildew
+28,63.6,230.6,5.77,78,39,28,Rice,Brown Spot
+18.4,85.6,162.5,5.87,84,32,35,Tomato,Late Blight
+28.9,72.9,149.3,6.47,86,58,29,Tomato,Early Blight
+22.8,68.9,138.9,6.66,99,49,51,Apple,Fire Blight
+26.7,67.5,127.5,6.32,91,54,25,Tomato,Early Blight
+19.6,92.8,175.2,6.02,77,36,31,Tomato,Late Blight
+23.2,76.8,172.7,6.42,90,52,36,Apple,Cedar Apple Rust
+24.8,71.1,148.8,5.48,93,38,24,Maize,Common Rust
+33.2,88.2,230.5,6.29,100,38,38,Rice,Bacterial Leaf Blight
+22.2,76,156.9,6.97,84,58,55,Apple,Fire Blight
+33.1,60.3,236.3,5.69,87,29,31,Rice,Brown Spot
+35,53.4,265.2,6.51,92,32,30,Rice,Leaf Blast
+32.6,77.3,250.1,6.04,96,37,44,Rice,Bacterial Leaf Blight
+22.1,74.5,145.1,6.48,86,43,44,Wheat,Leaf Rust
+31.6,70.7,163.1,6.25,92,46,47,Tomato,Bacterial Spot
+31.6,46.6,284.5,6.56,88,34,35,Rice,Leaf Blast
+30,79.7,177.8,6.14,97,42,29,Maize,Common Rust
+29.9,88.7,252.6,6.44,99,31,40,Chili,Leaf Spot
+26,79.3,188.1,5.74,98,42,22,Maize,Gray Leaf Spot
+20.5,77.7,144.2,6.92,96,46,50,Apple,Fire Blight
+31.2,45.1,281.4,6.46,99,32,33,Rice,Leaf Blast
+17.9,78.9,188.6,6.43,76,40,44,Apple,Apple Scab
+35.8,55.6,247.3,6.6,66,58,42,Cotton,Bacterial Blight
+19.5,77.6,146.3,6.45,81,29,46,Potato,Late Blight
+21.9,62.6,124.4,6.7,91,35,45,Wheat,Powdery Mildew
+26.3,60,197.6,6.65,83,44,33,Cotton,Verticillium Wilt
+30.7,88.4,201.5,6.09,107,49,23,Maize,Gray Leaf Spot
+27,68.7,155.9,6.37,95,30,41,Wheat,Leaf Rust
+25.5,80.5,186,6.44,95,51,48,Apple,Cedar Apple Rust
+21.4,85,171.5,6.02,98,27,34,Wheat,Septoria Leaf Spot
+25.8,71.8,162.1,6.33,85,50,35,Tomato,Bacterial Spot
+35,47,212.7,6.73,77,53,41,Cotton,Bacterial Blight
+30.2,85.2,250.4,6,96,26,42,Chili,Leaf Spot
+20.7,84.2,186.9,5.85,104,28,37,Wheat,Septoria Leaf Spot
+15.8,75.3,168.6,6.65,85,41,50,Apple,Apple Scab
+30.5,72.9,215.1,6.19,82,36,25,Rice,Brown Spot
+28.1,72.4,184.9,6.53,94,43,37,Chili,Powdery Mildew
+35.9,54.7,260.8,6.71,87,33,36,Rice,Leaf Blast
+38,48.9,208.9,6.56,80,56,42,Cotton,Bacterial Blight
+30.6,52.2,292.7,6.43,85,33,30,Rice,Leaf Blast
+24,75.5,131.2,7.39,95,48,59,Apple,Fire Blight
+22,68.9,176.8,6.34,83,21,44,Potato,Late Blight
+35.6,41.7,239.3,6.43,70,50,43,Cotton,Bacterial Blight
+22.2,59.3,145.5,6.52,92,44,41,Wheat,Powdery Mildew
+22.9,58.1,122.6,6.43,92,40,45,Wheat,Powdery Mildew
+25.7,82.4,191.9,6.14,95,44,18,Maize,Gray Leaf Spot
+35.4,54.8,261.6,6.74,89,31,38,Rice,Leaf Blast
+25.6,67.3,171.1,5.85,78,37,30,Chili,Powdery Mildew
+23.8,58.9,109.1,7.45,54,46,42,Potato,Common Scab
+20.2,73.5,153.3,6.6,73,37,54,Apple,Apple Scab
+29.2,89.9,200.1,6.67,100,37,22,Maize,Gray Leaf Spot
+29.8,54.1,219.7,6.26,55,45,33,Cotton,Bacterial Blight
+28.2,61,131.6,6.15,83,52,25,Tomato,Early Blight
+31.3,74.8,243.9,6.04,87,28,25,Rice,Brown Spot
+27.9,69.7,137.2,6.05,93,58,35,Tomato,Early Blight
+26.8,73,148.3,6.38,92,49,41,Wheat,Leaf Rust
+18.4,89.9,188.6,5.96,86,32,38,Tomato,Late Blight
+33,60.7,251.1,5.88,73,29,27,Rice,Brown Spot
+24.6,76.5,161.1,6.53,85,52,49,Apple,Cedar Apple Rust
+24.6,67.2,140.1,6.96,82,59,47,Apple,Fire Blight
+23.3,80.6,182.7,6.86,84,49,43,Apple,Cedar Apple Rust
+29.1,67,258.1,6.03,86,25,29,Rice,Brown Spot
+27.2,61.1,193.8,6.54,70,46,31,Cotton,Verticillium Wilt
+32.7,70.3,273.4,6.24,104,47,47,Rice,Bacterial Leaf Blight
+29,65.1,156.6,7.34,81,50,39,Cotton,Verticillium Wilt
+21.5,71.6,170.4,6.24,88,33,44,Potato,Late Blight
+27,69.8,153.4,6.62,94,47,43,Tomato,Bacterial Spot
+33.3,67.6,198.6,6.03,82,37,25,Cotton,Leaf Spot
+23.3,75,169.2,6.5,82,44,47,Apple,Cedar Apple Rust
+31.6,61.3,257.6,6,85,35,30,Rice,Brown Spot
+22.6,79.9,193,6.32,114,35,43,Wheat,Septoria Leaf Spot
+33.6,74.1,246.5,6.06,109,43,43,Rice,Bacterial Leaf Blight
+24.2,64,125.6,6.62,108,35,40,Wheat,Powdery Mildew
+38.6,59.6,209.4,7.49,122,64,24,Chili,Anthracnose
+29.8,87.8,286,6.06,95,33,35,Chili,Leaf Spot
+32.9,93.7,139,6.98,115,52,29,Maize,Turcicum Leaf Blight
+30.6,56.8,204.6,6.72,69,54,36,Cotton,Bacterial Blight
+34.7,74.6,222.4,6.54,88,49,30,Cotton,Leaf Spot
+28.1,68.3,155,6.49,92,54,36,Tomato,Early Blight
+18.6,72.3,150.3,6.16,86,27,43,Potato,Late Blight
+26.3,49.1,132.3,6.79,56,46,44,Potato,Common Scab
+32.3,82.8,185.6,6.36,101,44,16,Maize,Gray Leaf Spot
+21.6,55.9,127.1,6.46,93,42,46,Wheat,Powdery Mildew
+25.7,65.4,132.6,6.36,83,45,33,Tomato,Early Blight
+31.9,87,201.5,6.13,108,37,23,Maize,Gray Leaf Spot
+27.5,72.1,177.7,6.04,95,44,32,Maize,Common Rust
+22.5,51.4,101.2,7.22,63,42,34,Potato,Common Scab
+34.4,87.8,136.8,7.12,117,48,22,Maize,Turcicum Leaf Blight
+22.2,72.9,174.7,5.88,107,26,44,Wheat,Septoria Leaf Spot
+27.9,68.6,204.6,7.22,87,44,33,Cotton,Verticillium Wilt
+35.3,88.2,142.7,7,122,47,23,Maize,Turcicum Leaf Blight
+20.8,53.5,120.7,6.9,109,36,42,Wheat,Powdery Mildew
+19.8,80.6,188.1,6.16,84,43,54,Apple,Apple Scab
+27.8,61.3,142.6,6.28,87,57,25,Tomato,Early Blight
+23.5,52.9,139.2,6.56,107,43,42,Wheat,Powdery Mildew
+32.8,81.8,203.9,6.69,96,35,17,Maize,Gray Leaf Spot
+21.6,76.5,151.1,6.25,80,22,43,Potato,Late Blight
+30.6,49.4,183.9,6.92,114,53,18,Chili,Anthracnose
+32.7,77,272.6,6.2,91,46,47,Rice,Bacterial Leaf Blight
+22.2,65.5,169.2,6.34,95,48,42,Wheat,Leaf Rust
+18.3,79.5,173,6.15,89,29,45,Potato,Late Blight
+25,49.4,128.6,7.64,52,50,37,Potato,Common Scab
+21.5,71.3,155,7.37,89,57,56,Apple,Fire Blight
+32.5,48.3,280.3,6.77,97,44,30,Rice,Leaf Blast
+18.6,68.6,145.4,6.23,79,28,42,Potato,Late Blight
+22.8,86.2,170.3,8.2,110,65,63,Apple,Fire Blight
+33.9,65.8,202.8,6.06,82,27,29,Rice,Brown Spot
+31.1,54,269.9,6.42,91,34,37,Rice,Leaf Blast
+18.4,85.7,187.9,6.6,89,46,46,Apple,Apple Scab
+27.8,70.8,123.5,6.01,91,57,33,Tomato,Early Blight
+24.4,50,131.7,7.18,53,57,43,Potato,Common Scab
+25.7,74.4,128.4,6.02,97,56,28,Tomato,Early Blight
+33.5,77.6,272.3,6.66,96,45,35,Rice,Bacterial Leaf Blight
+31.1,75.1,154.5,6.77,102,46,43,Tomato,Bacterial Spot
+20.3,82.4,178.4,6.78,76,44,39,Apple,Cedar Apple Rust
+33.4,79.6,249.9,6.22,95,37,45,Rice,Bacterial Leaf Blight
+20.3,75.2,163.3,6.27,76,49,49,Apple,Cedar Apple Rust
+33.3,57.8,208.2,6.79,104,55,22,Chili,Anthracnose
+31.9,46,276.3,6.33,86,33,34,Rice,Leaf Blast
+20.4,62,131.4,5.93,69,54,33,Potato,Early Blight
+30.6,60.3,204.5,5.86,89,35,25,Rice,Brown Spot
+27,66.8,153,6.9,77,44,39,Cotton,Verticillium Wilt
+32.9,70.3,243.5,5.99,76,26,27,Rice,Brown Spot
+24.9,54.5,106.3,7.21,64,45,33,Potato,Common Scab
+29.6,80.9,182.6,6.41,109,41,31,Maize,Common Rust
+31.3,66.1,177.2,6.44,103,41,45,Tomato,Bacterial Spot
+17.6,83.2,163.8,6.62,76,49,49,Apple,Apple Scab
+31.8,58.4,197.8,6.9,108,51,19,Chili,Anthracnose
+18.1,77.5,179,6.07,77,49,46,Apple,Cedar Apple Rust
+32.7,49.7,285.3,6.77,89,30,34,Rice,Leaf Blast
+30.9,81.3,275.6,6.14,98,29,36,Chili,Leaf Spot
+19.2,69.9,152.9,6.18,76,27,40,Potato,Late Blight
+32.5,71.2,242.3,6.72,101,41,43,Rice,Bacterial Leaf Blight
+31.8,38.8,223.4,6.5,79,56,41,Cotton,Bacterial Blight
+19.9,83.6,167.6,6.29,103,25,35,Wheat,Septoria Leaf Spot
+26.4,83.2,171.7,6.43,90,35,34,Maize,Common Rust
+33.6,76,174.5,6.42,102,41,19,Maize,Gray Leaf Spot
+25.2,46.1,110.2,7.04,59,40,32,Potato,Common Scab
+25.1,78.2,156.2,6.72,91,35,30,Chili,Powdery Mildew
+23.1,75.9,172.2,6.33,77,28,49,Potato,Late Blight
+32.9,51.2,192.7,6.67,97,56,22,Chili,Anthracnose
+26,74.4,158,6.3,91,44,36,Tomato,Bacterial Spot
+25.7,69.9,151.2,6.21,92,44,38,Chili,Powdery Mildew
+20.6,68.5,133.8,5.96,79,52,27,Potato,Early Blight
+31.8,84.9,273.3,6.33,97,27,44,Chili,Leaf Spot
+30.4,69.1,169.6,6.67,101,44,45,Tomato,Bacterial Spot
+34.2,91.2,147.3,6.96,111,46,25,Maize,Turcicum Leaf Blight
+32.2,44,215.1,6.61,70,55,43,Cotton,Bacterial Blight
+20.4,81.3,189.9,6.09,76,42,41,Tomato,Late Blight
+22.7,89.3,162.1,6.02,76,40,41,Tomato,Late Blight
+20.9,84.9,164.4,6.59,92,50,48,Apple,Cedar Apple Rust
+29.8,76.1,160.4,6.78,104,46,47,Tomato,Bacterial Spot
+28.1,86.3,279.1,6.49,112,29,38,Chili,Leaf Spot
+29.4,89.3,257.3,6.32,106,26,38,Chili,Leaf Spot
+22.5,64.2,157.4,5.94,74,59,25,Potato,Early Blight
+25.3,73.8,152.2,6.07,95,58,26,Tomato,Early Blight
+29.6,58.7,197.4,7.32,75,45,39,Cotton,Verticillium Wilt
+34.2,53.7,267.1,6.68,93,43,35,Rice,Leaf Blast
+32.5,87.2,150.2,7.16,105,52,25,Maize,Turcicum Leaf Blight
+20.9,72.3,147.7,6.72,86,59,49,Apple,Fire Blight
+34,38.6,246.2,6.73,73,48,36,Cotton,Bacterial Blight
+28.1,72.3,151.9,6.05,95,46,26,Tomato,Early Blight
+25,50.5,146.9,6.77,109,39,48,Wheat,Powdery Mildew
+22.8,68.6,156.9,6.88,92,56,56,Apple,Fire Blight
+21,81.5,179.4,5.92,107,27,43,Wheat,Septoria Leaf Spot
+21.7,70.7,152.2,6.06,84,31,46,Potato,Late Blight
+36.9,73.8,262.1,6.29,95,39,45,Rice,Bacterial Leaf Blight
+33.8,63.5,246.4,5.74,72,37,28,Rice,Brown Spot
+30.9,64.1,201.8,5.92,77,29,33,Rice,Brown Spot
+27.7,67.6,126.5,6.29,98,57,33,Tomato,Early Blight
+28.1,76.4,168.3,6.4,87,43,36,Tomato,Bacterial Spot
+20.2,84.9,198.6,6.68,72,40,43,Apple,Apple Scab
+25.3,69,172.9,6.78,102,43,31,Chili,Powdery Mildew
+36.3,76.5,239.1,6.45,102,37,37,Rice,Bacterial Leaf Blight
+30.3,61.3,157.2,7.03,77,51,37,Cotton,Verticillium Wilt
+28.6,82.5,274.4,6.35,114,29,40,Chili,Leaf Spot
+20.9,74,169.4,6.79,96,59,53,Apple,Fire Blight
+34.8,45.1,201.3,6.68,65,57,39,Cotton,Bacterial Blight
+24.1,72.7,148.9,6.27,94,46,32,Tomato,Early Blight
+33.4,66.7,216.5,5.78,77,29,27,Rice,Brown Spot
+31.5,61,211.5,5.79,88,30,31,Rice,Brown Spot
+21.4,81.3,163.1,6.52,86,51,38,Apple,Cedar Apple Rust
+33,77.4,270.8,6.83,97,43,45,Rice,Bacterial Leaf Blight
+24.7,67.3,129.9,6.08,94,53,28,Tomato,Early Blight
+21.7,56,125.5,6.34,96,38,36,Wheat,Powdery Mildew
+28.1,71.8,172.7,6.53,102,50,43,Tomato,Bacterial Spot
+29.7,66.7,210.3,6.11,84,26,31,Rice,Brown Spot
+18.6,87.5,171.3,5.84,77,34,35,Tomato,Late Blight
+28.3,73.8,193.7,6.03,96,39,32,Cotton,Leaf Spot
+29.2,73.4,229.1,6.52,98,41,34,Cotton,Leaf Spot
+29.9,88.4,296.8,6.49,102,34,36,Chili,Leaf Spot
+30,69.2,173,6.47,96,32,38,Chili,Powdery Mildew
+36.5,80.6,268.5,6.78,94,45,47,Rice,Bacterial Leaf Blight
+26.9,70.1,175.4,6.55,90,32,33,Chili,Powdery Mildew
+20.6,66.6,167.4,6.11,84,29,41,Potato,Late Blight
+22.6,64.3,130.8,5.84,60,59,28,Potato,Early Blight
+24.8,76.1,132.3,7.23,85,53,48,Apple,Fire Blight
+31,53.1,292.7,6.76,88,43,33,Rice,Leaf Blast
+21.2,58.7,122,6.46,109,38,47,Wheat,Powdery Mildew
+31.6,54.3,286,6.68,88,36,36,Rice,Leaf Blast
+24.4,62.1,143,6.3,93,50,36,Tomato,Early Blight
+32.9,90.4,133,6.93,115,54,23,Maize,Turcicum Leaf Blight
+28.7,64.7,134.4,6.24,91,57,27,Tomato,Early Blight
+22.5,81.1,192.1,5.66,82,43,38,Tomato,Late Blight
+32,71.5,207,6.2,88,42,34,Cotton,Leaf Spot
+22.8,82.8,171.6,6.56,95,27,38,Wheat,Septoria Leaf Spot
+19.6,85.1,159.5,6.75,76,39,50,Apple,Apple Scab
+22.4,85.6,176.3,5.8,88,40,33,Tomato,Late Blight
+28.7,88,298.6,6.11,98,29,42,Chili,Leaf Spot
+33.2,65.9,220.1,5.65,77,29,31,Rice,Brown Spot
+31.2,85.3,187.9,6.6,112,42,29,Maize,Gray Leaf Spot
+26.3,69.9,159.4,6.75,95,39,34,Chili,Powdery Mildew
+22.1,58.2,125.2,6.58,103,44,40,Wheat,Powdery Mildew
+24,70.5,160.6,6.74,89,45,42,Wheat,Leaf Rust
+23,72.8,130.5,6.41,100,48,44,Wheat,Leaf Rust
+26.7,78.5,163.2,6.27,94,54,41,Tomato,Bacterial Spot
+26,67.7,193.8,6.66,81,44,31,Cotton,Verticillium Wilt
+28.9,82,197.6,6.56,104,37,21,Maize,Gray Leaf Spot
+26.6,72.8,151.8,6.77,87,43,30,Chili,Powdery Mildew
+26.5,72.1,164.4,6.67,84,47,56,Apple,Fire Blight
+17.9,76,165.3,6.61,86,39,48,Apple,Apple Scab
+22.7,63.1,149.9,6.75,106,38,43,Wheat,Powdery Mildew
+31.9,66.3,242.8,6.1,73,31,29,Rice,Brown Spot
+19.3,71.7,198.8,5.82,111,36,34,Wheat,Septoria Leaf Spot
+27.3,64.5,164.3,6.69,100,32,41,Wheat,Leaf Rust
+24.3,72.1,147.7,7,88,53,58,Apple,Fire Blight
+23.1,76.6,192.5,5.89,70,42,40,Apple,Apple Scab
+31.6,58.5,213.2,6.37,62,53,36,Cotton,Bacterial Blight
+29.5,82.5,187.5,6.41,107,30,33,Maize,Common Rust
+32,72.8,215.5,5.84,89,29,30,Rice,Brown Spot
+29.2,67.1,157,7.19,78,43,34,Cotton,Verticillium Wilt
+29.9,88.3,272.6,6.07,114,33,42,Chili,Leaf Spot
+22.2,62.5,154.6,6.12,77,54,30,Potato,Early Blight
+28.5,81.1,176.5,6.18,107,36,25,Maize,Common Rust
+25.3,74.8,132.2,6.16,99,47,36,Tomato,Early Blight
+19.5,83.8,183.3,6.23,106,30,42,Wheat,Septoria Leaf Spot
+22.9,66.1,142.7,6.09,83,63,29,Potato,Early Blight
+18.4,84.9,194.2,6.57,70,47,51,Apple,Apple Scab
+21.6,81.7,162,6.05,86,53,42,Apple,Cedar Apple Rust
+24.2,81.7,186.3,6.99,85,41,37,Apple,Cedar Apple Rust
+17.6,79.5,193.6,5.84,89,49,48,Apple,Apple Scab
+32.1,85.4,230.3,6.04,103,46,47,Rice,Bacterial Leaf Blight
+30.4,66.9,166.1,6.38,100,43,45,Tomato,Bacterial Spot
+19.2,94.4,186.1,5.71,88,41,34,Tomato,Late Blight
+32.2,93.3,155.5,7.05,112,41,27,Maize,Turcicum Leaf Blight
+24.8,72.4,132.5,6.23,88,56,32,Tomato,Early Blight
+30,74.3,151.4,6.21,91,32,38,Chili,Powdery Mildew
+20.6,59.1,128.4,6.5,97,43,43,Wheat,Powdery Mildew
+30.4,45,198.2,6.68,115,55,19,Chili,Anthracnose
+25.4,55.6,124.4,6.97,55,51,42,Potato,Common Scab
+21.5,81.4,178.7,6.13,82,50,49,Apple,Cedar Apple Rust
+28.1,85.4,297.8,6.2,103,34,41,Chili,Leaf Spot
+26.9,69.4,157.8,7.32,98,46,58,Apple,Fire Blight
+30.2,70.2,203.8,5.78,89,33,27,Rice,Brown Spot
+28.3,80.9,282.6,6.24,110,34,38,Chili,Leaf Spot
+31.6,89.3,298.8,6.47,100,30,36,Chili,Leaf Spot
+27.7,65,152.8,6.73,85,46,44,Wheat,Leaf Rust
+16.9,70.8,157.4,6.77,79,47,46,Apple,Apple Scab
+24.3,84.4,186.9,6,93,42,35,Apple,Cedar Apple Rust
+25.2,82,155.5,5.96,101,33,31,Maize,Common Rust
+28.6,71.2,135.8,6.05,85,59,29,Tomato,Early Blight
+28.8,72.7,155.2,6.23,92,50,26,Tomato,Early Blight
+22.5,83.5,167,5.99,89,41,34,Tomato,Late Blight
+37.9,57,295.4,7.04,96,44,32,Rice,Leaf Blast
+20.8,52.8,126.1,6.63,91,38,45,Wheat,Powdery Mildew
+23.7,77.1,153.1,6.54,96,45,47,Apple,Fire Blight
+28.6,64.9,122.9,6.5,97,51,34,Tomato,Early Blight
+34.5,82,262.6,6.95,94,46,42,Rice,Bacterial Leaf Blight
+29.4,72.8,159,6.26,99,37,26,Maize,Common Rust
+33.4,82.5,247.6,6.04,90,36,44,Rice,Bacterial Leaf Blight
+33.6,71.9,196.4,6.16,83,44,30,Cotton,Leaf Spot
+33,58.1,206.5,6.55,108,56,24,Chili,Anthracnose
+28.7,73.9,171.6,6.46,104,38,32,Chili,Powdery Mildew
+30.5,64.1,212.4,5.96,78,27,31,Rice,Brown Spot
+21.9,76.4,164.9,6.78,81,48,46,Apple,Fire Blight
+34.9,53.8,219.6,6.75,74,51,41,Cotton,Bacterial Blight
+32.1,79.4,181.1,6.74,99,47,26,Cotton,Leaf Spot
+20.9,65.8,162.2,7.31,82,49,56,Apple,Fire Blight
+23.7,70.5,156.4,6.07,79,33,49,Potato,Late Blight
+28.5,60,131.3,6.27,83,58,34,Tomato,Early Blight
+36.3,42.3,213.1,6.56,68,57,39,Cotton,Bacterial Blight
+16.7,85.4,161.1,6.77,82,45,43,Apple,Apple Scab
+29.3,77.7,149.9,6.64,100,45,40,Tomato,Bacterial Spot
+18.5,78.4,164.2,6.41,81,29,45,Potato,Late Blight
+28.6,42.6,212,6.17,62,54,35,Cotton,Bacterial Blight
+19.5,74.8,151.9,6.28,81,34,46,Potato,Late Blight
+28.3,66.2,159.4,7.29,71,42,36,Cotton,Verticillium Wilt
+31.2,81.8,205.6,6.49,112,45,29,Maize,Gray Leaf Spot
+30.7,49,266.8,6.58,97,31,30,Rice,Leaf Blast
+29.5,72.4,187.7,6.74,96,44,33,Chili,Powdery Mildew
+20.4,89.1,186.7,5.89,80,43,31,Tomato,Late Blight
+25,60.6,156.4,6.89,81,44,31,Cotton,Verticillium Wilt
+20.8,73.5,141.2,7.16,93,55,59,Apple,Fire Blight
+33.6,82.7,188.7,6.47,100,39,28,Maize,Gray Leaf Spot
+28.6,85.8,294.4,6.24,109,33,42,Chili,Leaf Spot
+36.4,90.4,136,7.02,108,46,27,Maize,Turcicum Leaf Blight
+22.2,88.6,185.3,5.63,87,43,37,Tomato,Late Blight
+24.5,71.7,164.8,7.38,86,46,47,Apple,Fire Blight
+24.2,65.9,169.1,6.76,101,34,35,Wheat,Leaf Rust
+24.5,69.1,155.7,6.75,66,56,27,Potato,Early Blight
+32.5,49.5,183.6,6.7,100,53,19,Chili,Anthracnose
+33.9,66.8,190.7,6.04,82,48,29,Cotton,Leaf Spot
+36,57.8,245.8,6.69,65,45,38,Cotton,Bacterial Blight
+23.6,74.6,159.7,6.32,86,21,44,Potato,Late Blight
+33.9,80.4,259.8,6.38,104,40,39,Rice,Bacterial Leaf Blight
+28.5,71.4,185.5,6.44,92,44,27,Maize,Common Rust
+27,82.9,163.2,5.98,104,35,33,Maize,Common Rust
+23.5,73,150.5,6.35,86,24,48,Potato,Late Blight
+19.1,83.5,176.9,6.43,81,44,42,Apple,Apple Scab
+20.6,73.5,171.6,6.42,96,37,36,Wheat,Septoria Leaf Spot
+25.6,73.8,155.5,6.2,80,45,29,Tomato,Early Blight
+22.8,82.5,199.9,5.77,85,38,37,Tomato,Late Blight
+31.5,83.6,296.6,6.32,113,32,36,Chili,Leaf Spot
+36.6,76.5,234.5,6.17,105,36,41,Rice,Bacterial Leaf Blight
+24.7,59.4,103,7.05,54,43,32,Potato,Common Scab
+36,55.5,210.1,6.78,72,58,42,Cotton,Bacterial Blight
+22.3,71.5,184.9,6.08,110,28,39,Wheat,Septoria Leaf Spot
+16.3,76,197.6,6.2,86,50,47,Apple,Apple Scab
+22.8,58.4,119.1,6.48,90,35,46,Wheat,Powdery Mildew
+37,71.4,261.4,6.53,97,40,44,Rice,Bacterial Leaf Blight
+30.1,59,200.6,6.52,116,53,20,Chili,Anthracnose
+21.9,82.9,164.6,6.29,70,37,46,Apple,Apple Scab
+22.9,75.4,181,6.34,100,29,44,Wheat,Septoria Leaf Spot
+30.6,69.8,158.3,6.63,93,51,44,Tomato,Bacterial Spot
+35.4,89.3,130.5,6.89,110,41,26,Maize,Turcicum Leaf Blight
+18.2,88.4,190,5.64,80,30,42,Tomato,Late Blight
+27.3,76,170,6.56,91,33,35,Chili,Powdery Mildew
+37.3,90.2,151.9,6.81,112,47,21,Maize,Turcicum Leaf Blight
+32.6,74.5,220.2,6.3,92,42,45,Rice,Bacterial Leaf Blight
+35.9,84.5,232.6,6.88,102,41,37,Rice,Bacterial Leaf Blight
+35.2,88.2,145.8,7.11,120,45,26,Maize,Turcicum Leaf Blight
+33.9,77.7,183,6.38,98,35,20,Maize,Gray Leaf Spot
+33.2,49.6,258.1,7.22,92,64,41,Cotton,Bacterial Blight
+30.7,55.3,150.2,7,72,51,32,Cotton,Verticillium Wilt
+23.2,70,154.9,6.48,94,40,38,Wheat,Leaf Rust
+24.2,53.9,102.9,7.43,69,43,41,Potato,Common Scab
+36.8,85,138.5,7.03,116,51,25,Maize,Turcicum Leaf Blight
+32.3,78.7,191.6,6.12,80,42,34,Cotton,Leaf Spot
+34.9,47.1,269.7,6.46,91,32,35,Rice,Leaf Blast
+28.6,65.8,163,6.74,100,51,37,Tomato,Bacterial Spot
+35.7,52.5,202.2,6.72,66,51,41,Cotton,Bacterial Blight
+33.9,50.3,297.2,6.5,95,37,35,Rice,Leaf Blast
+22,84.7,174.2,5.53,75,37,31,Tomato,Late Blight
+26.6,60.8,129.8,6.25,99,34,38,Wheat,Leaf Rust
+31.3,50.2,209.7,6.69,115,56,22,Chili,Anthracnose
+21.8,62.9,132.2,6.6,99,42,41,Wheat,Powdery Mildew
+24.9,73.5,151,6.57,90,38,36,Wheat,Leaf Rust
+31.8,76.5,222,6.81,80,37,31,Cotton,Leaf Spot
+37,57,218.6,6.4,79,51,36,Cotton,Bacterial Blight
+27.3,75.8,159.6,6.06,92,44,30,Maize,Common Rust
+29.9,65.5,193.1,6.28,98,44,25,Cotton,Leaf Spot
+26.4,74.8,169.3,6.28,90,43,40,Tomato,Bacterial Spot
+32.5,82.9,236,6.17,107,34,40,Rice,Bacterial Leaf Blight
+35.9,86.1,257.5,7.03,97,49,36,Cotton,Leaf Spot
+26.8,53.7,114.3,7.68,55,51,35,Potato,Common Scab
+26.6,72.2,143.7,6.35,101,37,42,Wheat,Leaf Rust
+34.2,56.5,191.4,6.74,103,54,22,Chili,Anthracnose
+31.4,45.1,201.6,6.92,107,58,17,Chili,Anthracnose
+33.4,85,135.6,6.8,119,46,23,Maize,Turcicum Leaf Blight
+20.3,61.2,133.5,6.06,78,58,34,Potato,Early Blight
+28.3,59,192.5,7.12,82,50,32,Cotton,Verticillium Wilt
+28.2,54.1,195.3,6.95,89,43,36,Cotton,Verticillium Wilt
+28.4,75.1,182.2,6.27,99,35,22,Maize,Gray Leaf Spot
+25.1,74.5,144.5,6.6,103,54,38,Tomato,Bacterial Spot
+36.4,87.9,138.9,6.99,105,51,23,Maize,Turcicum Leaf Blight
+31.2,79.7,201,6.65,102,47,22,Maize,Gray Leaf Spot
+29.5,72.8,226.1,6.64,83,45,29,Cotton,Leaf Spot
+34.2,48.7,217.7,6.75,64,47,40,Cotton,Bacterial Blight
+18.3,83.1,165.3,6.04,79,38,47,Apple,Apple Scab
+36.1,57.9,220.5,6.78,81,49,36,Cotton,Bacterial Blight
+25.8,68.3,146.3,6.42,102,33,35,Wheat,Leaf Rust
+20.4,84.8,171.7,6.04,102,33,33,Wheat,Septoria Leaf Spot
+24.9,78.8,140,6.74,90,56,51,Apple,Fire Blight
+23.9,58.5,129.4,6.79,94,35,47,Wheat,Powdery Mildew
+32.6,63.9,228.8,6.19,83,37,29,Rice,Brown Spot
+24.4,69.1,147.8,6.59,89,31,37,Wheat,Leaf Rust
+22.5,62.6,143.8,6.19,72,54,31,Potato,Early Blight
+27.7,53.1,172.6,7.13,80,43,33,Cotton,Verticillium Wilt
+32.2,58,215.2,6.52,73,46,44,Cotton,Bacterial Blight
+36.5,88.8,223.2,6.01,103,39,38,Rice,Bacterial Leaf Blight
+33.9,68,254.3,5.56,73,31,30,Rice,Brown Spot
+22.4,73.5,134.8,6.26,101,41,38,Wheat,Leaf Rust
+28.4,69.8,162.8,6.92,75,51,37,Cotton,Verticillium Wilt
+23.5,52.1,132.5,6.73,98,40,49,Wheat,Powdery Mildew
+22.9,79.9,178.5,6.88,89,46,49,Apple,Cedar Apple Rust
+15.7,71.2,174.3,6.76,78,40,54,Apple,Apple Scab
+32.6,76.3,189.7,6.63,112,35,19,Maize,Gray Leaf Spot
+33.1,65.2,258.4,6.19,75,25,32,Rice,Brown Spot
+31.6,76.9,201.6,6.47,99,41,31,Cotton,Leaf Spot
+23,78.6,166.6,6.92,83,49,35,Apple,Cedar Apple Rust
+18.1,75.6,170.7,6.51,87,37,50,Apple,Apple Scab
+26.2,70.3,139.1,7.25,83,48,51,Apple,Fire Blight
+30.7,59.2,208,6.61,112,50,24,Chili,Anthracnose
+20.7,55.1,145.9,6.49,91,39,43,Wheat,Powdery Mildew
+23.3,66.5,135.1,6.94,93,36,43,Wheat,Powdery Mildew
+30,72.6,251.2,6.2,91,39,32,Rice,Brown Spot
+22.3,62.8,131.6,6.31,101,36,39,Wheat,Leaf Rust
+27.7,70.2,165.1,6.52,85,45,54,Apple,Fire Blight
+26,66.3,158,6.33,95,30,41,Wheat,Leaf Rust
+23.1,77.5,168.7,6.19,81,39,51,Apple,Apple Scab
+24.1,68.8,151.1,6.39,80,58,38,Tomato,Early Blight
+33.3,50.3,208.9,6.97,116,63,19,Chili,Anthracnose
+30.9,62.3,161.2,6.68,87,51,36,Cotton,Verticillium Wilt
+25.7,77.4,167.1,6.91,94,46,45,Apple,Fire Blight
+25.5,64.2,141.2,6.32,104,31,40,Wheat,Leaf Rust
+25.1,69.2,139.5,6.39,93,31,36,Wheat,Leaf Rust
+31.2,68.8,158.1,6.58,102,47,40,Tomato,Bacterial Spot
+24.8,71.4,133.8,6.07,86,50,39,Tomato,Early Blight
+24.4,64,147.5,6.78,102,39,47,Wheat,Powdery Mildew
+25.1,59.5,161.6,7.13,89,46,38,Cotton,Verticillium Wilt
+26.3,68.1,140.5,6.41,86,44,44,Tomato,Bacterial Spot
+21,93.6,183.3,5.62,88,40,40,Tomato,Late Blight
+25.1,79.3,166.5,6.45,99,40,27,Maize,Common Rust
+34.4,89.7,157.2,7.17,122,42,28,Maize,Turcicum Leaf Blight
+26.8,78.2,155.3,6.27,94,34,35,Chili,Powdery Mildew
+33,54,290.3,6.3,89,36,32,Rice,Leaf Blast
+37.7,86.1,230.8,6.41,97,46,42,Rice,Bacterial Leaf Blight
+24.4,84,175.6,6.55,81,43,47,Apple,Cedar Apple Rust
+23.2,64.3,124.5,6.69,102,40,44,Wheat,Powdery Mildew
+25.1,70.5,165.9,7.25,84,54,58,Apple,Fire Blight
+23.9,63.4,157.9,6.14,70,61,32,Potato,Early Blight
+32.5,54.8,260,6.41,89,32,33,Rice,Leaf Blast
+32,57,244.7,6.4,63,59,43,Cotton,Bacterial Blight
+29.3,60.5,224.6,5.7,86,37,29,Rice,Brown Spot
+21,81.9,165.4,6.58,114,27,34,Wheat,Septoria Leaf Spot
+19.6,84.4,174.6,6.45,90,50,44,Apple,Cedar Apple Rust
+33.7,72.1,222.6,6.25,80,44,29,Cotton,Leaf Spot
+25.7,71.4,121.3,6.28,99,59,29,Tomato,Early Blight
+19.3,81.7,193.7,6.11,84,47,43,Apple,Apple Scab
+31,47.4,181.3,6.78,110,53,21,Chili,Anthracnose
+30.4,90,176.9,6.1,113,48,15,Maize,Gray Leaf Spot
+29.3,72.6,222.5,6.24,98,49,34,Cotton,Leaf Spot
+33.8,82.5,179.4,6.14,99,45,15,Maize,Gray Leaf Spot
+23.8,76,150.4,6.32,73,35,50,Apple,Apple Scab
+26.5,81.1,178.6,6.01,101,39,29,Maize,Common Rust
+30.4,78.1,146.2,6.69,90,46,48,Tomato,Bacterial Spot
+33.3,43,211.6,6.75,80,53,41,Cotton,Bacterial Blight
+29,72.6,178.9,6.23,91,31,26,Maize,Common Rust
+32.3,85.6,191.4,6.54,106,39,26,Maize,Gray Leaf Spot
+34.3,76.6,255.7,6.87,90,40,37,Rice,Bacterial Leaf Blight
+27.5,66.3,173.8,6.72,100,43,42,Tomato,Bacterial Spot
+22.1,74.5,165.1,5.9,82,37,43,Apple,Apple Scab
+31.4,54.6,194,6.93,106,53,24,Chili,Anthracnose
+22.8,51.5,105.7,7.84,56,43,30,Potato,Common Scab
+33.7,55.4,206.7,6.86,119,55,23,Chili,Anthracnose
+18.4,86.4,169.6,5.94,87,44,36,Tomato,Late Blight
+38.4,50.8,318.2,7,106,40,41,Rice,Leaf Blast
+31.5,55.4,209.3,7.17,79,49,32,Cotton,Verticillium Wilt
+30.4,56.7,188,6.55,82,42,38,Cotton,Verticillium Wilt
+35.1,38.4,236.1,6.72,69,51,43,Cotton,Bacterial Blight
+35.5,94.7,134.7,7.14,119,51,22,Maize,Turcicum Leaf Blight
+19.8,46.6,108,5.75,52,46,31,Potato,Common Scab
+28,72.6,154.2,6.28,105,37,28,Maize,Common Rust
+22.8,74,160.1,6.75,98,37,44,Wheat,Leaf Rust
+33.6,92.6,145.9,6.83,112,53,27,Maize,Turcicum Leaf Blight
+30.6,84.5,185.4,6.25,95,47,28,Maize,Gray Leaf Spot
+25.4,73,153.3,6.57,92,31,39,Wheat,Leaf Rust
+29,72.3,192.9,6.75,94,37,33,Cotton,Leaf Spot
+19.2,84,169.2,5.96,76,35,39,Tomato,Late Blight
+23.6,76.2,153.3,6.68,86,49,48,Apple,Fire Blight
+35,78.6,277.4,6.21,100,46,43,Rice,Bacterial Leaf Blight
+28.9,74.1,139.8,6.12,91,51,28,Tomato,Early Blight
+37.5,47.5,226.9,6.52,74,52,35,Cotton,Bacterial Blight
+19,87.3,184.3,5.61,86,34,33,Tomato,Late Blight
+32,81,292.8,6.24,111,33,44,Chili,Leaf Spot
+33.7,60,219,7.29,131,56,25,Chili,Anthracnose
+21.1,73.6,189.8,5.93,98,31,34,Wheat,Septoria Leaf Spot
+19.6,76.1,186.4,6.35,79,45,52,Apple,Apple Scab
+22.9,74.8,164.3,6.04,81,25,42,Potato,Late Blight
+22.3,70.1,180.7,5.83,106,38,44,Wheat,Septoria Leaf Spot
+27.2,66.7,155.6,6.69,102,33,31,Chili,Powdery Mildew
+20.5,82.4,152.3,6.41,77,46,52,Apple,Apple Scab
+22.7,83.7,175.3,6.3,103,31,34,Wheat,Septoria Leaf Spot
+34.9,69.2,228.8,6.18,87,46,31,Cotton,Leaf Spot
+32,55.7,207.5,6.83,109,61,21,Chili,Anthracnose
+19,78.9,188.7,6.17,73,38,43,Apple,Apple Scab
+27.2,68.8,169,7.15,71,43,37,Cotton,Verticillium Wilt
+33.2,59.9,180.4,6.77,111,63,20,Chili,Anthracnose
+22.8,81.5,177.6,6.16,79,43,48,Apple,Cedar Apple Rust
+22,60.6,169.1,6.19,98,46,40,Wheat,Leaf Rust
+25.4,48.8,100.4,7.59,60,56,42,Potato,Common Scab
+28,62.7,201.4,6.99,74,42,30,Cotton,Verticillium Wilt
+21.5,79.9,177.2,6.29,88,47,40,Apple,Cedar Apple Rust
+25.7,77.8,130.9,7.07,80,46,55,Apple,Fire Blight
+20.2,71.3,142.4,6.82,88,55,54,Apple,Fire Blight
+28.1,78.3,196.6,6.63,108,41,20,Maize,Gray Leaf Spot
+20.7,54,130.8,6.65,103,35,40,Wheat,Powdery Mildew
+23.7,58.8,111.6,7.2,67,54,30,Potato,Common Scab
+36.4,90,141.1,6.84,119,44,22,Maize,Turcicum Leaf Blight
+21.1,82.1,169.7,6.84,85,54,36,Apple,Cedar Apple Rust
+20.7,77.3,191.1,6.11,103,30,35,Wheat,Septoria Leaf Spot
+27.6,71.8,171.6,6.23,109,44,34,Maize,Common Rust
+22.8,53.3,121.7,7.64,66,48,34,Potato,Common Scab
+20.5,86,193.6,5.56,81,35,35,Tomato,Late Blight
+32.9,81.5,191.5,6.2,98,42,21,Maize,Gray Leaf Spot
+28,64.3,151.5,6.43,93,33,44,Wheat,Leaf Rust
+29.6,65.4,215.1,5.99,96,43,39,Rice,Bacterial Leaf Blight
+33.6,73.5,221.7,6.91,90,46,37,Rice,Bacterial Leaf Blight
+28.2,70.7,174.5,6.69,85,36,37,Chili,Powdery Mildew
+30.7,47.4,182.3,6.6,114,62,19,Chili,Anthracnose
+19.9,81.6,190.5,6.09,83,32,30,Tomato,Late Blight
+25.7,70.1,188.8,6.46,99,44,31,Maize,Common Rust
+22.1,69.8,133.4,5.96,84,62,33,Potato,Early Blight
+32,83,185.4,6.1,95,38,16,Maize,Gray Leaf Spot
+34.2,51.7,269.7,6.3,86,38,36,Rice,Leaf Blast
+33.6,46.6,286.8,6.45,91,38,31,Rice,Leaf Blast
+31,49.3,264.4,6.67,91,44,30,Rice,Leaf Blast
+28.7,80.3,254.5,6.14,114,30,38,Chili,Leaf Spot
+19.5,93.6,163.6,6.11,80,43,40,Tomato,Late Blight
+29.5,79.5,169.1,6.26,100,40,33,Chili,Powdery Mildew
+34.9,55.7,192.5,6.85,119,60,22,Chili,Anthracnose
+30.3,79.7,215.4,6.06,80,37,32,Cotton,Leaf Spot
+22.6,50.8,118.2,7.05,52,48,41,Potato,Common Scab
+26.3,71.9,159,5.87,109,34,29,Maize,Common Rust
+16,71.9,183,6.35,78,37,46,Apple,Apple Scab
+24.1,62.2,153.9,6.65,92,32,36,Wheat,Leaf Rust
+28,80.3,158.8,6.08,101,35,28,Maize,Common Rust
+33.5,45.9,271.5,6.39,99,38,36,Rice,Leaf Blast
+23.4,76.3,163.6,7.48,81,48,56,Apple,Fire Blight
+26.9,77.7,156.5,6.36,85,35,33,Chili,Powdery Mildew
+28.3,73.8,228.2,5.52,83,32,26,Rice,Brown Spot
+28.1,70.1,231.4,6.13,73,37,32,Rice,Brown Spot
+27.6,82.7,152.4,5.96,95,35,33,Maize,Common Rust
+27.9,72.1,151.7,6.07,102,31,28,Maize,Common Rust
+18.2,71.5,189.1,5.96,102,32,40,Wheat,Septoria Leaf Spot
+22.1,84.1,196.9,6,86,31,38,Tomato,Late Blight
+30.1,58.6,231.4,6.46,66,45,37,Cotton,Bacterial Blight
+32.2,72,223.9,5.74,74,32,30,Rice,Brown Spot
+18.8,82.2,184.7,6.73,79,54,35,Apple,Cedar Apple Rust
+21.4,60.4,148.3,6,61,54,34,Potato,Early Blight
+21.4,60.6,128.1,6.94,97,40,40,Wheat,Powdery Mildew
+36.6,77.9,250.3,6.46,95,42,35,Rice,Bacterial Leaf Blight
+34.2,55.8,204.9,6.6,117,54,15,Chili,Anthracnose
+27.4,73.6,169.7,6.64,96,34,31,Chili,Powdery Mildew
+25.1,83.5,150.2,6.05,93,41,25,Maize,Common Rust
+31.2,70.4,194.6,6.17,95,49,29,Cotton,Leaf Spot
+29.4,82.8,170.3,6.14,97,44,26,Maize,Common Rust
+30,69.5,163,6.31,102,41,31,Chili,Powdery Mildew
+22.9,73.2,151.1,6.37,87,42,43,Wheat,Leaf Rust
+30.9,56.6,195.4,6.51,113,56,20,Chili,Anthracnose
+19.3,80.3,170.9,5.81,77,31,40,Tomato,Late Blight
+25.5,78.4,154.8,5.95,93,31,31,Maize,Common Rust
+27.4,84.4,179.3,5.88,94,44,32,Maize,Common Rust
+28,61.9,256,6.11,74,36,31,Rice,Brown Spot
+23,94.2,189.2,5.89,83,38,40,Tomato,Late Blight
+25.8,45,116.7,7.28,51,59,33,Potato,Common Scab
+26.5,66.8,160.7,6.53,91,49,36,Tomato,Bacterial Spot
+22,87,163.6,6.39,75,36,50,Apple,Apple Scab
+34.9,92.8,137.1,7.1,122,53,27,Maize,Turcicum Leaf Blight
+33.2,50.7,229.2,6.67,72,46,43,Cotton,Bacterial Blight
+25.5,71.1,161.3,7.21,83,53,56,Apple,Fire Blight
+28.7,74.1,127.2,6.09,83,56,25,Tomato,Early Blight
+21.4,84.5,188.4,6.31,91,48,49,Apple,Cedar Apple Rust
+29.9,68.1,171.8,6.79,100,44,39,Chili,Powdery Mildew
+22.9,41.5,99.9,6.94,53,44,32,Potato,Common Scab
+31.8,73.5,209.8,5.77,72,34,32,Rice,Brown Spot
+32.8,75.1,203.7,6.67,109,46,29,Maize,Gray Leaf Spot
+22,82.3,160.5,6.23,104,32,31,Wheat,Septoria Leaf Spot
+24.7,70.1,145.7,7.36,97,57,57,Apple,Fire Blight
+29.3,60.7,163.1,6.66,74,47,32,Cotton,Verticillium Wilt
+24.1,63.4,137.8,5.95,74,54,31,Potato,Early Blight
+36.4,38.9,216.6,6.54,67,55,43,Cotton,Bacterial Blight
+37.1,88,276.8,6.4,94,40,39,Rice,Bacterial Leaf Blight
+36.1,81.4,276.7,6.44,101,42,48,Rice,Bacterial Leaf Blight
+26,72.2,167.3,6.58,103,31,34,Chili,Powdery Mildew
+35.1,81.5,275.5,6.65,98,48,46,Rice,Bacterial Leaf Blight
+33.2,75.7,229.7,6.25,94,42,43,Rice,Bacterial Leaf Blight
+20.9,66.7,157.9,6.02,74,54,32,Potato,Early Blight
+30.4,82.5,191.1,6.48,109,40,21,Maize,Gray Leaf Spot
+22.1,69.7,150.4,6.36,104,41,43,Wheat,Leaf Rust
+30.2,60.8,241.1,5.81,73,37,33,Rice,Brown Spot
+24.2,63.2,154.9,5.81,74,53,26,Potato,Early Blight
+31.7,38.8,202.2,6.74,76,54,41,Cotton,Bacterial Blight
+27,69.2,157.6,6.41,99,49,46,Tomato,Bacterial Spot
+29.5,86.8,261.4,6.21,106,33,38,Chili,Leaf Spot
+32.9,54.9,288.5,6.41,92,33,34,Rice,Leaf Blast
+32.1,88.6,156.7,7.08,107,48,28,Maize,Turcicum Leaf Blight
+35.4,39.3,246.5,6.41,84,47,42,Cotton,Bacterial Blight
+26.8,58.6,128.9,7.3,67,42,41,Potato,Common Scab
+25.4,51.1,100.6,7.37,55,49,44,Potato,Common Scab
+20.9,76.6,168.9,6.22,79,34,44,Potato,Late Blight
+37,54.5,243.4,6.57,78,47,38,Cotton,Bacterial Blight
+28.6,70.1,195.5,6.95,95,44,30,Cotton,Leaf Spot
+28.4,73.5,154.9,6.26,93,53,26,Tomato,Early Blight
+22.9,64.9,142.7,6.67,104,38,42,Wheat,Powdery Mildew
+24.2,62.1,126.7,6.54,106,44,40,Wheat,Powdery Mildew
+34.8,84.3,264.2,6.14,109,47,38,Rice,Bacterial Leaf Blight
+26.4,75,171.9,5.87,102,34,31,Maize,Common Rust
+26.7,71.3,159.6,7.17,84,50,52,Apple,Fire Blight
+32.8,72.8,264.9,6.47,105,46,44,Rice,Bacterial Leaf Blight
+27.3,74.7,145.1,6.44,86,51,38,Tomato,Early Blight
+20.2,90.4,186.1,5.72,78,35,41,Tomato,Late Blight
+32.5,83.6,204,6.11,95,45,16,Maize,Gray Leaf Spot
+26.7,66,176,7.42,79,51,34,Cotton,Verticillium Wilt
+35.8,77.1,256.2,6.31,108,48,43,Rice,Bacterial Leaf Blight
+27.9,70.5,180.2,6.36,94,35,30,Cotton,Leaf Spot
+30,68.5,206.6,6.11,90,35,28,Cotton,Leaf Spot
+22.4,69.6,174,6.14,88,21,47,Potato,Late Blight
+23.8,63.5,122.5,6.64,92,35,46,Wheat,Powdery Mildew
+25.4,64.3,181.6,7.4,76,48,35,Cotton,Verticillium Wilt
+32.2,70.5,242.4,6.15,101,48,40,Rice,Bacterial Leaf Blight
+24,75,140.5,6.22,103,30,41,Wheat,Leaf Rust
+31.2,46.5,204.2,6.57,111,55,17,Chili,Anthracnose
+27.8,65.7,187.3,6.58,104,38,37,Chili,Powdery Mildew
+29.4,55.1,153.1,6.51,70,40,31,Cotton,Verticillium Wilt
+28.1,59.8,190.9,6.6,76,41,30,Cotton,Verticillium Wilt
+33.7,84.1,194.2,6.09,114,46,28,Maize,Gray Leaf Spot
+27.6,82.5,167.1,6.1,95,42,34,Maize,Common Rust
+33.1,66.8,225.5,5.61,78,33,25,Rice,Brown Spot
+24.5,68.7,147.9,6.04,76,52,34,Potato,Early Blight
+29.3,68.9,254.8,6.06,88,39,25,Rice,Brown Spot
+29.7,81.5,289.3,6.06,98,27,40,Chili,Leaf Spot
+26.5,51.7,124.3,7.45,61,54,33,Potato,Common Scab
+15,82.7,187.4,6.05,79,49,44,Apple,Apple Scab
+33.8,42.3,210.4,6.63,82,51,37,Cotton,Bacterial Blight
+24.1,63.7,146.2,6.03,88,58,36,Tomato,Early Blight
+31,47.3,263.2,6.32,86,44,33,Rice,Leaf Blast
+28.3,52.7,173.7,6.68,77,45,39,Cotton,Verticillium Wilt
+31.2,88.9,250.6,6.48,104,32,36,Chili,Leaf Spot
+26.8,82.9,168.7,5.95,108,41,25,Maize,Common Rust
+28.3,68.8,167.3,6.23,96,41,34,Chili,Powdery Mildew
+18.9,93.4,165.9,5.95,88,43,41,Tomato,Late Blight
+22.6,74.4,149.6,6.02,88,29,47,Potato,Late Blight
+23,45.9,113.7,6.91,69,51,35,Potato,Common Scab
+28.1,88.5,191.8,6.61,112,41,22,Maize,Gray Leaf Spot
+31.9,72.9,151.5,6.67,88,43,46,Tomato,Bacterial Spot
+22.9,85.2,171.6,5.92,86,36,39,Tomato,Late Blight
+31.8,53.5,187.1,6.99,110,52,19,Chili,Anthracnose
+29.4,87.1,185.5,6.58,102,47,19,Maize,Gray Leaf Spot
+30.6,57.6,201.5,6.67,78,59,35,Cotton,Bacterial Blight
+31.6,82.4,278.7,6.38,100,29,40,Chili,Leaf Spot
+27.2,62.1,168.1,6.26,98,45,43,Wheat,Leaf Rust
+16.2,81.4,174.6,6.32,87,48,46,Apple,Apple Scab
+31.5,69.3,169,6.64,89,53,42,Tomato,Bacterial Spot
+25.6,76.1,165.5,6.72,99,47,54,Apple,Fire Blight
+37.8,58.1,208.1,6.48,70,50,42,Cotton,Bacterial Blight
+31.5,83.3,266.5,6.3,98,27,39,Chili,Leaf Spot
+18.3,82,189.3,6.45,80,42,39,Apple,Cedar Apple Rust
+21.2,93.6,188.3,5.53,87,44,37,Tomato,Late Blight
+25.8,52.3,170.9,7.26,82,41,38,Cotton,Verticillium Wilt
+33.3,53.3,265.2,6.5,89,37,32,Rice,Leaf Blast
+37.4,90.7,153.4,7.12,110,47,29,Maize,Turcicum Leaf Blight
+23.9,74.5,149.4,6.34,79,30,40,Potato,Late Blight
+24,73.8,130.5,6.44,99,39,35,Wheat,Leaf Rust
+33.1,67.4,207.9,5.99,74,31,25,Rice,Brown Spot
+30.9,45.8,200.5,6.63,109,61,20,Chili,Anthracnose
+24.6,49.4,137.3,7.1,51,52,31,Potato,Common Scab
+32.3,48.5,247.7,6.42,78,51,37,Cotton,Bacterial Blight
+17.9,89,182.3,6.26,79,41,43,Apple,Apple Scab
+26.8,50.8,101.6,6.55,57,43,30,Potato,Common Scab
+30.8,86,256.1,6.48,97,27,43,Chili,Leaf Spot
+22.1,71.9,166.4,6.93,92,45,46,Apple,Fire Blight
+27.9,70.4,174.5,6.73,104,38,30,Chili,Powdery Mildew
+31.2,77.1,206.6,6.65,108,35,23,Maize,Gray Leaf Spot
+24.8,68.4,155.1,5.99,70,54,25,Potato,Early Blight
+30.5,85.4,190.3,6.17,110,36,22,Maize,Gray Leaf Spot
+32.7,47.6,262.1,6.54,98,35,37,Rice,Leaf Blast
+28.7,65.1,148.5,6.26,84,57,37,Tomato,Early Blight
+28.9,70.5,141.8,6.42,94,43,37,Tomato,Bacterial Spot
+33.4,86.4,141.2,7.1,123,46,26,Maize,Turcicum Leaf Blight
+34.9,75,227.8,6.2,97,39,34,Cotton,Leaf Spot
+19.7,77.2,175.1,6.42,88,23,47,Potato,Late Blight
+24.1,58.3,143.4,6.41,106,35,48,Wheat,Powdery Mildew
+23.4,81.7,192,5.98,88,42,41,Apple,Apple Scab
+31.4,85.2,268.8,6.46,95,33,37,Chili,Leaf Spot
+26.8,72.5,144.2,7.04,82,45,49,Apple,Fire Blight
+31.3,70.8,221,6.45,92,48,33,Cotton,Leaf Spot
+32,74.3,243.8,5.54,87,37,29,Rice,Brown Spot
+20.1,72.4,182.5,6.56,95,28,44,Wheat,Septoria Leaf Spot
+26.7,79.4,181.9,6.48,88,42,31,Chili,Powdery Mildew
+23.8,54.3,113.4,7.6,58,41,41,Potato,Common Scab
+34.6,50.3,193.8,6.99,103,50,23,Chili,Anthracnose
+25.5,79.8,187,5.91,101,35,29,Maize,Common Rust
+31.5,71.5,179.4,6.33,99,48,47,Tomato,Bacterial Spot
+34.3,50,294.7,6.76,85,42,30,Rice,Leaf Blast
+32.1,50.6,244.7,6.54,83,48,35,Cotton,Bacterial Blight
+19.6,71.2,157.7,6.75,80,35,50,Apple,Apple Scab
+21.2,75.9,193.9,6.19,104,32,42,Wheat,Septoria Leaf Spot
+20.1,68.7,158,6.03,77,63,32,Potato,Early Blight
+37,86.1,134.2,7.19,116,47,25,Maize,Turcicum Leaf Blight
+32.6,52.5,291.4,6.69,85,32,35,Rice,Leaf Blast
+31.3,53.6,297.1,6.56,90,33,30,Rice,Leaf Blast
+19.2,90,157.9,6.75,86,49,42,Apple,Apple Scab
+22.1,55.8,139.8,6.67,102,35,48,Wheat,Powdery Mildew
+34.2,56.9,219.6,6.74,66,49,35,Cotton,Bacterial Blight
+32.6,85.7,194.4,6.6,100,48,20,Maize,Gray Leaf Spot
+25.7,68.2,140,6.27,102,41,40,Wheat,Leaf Rust
+30.7,52.9,236.3,6.78,66,45,40,Cotton,Bacterial Blight
+20.3,71.7,153.3,6.19,78,21,46,Potato,Late Blight
+18.1,90,192.4,6.06,73,39,46,Apple,Apple Scab
+21.9,74.3,130.7,7.13,93,48,53,Apple,Fire Blight
+20.6,88,189.5,5.99,84,42,51,Apple,Apple Scab
+31.3,51.7,277.1,6.72,86,31,35,Rice,Leaf Blast
+30.5,57,160,6.53,77,53,32,Cotton,Verticillium Wilt
+19.9,81.1,161.4,6.51,84,35,45,Apple,Apple Scab
+24.2,63.9,128.5,6.43,91,56,39,Tomato,Early Blight
+28,85,285.2,6.08,107,25,36,Chili,Leaf Spot
+22.2,91,189.4,5.57,79,31,30,Tomato,Late Blight
+32,38.9,220.1,6.77,60,53,40,Cotton,Bacterial Blight
+32.3,78.1,195.9,6.48,100,44,25,Maize,Gray Leaf Spot
+23.9,60.8,154.4,6.19,92,31,36,Wheat,Leaf Rust
+28.5,86.9,299.6,6.2,107,34,43,Chili,Leaf Spot
+19,76.9,169.3,6.11,76,30,46,Potato,Late Blight
+19.7,92.6,161.4,6.18,84,36,39,Tomato,Late Blight
+32.6,80.3,184.9,6.51,104,43,25,Maize,Gray Leaf Spot
+31.4,86,272.7,6.2,104,25,43,Chili,Leaf Spot
+33,79.1,191.8,6.68,101,37,22,Maize,Gray Leaf Spot
+21.5,77.4,167.7,6.17,99,38,35,Wheat,Septoria Leaf Spot
+28.3,85.9,287.9,6.1,106,33,42,Chili,Leaf Spot
+24.3,79.6,146,6.72,83,47,47,Apple,Fire Blight
+19.6,80.4,197.5,6.45,75,42,49,Apple,Apple Scab
+21.3,66.6,154.5,6.02,73,53,25,Potato,Early Blight
+29.3,72.1,156.8,6.73,89,45,39,Tomato,Bacterial Spot
+21.6,69.4,169.3,6.43,86,20,44,Potato,Late Blight
+32.9,48.2,288.3,6.55,89,42,38,Rice,Leaf Blast
+30.4,58.4,194.2,6.87,102,60,17,Chili,Anthracnose
+30.5,46.9,269.3,6.54,90,34,39,Rice,Leaf Blast
+32.9,48.5,197.6,7.33,115,67,21,Chili,Anthracnose
+32,73.4,221.8,6.33,108,36,44,Rice,Bacterial Leaf Blight
+24.1,64.1,154.5,6.02,88,46,31,Tomato,Early Blight
+24.4,55.6,125.9,6.69,104,39,44,Wheat,Powdery Mildew
+25.9,79.6,157.6,6.6,84,53,49,Apple,Fire Blight
+21.3,78.3,174.3,6.16,114,30,33,Wheat,Septoria Leaf Spot
+30.1,54,260.5,6.41,89,31,36,Rice,Leaf Blast
+24.8,79.5,146.8,7.05,92,52,56,Apple,Fire Blight
+26.6,76,178.2,6.2,108,30,32,Maize,Common Rust
+26.8,48,104.4,7.78,58,56,43,Potato,Common Scab
+34.2,47,213.7,6.37,80,59,38,Cotton,Bacterial Blight
+22.1,50.4,130.1,6.51,91,44,45,Wheat,Powdery Mildew
+28.5,72,176.7,6.42,98,36,29,Maize,Common Rust
+31.9,71.7,173.9,6.38,92,42,38,Tomato,Bacterial Spot
+24.8,54.3,108.1,7.09,50,49,38,Potato,Common Scab
+24.5,58.1,119.7,7.55,69,42,34,Potato,Common Scab
+22.4,74.6,144.4,6.38,92,43,41,Wheat,Leaf Rust
+26,49.1,135.1,7.92,52,49,44,Potato,Common Scab
+24.9,63.2,131.6,6.49,99,56,34,Tomato,Early Blight
+21.2,70.8,131.7,6.97,95,56,52,Apple,Fire Blight
+22.3,83.1,165.1,6.49,106,26,36,Wheat,Septoria Leaf Spot
+32.4,49,181.7,6.7,101,58,18,Chili,Anthracnose
+34.3,75.5,226.3,6.81,96,43,28,Cotton,Leaf Spot
+31.1,54.2,201.7,6.86,116,62,15,Chili,Anthracnose
+36,74.5,192.5,7.37,84,51,29,Cotton,Leaf Spot
+30.4,54.9,252,6.63,91,44,32,Rice,Leaf Blast
+21.6,64.3,145.2,5.9,62,59,27,Potato,Early Blight
+21.3,91.5,183,5.68,88,30,35,Tomato,Late Blight
+18.3,84.4,172.9,5.87,84,41,33,Tomato,Late Blight
+19.7,89.7,182.5,6.03,87,39,42,Tomato,Late Blight
+32.6,47.3,275.8,6.43,99,43,35,Rice,Leaf Blast
+24.5,62.5,142.3,6.1,65,51,27,Potato,Early Blight
+31.7,50.9,279.3,6.52,97,33,34,Rice,Leaf Blast
+22.1,70.8,191.3,6.48,110,32,33,Wheat,Septoria Leaf Spot
+25,75,167.7,7.45,93,45,50,Apple,Fire Blight
+20.7,51.4,144.9,6.95,102,36,44,Wheat,Powdery Mildew
+20.7,86.9,173.3,5.96,78,31,30,Tomato,Late Blight
+24.7,59.5,102.7,7.47,51,47,42,Potato,Common Scab
+31.8,80.2,298.3,6.07,111,27,38,Chili,Leaf Spot
+31.8,48.1,210.3,6.25,65,45,34,Cotton,Bacterial Blight
+28.9,64.1,213.9,7.78,90,48,37,Cotton,Verticillium Wilt
+21.6,84.1,191.6,6.1,88,32,34,Tomato,Late Blight
+34.7,78.2,217.7,6.93,84,47,31,Cotton,Leaf Spot
+34.9,52,206,6.92,110,60,16,Chili,Anthracnose
+28.4,82.7,288.4,6.43,110,31,40,Chili,Leaf Spot
+27.8,74.3,145.2,7.19,93,45,52,Apple,Fire Blight
+22.5,47.3,137.8,7.6,67,44,38,Potato,Common Scab
+19.6,78.1,180.4,6.89,88,52,43,Apple,Cedar Apple Rust
+33.2,80.1,207.9,6.05,104,43,18,Maize,Gray Leaf Spot
+29.1,82.9,256.2,6.4,95,28,36,Chili,Leaf Spot
+23.1,74.8,185.3,6.1,70,43,52,Apple,Apple Scab
+37.5,94,159.1,7.07,124,52,22,Maize,Turcicum Leaf Blight
+24.9,74.8,149,6.02,94,51,29,Tomato,Early Blight
+29,89.2,253.9,6.21,105,33,44,Chili,Leaf Spot
+33.5,39.4,220.1,6.68,82,51,39,Cotton,Bacterial Blight
+21.7,61,132.6,6.75,106,43,48,Wheat,Powdery Mildew
+28.8,77.6,180.5,6.41,104,36,30,Chili,Powdery Mildew
+21.8,74.2,147.3,6.26,77,31,45,Potato,Late Blight
+28.8,68.1,177.5,6.41,95,44,30,Chili,Powdery Mildew
+33.3,64.5,239,5.73,77,28,28,Rice,Brown Spot
+18.8,75.3,183.9,6.73,76,41,48,Apple,Cedar Apple Rust
+21.4,65.4,134.2,6.12,61,64,32,Potato,Early Blight
+30.7,56.5,202.3,6.95,100,53,23,Chili,Anthracnose
+25.1,46.3,119.5,6.62,58,48,30,Potato,Common Scab
+36.5,59.3,223.9,6.66,69,47,39,Cotton,Bacterial Blight
+24.6,63.9,130.3,6.72,94,44,49,Wheat,Powdery Mildew
+29.3,80.8,273.2,6.37,99,27,44,Chili,Leaf Spot
+20.9,69.6,134.5,5.97,62,64,30,Potato,Early Blight
+33.8,77.4,172.1,6.41,114,41,18,Maize,Gray Leaf Spot
+21.6,77.4,157.2,6.34,83,24,48,Potato,Late Blight
+24.7,67.3,136.4,5.81,66,58,25,Potato,Early Blight
+25.1,71.2,121.7,6.42,96,57,27,Tomato,Early Blight
+21.5,82,160.4,6.64,85,43,46,Apple,Cedar Apple Rust
+36.3,84.9,223.1,6.22,95,43,37,Rice,Bacterial Leaf Blight
+19.5,81.5,180.8,5.87,86,44,30,Tomato,Late Blight
+25,79.7,169.2,6.4,98,52,38,Tomato,Bacterial Spot
+31.6,80.2,282.7,6.19,108,30,37,Chili,Leaf Spot
+24.5,68,142.8,5.81,66,58,31,Potato,Early Blight
+16.6,84.5,185.4,6,73,36,53,Apple,Apple Scab
+31.6,66.4,226,6.34,98,49,25,Cotton,Leaf Spot
+29,85.9,177.4,6.24,108,42,26,Maize,Gray Leaf Spot
+20.9,76,167.3,6.38,85,43,38,Apple,Cedar Apple Rust
+27.3,69.9,160.5,6.96,94,47,49,Apple,Fire Blight
+28.1,78.7,151.4,6.35,88,37,34,Chili,Powdery Mildew
+29.5,85.7,202.5,6.25,98,36,23,Maize,Gray Leaf Spot
+24.1,64.7,149.6,6.26,88,36,44,Wheat,Leaf Rust
+34.9,91.6,143,7.07,114,45,23,Maize,Turcicum Leaf Blight
+29,70,236.6,5.95,71,38,28,Rice,Brown Spot
+30.1,45.9,205.7,6.98,113,55,24,Chili,Anthracnose
+27.9,71.3,139.9,6.43,104,47,35,Wheat,Leaf Rust
+32.4,50.5,199.4,6.97,100,63,21,Chili,Anthracnose
+25.7,76,141.7,6.31,98,41,49,Tomato,Bacterial Spot
+30.6,54.6,294.5,6.44,97,37,34,Rice,Leaf Blast
+28.5,70.7,165.4,6.04,106,44,29,Maize,Common Rust
+28.1,81.5,281.3,6.04,98,28,35,Chili,Leaf Spot
+33.1,72.7,220.7,6.72,92,37,33,Cotton,Leaf Spot
+20.5,70.8,188.1,6.44,89,43,44,Apple,Apple Scab
+22.7,71.9,147,6.5,75,30,49,Potato,Late Blight
+21.8,75.3,197.1,5.85,105,33,39,Wheat,Septoria Leaf Spot
+28.3,79.4,204.7,6.24,97,44,29,Maize,Gray Leaf Spot
+32,62.6,197.7,7.28,77,48,38,Cotton,Verticillium Wilt
+27.4,75.2,175.4,6.46,102,37,35,Chili,Powdery Mildew
+21.2,84.5,179.4,5.85,106,37,44,Wheat,Septoria Leaf Spot
+20.2,84.2,190.6,5.57,88,43,43,Tomato,Late Blight
+31.7,45,189.2,6.64,107,51,20,Chili,Anthracnose
+33,57,187.9,6.61,115,60,21,Chili,Anthracnose
+29.1,74.5,216.8,6.86,98,38,28,Cotton,Leaf Spot
+28.2,69,125.4,6.2,99,50,38,Tomato,Early Blight
+18.4,77.9,193.7,6.42,78,43,54,Apple,Apple Scab
+28.4,65.7,179.1,6.84,71,48,32,Cotton,Verticillium Wilt
+32,94.2,131.6,6.91,115,47,26,Maize,Turcicum Leaf Blight
+20,70.6,181.4,6.2,70,45,50,Apple,Apple Scab
+35.6,42.4,221.5,6.55,61,59,36,Cotton,Bacterial Blight
+23.2,73.2,158.3,6.49,76,26,40,Potato,Late Blight
+22.6,67.8,141.9,6.05,81,64,26,Potato,Early Blight
+19.6,82.2,175.1,5.87,101,39,39,Wheat,Septoria Leaf Spot
+29.5,62.6,257.5,6.1,74,29,27,Rice,Brown Spot
+22.8,46.1,107.4,7.5,67,56,40,Potato,Common Scab
+25,62.1,169.3,6.2,86,43,40,Wheat,Leaf Rust
+32.8,56,188.1,6.68,117,54,20,Chili,Anthracnose
+28.4,74.9,174.5,5.84,91,40,28,Maize,Common Rust
+25.4,84.1,171.9,6.35,103,37,25,Maize,Common Rust
+23.7,55.4,140.1,6.56,91,44,41,Wheat,Powdery Mildew
+29.7,74.8,163.4,6.39,102,40,31,Maize,Common Rust
+24.1,64.6,136,6.42,87,45,30,Tomato,Early Blight
+20.6,72.2,141.9,6.92,93,48,50,Apple,Fire Blight
+17.6,79.6,170.2,6.73,70,45,52,Apple,Apple Scab
+31.9,52.1,206.1,6.71,110,50,16,Chili,Anthracnose
+35.3,70.6,248.2,6.92,97,44,46,Rice,Bacterial Leaf Blight
+27.5,78.5,162.9,6.59,99,41,35,Chili,Powdery Mildew
+37.5,92.3,154.9,7.1,117,46,29,Maize,Turcicum Leaf Blight
+22.7,75.6,146.3,6.15,78,25,40,Potato,Late Blight
+22.7,73.3,166.6,6.13,113,35,36,Wheat,Septoria Leaf Spot
+34.4,53.6,206.4,6.6,103,58,19,Chili,Anthracnose
+23.5,55,140.3,6.64,105,39,44,Wheat,Powdery Mildew
+24.9,72.1,131,6.17,88,51,31,Tomato,Early Blight
+30.1,89.6,277,6.46,106,26,46,Chili,Leaf Spot
+30.3,50.4,266.9,6.54,94,43,36,Rice,Leaf Blast
+26.9,46,120.7,6.77,69,42,36,Potato,Common Scab
+32.6,74.2,206.6,6.68,92,48,30,Cotton,Leaf Spot
+32.5,87,130.9,7.01,106,47,29,Maize,Turcicum Leaf Blight
+20.8,78.9,154.1,6.18,89,35,50,Apple,Apple Scab
+31.4,47.8,192.2,6.87,119,62,24,Chili,Anthracnose
+25.1,54.6,109.7,7.57,51,43,43,Potato,Common Scab
+18.8,66.6,170.4,6.29,79,21,40,Potato,Late Blight
+21.5,66.8,167.8,6.93,83,59,46,Apple,Fire Blight
+28.8,69.6,222.9,6.17,76,39,34,Rice,Brown Spot
+25.1,72.9,164.6,6.01,100,39,44,Wheat,Leaf Rust
+23.4,60.2,129.5,6.48,102,36,45,Wheat,Powdery Mildew
+25.2,80.8,188.1,5.98,91,37,33,Maize,Common Rust
+31.7,66.4,201.8,6.58,90,39,30,Cotton,Leaf Spot
+27.3,81.7,167,5.91,109,33,32,Maize,Common Rust
+24.7,52.5,135,6.81,103,41,42,Wheat,Powdery Mildew
+29.9,71.3,213.2,5.77,87,35,29,Rice,Brown Spot
+26,84.8,183.2,6.21,103,39,25,Maize,Common Rust
+28.6,88.3,267.4,6.2,112,29,40,Chili,Leaf Spot
+24,77.8,152.3,6.47,76,32,43,Potato,Late Blight
+24.6,56.3,121.5,6.42,101,38,40,Wheat,Powdery Mildew
+31,86.2,289.3,6.17,112,31,43,Chili,Leaf Spot
+31.3,88.1,282.3,6.18,101,25,43,Chili,Leaf Spot
+21.8,70.3,169.1,6.72,91,51,56,Apple,Fire Blight
+21.2,70.4,169.9,6.17,107,33,41,Wheat,Septoria Leaf Spot
+19.3,84,176.7,6.94,78,51,35,Apple,Cedar Apple Rust
+36.4,82.7,258.7,6.83,92,42,45,Rice,Bacterial Leaf Blight
+34,72.1,228.7,6.03,99,49,36,Rice,Bacterial Leaf Blight
+29.6,74,157.5,6.67,104,38,36,Chili,Powdery Mildew
+35.8,94.2,135.4,6.92,124,45,20,Maize,Turcicum Leaf Blight
+28.4,78.8,177.1,6.54,101,47,17,Maize,Gray Leaf Spot
+28.8,88.1,170.9,6.22,98,48,25,Maize,Gray Leaf Spot
+28,69.4,158.4,7.09,74,51,37,Cotton,Verticillium Wilt
+25.9,52.2,205.3,7.25,81,51,34,Cotton,Verticillium Wilt
+25.8,54.9,167.9,7.06,77,50,30,Cotton,Verticillium Wilt
+18.4,89,194,5.53,86,35,32,Tomato,Late Blight
+21.2,61.6,135.6,5.91,64,63,25,Potato,Early Blight
+24.4,68.3,145.6,6.11,94,54,38,Tomato,Early Blight
+28.4,79.3,196.7,6.22,95,47,19,Maize,Gray Leaf Spot
+21.8,66.3,149,6.01,62,62,28,Potato,Early Blight
+30.7,86.6,177.7,6.39,96,40,18,Maize,Gray Leaf Spot
+33.4,75.7,211.7,6.39,98,49,26,Cotton,Leaf Spot
+32,45.4,197,6.55,116,61,19,Chili,Anthracnose
+18.8,75.7,172.9,6.74,80,48,39,Apple,Cedar Apple Rust
+30.5,62,177.3,6.86,88,49,35,Cotton,Verticillium Wilt
+33.6,92.2,158.7,7.08,122,46,27,Maize,Turcicum Leaf Blight
+30.7,66.5,220.1,6.92,95,47,27,Cotton,Leaf Spot
+21.2,74.3,133.1,6.54,82,45,55,Apple,Fire Blight
+18.7,76.7,177.9,6.15,78,46,42,Apple,Apple Scab
+19.5,84.3,175.5,6.46,83,50,41,Apple,Cedar Apple Rust
+34.2,48.8,293.5,6.58,91,31,34,Rice,Leaf Blast
+23.1,83.4,174,6.79,84,45,42,Apple,Cedar Apple Rust
+35.5,49.1,259.6,6.56,98,42,30,Rice,Leaf Blast
+33.1,63.6,252.6,5.51,84,38,31,Rice,Brown Spot
+18.7,66.9,169,6.22,78,27,40,Potato,Late Blight
+25.5,70.7,135.1,7.32,98,50,55,Apple,Fire Blight
+34.4,53.7,281.3,6.63,86,44,31,Rice,Leaf Blast
+31.6,76.8,187.8,7.9,107,55,57,Apple,Fire Blight
+26.9,76,187.1,6.58,100,32,32,Chili,Powdery Mildew
+29.7,63.6,152.3,7.11,79,41,32,Cotton,Verticillium Wilt
+21.2,83.9,171.6,6.68,79,43,40,Apple,Cedar Apple Rust
+33.8,53.8,203.5,6.87,101,63,17,Chili,Anthracnose
+29.6,79.7,144.5,6.48,88,51,36,Tomato,Bacterial Spot
+37.6,92.4,146.2,7.17,114,48,25,Maize,Turcicum Leaf Blight
+32.5,84,170.4,6.62,103,48,22,Maize,Gray Leaf Spot
+28.5,52.1,170.7,6.65,82,54,39,Cotton,Verticillium Wilt
+30.6,65.8,195.6,6.85,79,48,39,Cotton,Verticillium Wilt
+25.9,69.9,152,6.77,96,42,34,Chili,Powdery Mildew
+21.2,88.6,155.9,5.86,76,37,47,Apple,Apple Scab
+20.1,62.4,135.7,6.87,94,38,40,Wheat,Powdery Mildew
+33.6,91.1,133.7,6.99,117,52,22,Maize,Turcicum Leaf Blight
+22.3,67.5,131.1,5.9,77,63,30,Potato,Early Blight
+20.6,66.4,143.7,6.62,89,50,55,Apple,Fire Blight
+28.7,84.5,154.6,6.21,103,43,33,Maize,Common Rust
+33.8,62.3,244,5.5,81,38,27,Rice,Brown Spot
+37,54.7,317,7.15,102,38,42,Rice,Leaf Blast
+26.1,72.1,152.4,6.51,92,30,33,Chili,Powdery Mildew
+28.7,85.9,185.4,6.05,111,43,18,Maize,Gray Leaf Spot
+18.7,83.4,174.5,6.24,75,40,45,Apple,Apple Scab
+22.5,54,124.9,7.47,55,40,44,Potato,Common Scab
+32.6,54,287.5,6.54,94,34,39,Rice,Leaf Blast
+30.6,86,144.4,6.52,116,48,20,Maize,Turcicum Leaf Blight
+27.2,84.8,172.8,5.94,95,40,34,Maize,Common Rust
+20.4,92.9,164.8,6.14,87,40,42,Tomato,Late Blight
+23.6,84.1,167,6.5,109,28,31,Wheat,Septoria Leaf Spot
+26.9,70.8,177.1,6.03,99,40,34,Maize,Common Rust
+24.6,64.4,151.8,6.11,98,45,36,Wheat,Leaf Rust
+27.8,78.5,150.4,6.44,95,53,48,Tomato,Bacterial Spot
+37.5,56.2,234.9,6.34,70,53,36,Cotton,Bacterial Blight
+22.7,51.7,125,7.23,58,59,43,Potato,Common Scab
+20.1,79.6,167.4,6.41,76,32,49,Potato,Late Blight
+26.9,70.6,136.7,6.11,94,54,32,Tomato,Early Blight
+28.4,82.5,190,6.49,109,45,21,Maize,Gray Leaf Spot
+20.6,68.8,158.9,6.78,90,58,45,Apple,Fire Blight
+30.7,47.7,199,6.81,111,53,18,Chili,Anthracnose
+31.7,48.2,297.3,6.44,91,40,31,Rice,Leaf Blast
+34.7,93.9,156,6.98,112,53,27,Maize,Turcicum Leaf Blight
+30.6,54.8,264.3,6.51,94,30,38,Rice,Leaf Blast
+27.8,71.2,159.7,6.3,94,47,42,Tomato,Bacterial Spot
+27.7,77.5,171.5,6.51,103,41,39,Chili,Powdery Mildew
+19.1,75.2,151.4,6.26,85,21,45,Potato,Late Blight
+33.4,88.7,134.4,7,114,54,26,Maize,Turcicum Leaf Blight
+30,87.4,200.8,6.2,95,36,28,Maize,Gray Leaf Spot
+37,41.8,206.8,6.62,67,45,43,Cotton,Bacterial Blight
+23.4,56.4,141.9,6.89,92,43,45,Wheat,Powdery Mildew
+34,51.3,255,6.6,86,31,35,Rice,Leaf Blast
+31,73.7,160.7,6.44,101,42,35,Tomato,Bacterial Spot
+22.5,65.7,176.6,6.43,85,28,48,Potato,Late Blight
+33,62.3,202.3,6.12,76,26,29,Rice,Brown Spot
+30.5,56.9,182.3,6.53,110,52,15,Chili,Anthracnose
+37.4,83.1,260.3,6.01,109,48,48,Rice,Bacterial Leaf Blight
+32.5,92.3,148.1,7.06,122,51,27,Maize,Turcicum Leaf Blight
+26.7,73.6,144.8,6.6,102,46,36,Wheat,Leaf Rust
+31,66.4,157.3,7.35,78,43,38,Cotton,Verticillium Wilt
+30.7,73.6,206.3,6,83,26,34,Rice,Brown Spot
+31.1,88.7,285.3,6.38,105,34,43,Chili,Leaf Spot
+28.6,81.4,256.6,6.06,99,28,44,Chili,Leaf Spot
+26.5,67.7,142.8,6.48,104,38,44,Wheat,Leaf Rust
+24.7,79.7,137.1,7.23,86,51,55,Apple,Fire Blight
+22.6,65.6,135.3,5.98,81,33,33,Chili,Powdery Mildew
+22.8,76.4,138.3,7.09,93,54,55,Apple,Fire Blight
+37.8,38.9,237.7,6.56,69,45,41,Cotton,Bacterial Blight
+32.6,67.5,218.3,6.18,83,31,27,Rice,Brown Spot
+26.1,61,153.8,6.59,89,46,35,Wheat,Leaf Rust
+29.7,77.9,161.4,6.29,93,35,36,Chili,Powdery Mildew
+31.2,48.6,257.5,6.55,91,43,39,Rice,Leaf Blast
+21.9,59.9,124.2,6.74,93,37,42,Wheat,Powdery Mildew
+29,84.1,274.9,6.27,108,25,42,Chili,Leaf Spot
+32.2,51.6,273.5,6.4,94,30,34,Rice,Leaf Blast
+26.9,76.8,151.6,6.46,92,39,39,Chili,Powdery Mildew
+26,67,153.8,6.3,92,49,37,Tomato,Early Blight
+16.4,82.7,171.5,5.82,80,49,45,Apple,Apple Scab
+18.7,92.4,160.1,6.08,78,43,40,Tomato,Late Blight
+33.9,90.4,149.8,7.08,107,52,26,Maize,Turcicum Leaf Blight
+28.7,89.4,276.6,6.43,101,28,44,Chili,Leaf Spot
+17.4,79,188.5,6.56,80,48,43,Apple,Apple Scab
+18.1,94.1,185.8,5.56,75,30,39,Tomato,Late Blight
+35.3,85.3,257.2,6.23,90,46,49,Rice,Bacterial Leaf Blight
+24.8,50.1,129.2,7.48,66,53,36,Potato,Common Scab
+31.3,71.4,194.4,6.17,95,49,32,Cotton,Leaf Spot
+24.1,65.6,154.9,6.57,87,30,44,Wheat,Leaf Rust
+30.3,83.5,282.9,6.01,96,25,39,Chili,Leaf Spot
+30.8,39.1,214.1,5.82,66,43,40,Cotton,Bacterial Blight
+31.9,81.8,279.5,6.04,109,34,43,Chili,Leaf Spot
+36.2,86.7,155.6,6.86,113,41,25,Maize,Turcicum Leaf Blight
+24.1,64.9,157.3,6.15,98,48,29,Tomato,Early Blight
+28,75.7,164.9,6.61,99,44,30,Chili,Powdery Mildew
+30,84.3,209.1,6.3,102,41,16,Maize,Gray Leaf Spot
+19.7,77,162.7,6.04,71,47,41,Apple,Apple Scab
+18.3,83,176,6.39,85,49,37,Apple,Cedar Apple Rust
+25.5,52,175,6.81,88,45,37,Cotton,Verticillium Wilt
+23.8,50.6,145.1,6.77,101,41,48,Wheat,Powdery Mildew
+23.8,58.8,144.9,6.45,99,41,48,Wheat,Powdery Mildew
+31.1,63.5,210.9,6.07,72,32,34,Rice,Brown Spot
+24.6,63,122.1,6.22,96,53,34,Tomato,Early Blight
+25.3,65.4,143.3,6.46,89,54,43,Tomato,Bacterial Spot
+31.1,84.9,294.5,6.17,102,33,39,Chili,Leaf Spot
+31.8,81.5,254.1,6.22,111,29,43,Chili,Leaf Spot
+23.1,68.7,159.5,6.11,70,56,32,Potato,Early Blight
+22.7,61.8,159.1,6.11,83,63,30,Potato,Early Blight
+15.2,81.6,194,6.02,73,46,43,Apple,Apple Scab
+21.6,63.5,146.6,6.6,108,44,48,Wheat,Powdery Mildew
+30,87.5,255.5,6.21,95,25,39,Chili,Leaf Spot
+18.1,76.2,160.4,6.21,73,49,42,Apple,Apple Scab
+29.3,83.6,158.7,6.38,104,44,30,Maize,Common Rust
+24.4,75.2,139.2,7.01,98,52,47,Apple,Fire Blight
+29.6,86,262.1,6.25,96,25,39,Chili,Leaf Spot
+37.5,46.8,247.7,6.65,61,58,39,Cotton,Bacterial Blight
+20.8,57.1,136.6,6.74,94,42,40,Wheat,Powdery Mildew
+28.1,72,165,6.37,101,31,28,Maize,Common Rust
+28.2,78.7,154.6,6.13,97,37,34,Maize,Common Rust
+20.5,79,157.9,6.33,75,36,47,Apple,Apple Scab
+15.9,88.7,166.8,6.8,89,46,40,Apple,Apple Scab
+32.7,53.9,192.5,6.65,100,61,22,Chili,Anthracnose
+23.9,66.4,155.8,6.6,89,38,37,Wheat,Leaf Rust
+26.6,59.9,101.8,7.64,57,47,41,Potato,Common Scab
+20.8,68.1,150,6.01,68,63,28,Potato,Early Blight
+23.4,84.2,177.5,6.78,90,43,39,Apple,Cedar Apple Rust
+31.7,66.1,161.5,6.59,99,49,46,Tomato,Bacterial Spot
+35.5,78,276.9,6.78,95,47,41,Rice,Bacterial Leaf Blight
+16.5,75,168.4,5.87,81,44,40,Apple,Apple Scab
+33.9,50.7,234.5,6.35,80,51,35,Cotton,Bacterial Blight
+35.7,88.1,134.9,6.82,108,46,22,Maize,Turcicum Leaf Blight
+36.8,89.8,147.2,6.86,111,46,28,Maize,Turcicum Leaf Blight
+28.7,76.1,175.1,6.34,100,38,25,Maize,Common Rust
+17.2,83.7,193,6.19,87,40,42,Apple,Apple Scab
+30.1,65.8,180.1,6.1,95,49,29,Cotton,Leaf Spot
+34.5,45.9,197.9,6.78,100,57,21,Chili,Anthracnose
+27.3,63.6,152,6.15,87,48,43,Wheat,Leaf Rust
+25.6,76.7,162.5,6.6,91,46,38,Tomato,Bacterial Spot
+26.7,59.4,120.9,7.97,65,43,37,Potato,Common Scab
+28.1,66.8,142.3,6,87,47,35,Tomato,Early Blight
+25.6,66.9,128.6,6.43,91,59,33,Tomato,Early Blight
+21.7,81.1,161.7,5.57,76,38,33,Tomato,Late Blight
+29.7,87.1,177.4,6.2,98,45,25,Maize,Gray Leaf Spot
+36,78,274.5,6.64,105,40,49,Rice,Bacterial Leaf Blight
+36.2,91.3,133.4,7.11,119,49,21,Maize,Turcicum Leaf Blight
+30.6,51.3,185.8,6.71,107,61,22,Chili,Anthracnose
+21.5,77.8,173.3,6.37,89,49,44,Apple,Cedar Apple Rust
+19.5,77.6,169.1,6.6,84,45,40,Apple,Cedar Apple Rust
+29.1,82.6,261.1,6.35,96,32,41,Chili,Leaf Spot
+30.7,42.8,200.4,6.66,68,56,38,Cotton,Bacterial Blight
+21.7,86.4,188.4,6.11,89,44,34,Tomato,Late Blight
+20.2,53.7,136.7,6.25,88,39,37,Wheat,Powdery Mildew
+31,52.6,299.2,6.77,87,43,37,Rice,Leaf Blast
+19.5,83.7,186,5.89,76,37,41,Tomato,Late Blight
+33.2,82.8,269,6.56,95,38,35,Rice,Bacterial Leaf Blight
+30.7,53,234,6.63,83,57,35,Cotton,Bacterial Blight
+35.1,90.7,130.6,7.08,119,41,25,Maize,Turcicum Leaf Blight
+23.8,62.2,148.7,5.83,61,57,30,Potato,Early Blight
+33.7,53.3,274.7,6.36,85,34,36,Rice,Leaf Blast
+24.9,94.9,196.3,6.79,88,48,44,Apple,Cedar Apple Rust
+28.7,61.7,224.7,5.95,84,27,25,Rice,Brown Spot
+33.9,75.2,222.3,6.58,94,37,44,Rice,Bacterial Leaf Blight
+25.5,70.6,158.3,6,92,30,32,Maize,Common Rust
+29.9,55.2,206.5,7.03,86,45,31,Cotton,Verticillium Wilt
+34.5,41.1,235.2,6.75,70,52,44,Cotton,Bacterial Blight
+29.7,75.2,225.1,6.39,95,45,25,Cotton,Leaf Spot
+20.1,69.6,155.1,6.08,70,52,26,Potato,Early Blight
+28.2,67.6,156,6.76,85,41,33,Cotton,Verticillium Wilt
+26.6,61.5,149.8,6.05,88,57,32,Tomato,Early Blight
+21.6,78.7,152.4,6.31,84,30,41,Potato,Late Blight
+37.1,56.9,203.8,6.35,72,54,37,Cotton,Bacterial Blight
+19.7,76.2,169.4,5.82,112,39,35,Wheat,Septoria Leaf Spot
+29.3,73.8,161.1,6.44,98,43,30,Chili,Powdery Mildew
+17.6,85.4,172,6.47,79,49,42,Apple,Apple Scab
+31.7,77.7,191.7,6.44,83,43,27,Cotton,Leaf Spot
+28.5,65.5,214.8,6.44,91,43,27,Cotton,Leaf Spot
+33.5,89.7,140.6,6.94,121,51,29,Maize,Turcicum Leaf Blight
+27.8,74.6,164.6,6.48,99,35,41,Wheat,Leaf Rust
+21,76.2,160.5,6.19,82,44,48,Apple,Apple Scab
+36.7,86.7,131.5,6.96,122,51,25,Maize,Turcicum Leaf Blight
+33.5,66.5,220.3,6.6,82,36,33,Cotton,Leaf Spot
+37.1,49.9,232.3,6.57,61,56,40,Cotton,Bacterial Blight
+25,63,138.8,6.46,80,56,25,Tomato,Early Blight
+37,58.4,226.4,6.68,70,56,37,Cotton,Bacterial Blight
+26.3,61.6,163.6,6.54,98,37,43,Wheat,Leaf Rust
+23.5,46.6,131.3,7.47,50,47,44,Potato,Common Scab
+28.2,69.3,183.8,6.5,94,44,39,Chili,Powdery Mildew
+34.6,47.3,296.1,6.6,90,37,36,Rice,Leaf Blast
+35,83.7,267.5,6.58,108,49,35,Rice,Bacterial Leaf Blight
+21.4,83,177.3,6.57,104,27,35,Wheat,Septoria Leaf Spot
+29,73.8,165.6,6.27,102,30,38,Chili,Powdery Mildew
+18.4,75.6,142.2,5.92,79,28,42,Potato,Late Blight
+25.2,73.8,178.9,6.66,87,36,31,Chili,Powdery Mildew
+28.4,72.2,176.7,6.25,102,30,31,Chili,Powdery Mildew
+26.7,70,139.7,6.35,80,56,25,Tomato,Early Blight
+22.3,66.2,138.3,5.88,71,55,30,Potato,Early Blight
+31,54.7,295.7,6.38,86,31,39,Rice,Leaf Blast
+33.5,83.4,171.8,6.29,103,49,23,Maize,Gray Leaf Spot
+20.2,75.4,167.4,6.88,80,45,58,Apple,Fire Blight
+24.2,69.1,148.7,6.18,84,53,37,Tomato,Early Blight
+31.7,70,190.4,6.8,92,42,27,Cotton,Leaf Spot
+30.6,81.5,259.3,6.1,99,27,38,Chili,Leaf Spot
+33.2,74.4,229.9,6.15,81,33,29,Rice,Brown Spot
+21.2,94.1,188.5,6.06,88,40,34,Tomato,Late Blight
+31.9,68.8,227.7,6.48,86,37,27,Cotton,Leaf Spot
+33.6,88.4,157.9,7.03,108,49,29,Maize,Turcicum Leaf Blight
+21,78.4,186.5,6.52,82,46,46,Apple,Apple Scab
+33.7,74.4,205.9,5.51,73,39,26,Rice,Brown Spot
+22.7,64.4,156.6,5.94,62,52,32,Potato,Early Blight
+21.5,68.8,138.8,6.57,86,59,50,Apple,Fire Blight
+20.1,85.2,169.4,5.82,85,41,41,Tomato,Late Blight
+29.6,85.2,295.7,6.49,100,27,35,Chili,Leaf Spot
+19.4,71.8,179.5,6.39,75,20,44,Potato,Late Blight
+23.4,62.7,129.7,6.81,101,41,46,Wheat,Powdery Mildew
+20.4,75,179.7,6.26,99,36,37,Wheat,Septoria Leaf Spot
+20.6,68.5,132.3,7.12,95,50,50,Apple,Fire Blight
+19.3,60.2,142.1,5.88,71,25,38,Potato,Late Blight
+21.5,71.3,178,6.41,110,32,43,Wheat,Septoria Leaf Spot
+25.2,84.6,183.1,5.89,108,36,28,Maize,Common Rust
+25.5,67.8,142.3,6.99,92,58,50,Apple,Fire Blight
+26.4,60.7,142.5,6.2,95,51,35,Tomato,Early Blight
+35.3,44.2,232,6.6,63,48,41,Cotton,Bacterial Blight
+28.8,73,163.4,6.91,98,54,47,Tomato,Bacterial Spot
+37.4,53.8,238.1,6.4,65,52,36,Cotton,Bacterial Blight
+18.3,91.1,189.1,6.16,78,41,30,Tomato,Late Blight
+33.8,93,150.9,7.17,108,49,22,Maize,Turcicum Leaf Blight
+32.7,75.7,224.1,6.37,81,49,29,Cotton,Leaf Spot
+17,87.3,162.9,6.77,81,35,40,Apple,Apple Scab
+15.7,77,186.9,6.46,73,40,43,Apple,Apple Scab
+32.7,65.3,217.8,6.27,86,42,27,Cotton,Leaf Spot
+30.8,67.9,193.5,6.85,91,41,26,Cotton,Leaf Spot
+20.1,81.6,192.1,5.92,102,30,32,Wheat,Septoria Leaf Spot
+23.5,81.1,166.2,6.26,91,43,40,Apple,Cedar Apple Rust
+25.9,70.7,143.1,6.98,97,48,46,Apple,Fire Blight
+36.1,87.7,232.4,6.92,106,49,48,Rice,Bacterial Leaf Blight
+17.2,87.8,178.7,6.41,73,47,53,Apple,Apple Scab
+33.6,53.7,184.3,6.72,107,57,23,Chili,Anthracnose
+30.3,61.2,205.4,5.91,81,31,29,Rice,Brown Spot
+27.7,76.9,186,6.43,106,35,32,Maize,Common Rust
+30.1,56.4,190.9,6.87,108,51,22,Chili,Anthracnose
+31.7,42.5,209.1,6.31,79,58,41,Cotton,Bacterial Blight
+31.4,77.9,197.1,6.5,114,43,19,Maize,Gray Leaf Spot
+27.2,69.1,173.6,6.29,90,38,32,Chili,Powdery Mildew
+19.3,84.5,165.2,6.1,95,28,41,Wheat,Septoria Leaf Spot
+24,74.1,168.4,7.39,82,48,57,Apple,Fire Blight
+26.5,58.7,161.9,7.05,72,40,30,Cotton,Verticillium Wilt
+36,87.2,142.1,7.11,124,41,25,Maize,Turcicum Leaf Blight
+29.2,75.8,155.2,6.56,98,30,38,Chili,Powdery Mildew
+33.7,75.2,191.8,6.05,100,36,27,Maize,Gray Leaf Spot
+20.4,93,194.3,6.07,75,33,43,Tomato,Late Blight
+35.2,86.1,267.5,6.58,105,37,35,Rice,Bacterial Leaf Blight
+31.6,53.8,294.6,6.4,94,31,33,Rice,Leaf Blast
+22.1,78.9,141.6,6.94,87,46,47,Apple,Fire Blight
+33.1,47.3,205.3,6.6,118,53,22,Chili,Anthracnose
+23.3,71.2,188.3,6.54,100,30,38,Wheat,Septoria Leaf Spot
+26.2,57.9,129.9,7.16,62,43,40,Potato,Common Scab
+24.5,71.8,137.8,6.66,97,38,39,Wheat,Leaf Rust
+30.3,48.3,281.2,6.33,85,36,33,Rice,Leaf Blast
+19.9,84.4,161.3,6.26,98,35,32,Wheat,Septoria Leaf Spot
+20.1,61.7,138.3,6.82,106,43,49,Wheat,Powdery Mildew
+28.2,89.4,259.3,6.1,104,29,35,Chili,Leaf Spot
+26.6,54.2,134.9,7.59,52,58,30,Potato,Common Scab
+22.5,67.4,173.6,6.42,82,20,42,Potato,Late Blight
+21.1,50.8,95.3,7.11,52,37,34,Potato,Common Scab
+15.2,84.5,182.2,5.98,85,39,42,Apple,Apple Scab
+26.1,82.4,187,6.24,92,43,32,Maize,Common Rust
+35.5,77.5,252.1,6.88,108,38,41,Rice,Bacterial Leaf Blight
+31.5,55.2,170.1,6.96,88,53,30,Cotton,Verticillium Wilt
+21.5,65.2,143,5.92,75,52,27,Potato,Early Blight
+29,86.3,288.1,6.44,112,34,40,Chili,Leaf Spot
+23.9,72.9,135.3,6.56,99,43,37,Wheat,Leaf Rust
+24.7,67.5,151.2,6.11,97,45,36,Tomato,Early Blight
+24.4,56.2,119,6.59,69,58,41,Potato,Common Scab
+32.3,45.1,233.9,6.58,64,49,43,Cotton,Bacterial Blight
+26.6,74.7,155.2,6.63,104,42,38,Chili,Powdery Mildew
+33.2,49.4,263.4,6.6,98,44,36,Rice,Leaf Blast
+21.2,75.8,176.2,6.04,85,22,48,Potato,Late Blight
+25.2,48,116.7,7.63,52,45,34,Potato,Common Scab
+27.5,75,121.3,6.03,81,56,27,Tomato,Early Blight
+28.8,89.5,253,6.45,101,30,39,Chili,Leaf Spot
+28.9,64.3,193.7,7.17,87,53,35,Cotton,Verticillium Wilt
+19.3,65.5,155.6,6.33,89,33,47,Potato,Late Blight
+24.7,66.9,133.1,6.54,101,34,39,Wheat,Leaf Rust
+26.6,79.9,147.1,7.37,99,47,52,Apple,Fire Blight
+22.3,80.9,182,6.7,87,27,43,Potato,Late Blight
+18.2,83.6,171.9,6.26,86,46,44,Apple,Cedar Apple Rust
+22.1,54.1,146.9,6.42,107,40,44,Wheat,Powdery Mildew
+30,74.9,140.3,6.29,89,44,37,Tomato,Bacterial Spot
+36.8,91.6,139.7,7.01,113,45,28,Maize,Turcicum Leaf Blight
+20.7,75,180.9,6.27,95,36,40,Wheat,Septoria Leaf Spot
+28.5,77.4,181.7,6.73,104,36,39,Chili,Powdery Mildew
+30.8,51,194.5,6.68,106,60,17,Chili,Anthracnose
+26.8,65.9,185.9,6.22,104,39,39,Chili,Powdery Mildew
+19.9,83.5,171.8,6.71,77,51,43,Apple,Cedar Apple Rust
+24.6,80.6,180,6.11,77,46,49,Apple,Cedar Apple Rust
+25.7,65.8,160.4,7.08,96,48,57,Apple,Fire Blight
+32.5,74.9,261.7,6.41,107,39,35,Rice,Bacterial Leaf Blight
+30.1,89.8,253,6.24,110,26,41,Chili,Leaf Spot
+30.4,78.4,179.8,6.62,105,42,25,Maize,Gray Leaf Spot
+23.4,67.1,163.6,6.21,80,33,40,Potato,Late Blight
+25.8,57,120.7,6.71,63,52,41,Potato,Common Scab
+23.2,50.7,148.4,6.91,95,35,41,Wheat,Powdery Mildew
+33.2,84.7,262,6.25,108,36,49,Rice,Bacterial Leaf Blight
+18.7,83.2,200.1,6.13,101,37,40,Wheat,Septoria Leaf Spot
+24.5,53.7,134.6,7.97,58,56,41,Potato,Common Scab
+27.2,68.3,143.4,6.15,92,57,39,Tomato,Early Blight
+32.9,50,258.8,6.71,93,31,37,Rice,Leaf Blast
+37.7,80.6,252.4,6.46,96,42,44,Rice,Bacterial Leaf Blight
+25.1,56.7,158.7,6.73,88,40,32,Cotton,Verticillium Wilt
+20.1,77,143.1,6.86,86,52,55,Apple,Fire Blight
+24,69,139.5,5.84,65,56,33,Potato,Early Blight
+26.8,78.2,171.3,5.82,109,34,25,Maize,Common Rust
+19,84.8,192.8,6.03,96,25,31,Wheat,Septoria Leaf Spot
+28.5,68.6,203.4,7.29,75,48,32,Cotton,Verticillium Wilt
+17.8,70.9,165.5,5.86,74,38,54,Apple,Apple Scab
+29.3,64,248.2,5.53,89,26,32,Rice,Brown Spot
+29.9,82.4,173.8,6.45,98,44,27,Maize,Common Rust
+29.6,67.4,199.6,6.86,82,42,35,Cotton,Verticillium Wilt
+28.6,78.6,146.4,6.61,96,51,37,Tomato,Bacterial Spot
+31.5,57.1,207.6,6.71,107,62,20,Chili,Anthracnose
+34,68.3,183.2,6.74,84,40,25,Cotton,Leaf Spot
+21.6,94.9,172.1,6.11,84,36,33,Tomato,Late Blight
+26.5,57.1,139.4,7.63,57,51,39,Potato,Common Scab
+31,73.2,224.8,5.88,70,25,27,Rice,Brown Spot
+24,65.7,179.2,6.2,88,31,45,Potato,Late Blight
+30,63.9,207.3,5.86,81,30,29,Rice,Brown Spot
+29.2,79.9,152.4,6.47,92,41,31,Maize,Common Rust
+36.1,88.8,263.3,6.19,98,36,40,Rice,Bacterial Leaf Blight
+24.3,74.7,124.7,6.13,97,52,27,Tomato,Early Blight
+18,78.6,180.5,6.71,79,49,48,Apple,Apple Scab
+34.6,77,262.6,6.36,106,41,45,Rice,Bacterial Leaf Blight
+31.9,75.1,170.4,6.27,94,44,48,Tomato,Bacterial Spot
+20.3,71,165.3,6.27,84,31,48,Potato,Late Blight
+26.4,69,159.3,6.62,104,41,38,Wheat,Leaf Rust
+29.5,71.1,183.9,6.29,85,41,30,Chili,Powdery Mildew
+34.9,86.3,277.3,6.93,108,42,40,Rice,Bacterial Leaf Blight
+33.9,82.2,276.3,6.67,91,41,48,Rice,Bacterial Leaf Blight
+22.8,91.1,187.7,5.68,88,32,43,Tomato,Late Blight
+28.6,85.6,184.5,6.06,111,40,18,Maize,Gray Leaf Spot
+25.7,71.1,162.2,6.68,92,31,39,Wheat,Leaf Rust
+28.8,58.3,154.4,7.21,84,49,35,Cotton,Verticillium Wilt
+25.8,64.5,153.1,6.53,72,54,39,Cotton,Verticillium Wilt
+23.1,52.8,124.3,6.87,51,47,33,Potato,Common Scab
+30.2,71.3,215.4,5.99,70,37,29,Rice,Brown Spot
+33.4,52.3,267.7,6.61,93,38,36,Rice,Leaf Blast
+26.3,47.7,132,7.33,57,42,42,Potato,Common Scab
+32.8,93.4,153.6,7.06,114,54,28,Maize,Turcicum Leaf Blight
+21.9,85.9,193.8,5.53,86,33,34,Tomato,Late Blight
+23.4,63.5,132.7,6.15,96,35,39,Wheat,Leaf Rust
+35.8,86.5,150.4,6.84,122,47,23,Maize,Turcicum Leaf Blight
+16.2,72.2,166.1,5.56,88,30,27,Wheat,Septoria Leaf Spot
+19.1,73.6,176.7,6,101,27,34,Wheat,Septoria Leaf Spot
+26.5,69.4,190.1,7.28,85,48,37,Cotton,Verticillium Wilt
+23.2,66.1,145.4,5.89,64,53,26,Potato,Early Blight
+25.2,64.7,166,6.69,94,35,41,Wheat,Leaf Rust
+24.5,51.1,121.2,7.39,50,49,44,Potato,Common Scab
+26.6,53.8,121.5,6.9,57,57,39,Potato,Common Scab
+28.4,70.3,131.1,6.22,88,59,27,Tomato,Early Blight
+30.4,81.8,263.7,6.2,108,31,40,Chili,Leaf Spot
+20.8,82.2,183.4,6.04,78,44,49,Apple,Apple Scab
+20.5,81.9,165.7,5.9,107,27,31,Wheat,Septoria Leaf Spot
+30.7,71.8,237.1,5.58,73,31,28,Rice,Brown Spot
+28.6,75.3,176.6,6.52,95,44,39,Tomato,Bacterial Spot
+31.4,78.7,163,6.62,102,54,42,Tomato,Bacterial Spot
+29.3,80.5,223.3,6.19,83,43,28,Cotton,Leaf Spot
+18.4,78.7,189.4,6.11,86,40,45,Apple,Cedar Apple Rust
+27.7,73.8,163.1,6.53,91,50,47,Tomato,Bacterial Spot
+32.4,74,240.6,6.2,76,32,29,Rice,Brown Spot
+35.9,89.5,223.3,6.57,107,42,36,Rice,Bacterial Leaf Blight
+25.8,77.6,153.4,5.83,100,33,25,Maize,Common Rust
+31.7,63.4,160.5,6.97,82,40,30,Cotton,Verticillium Wilt
+30.3,89.7,284.4,6.45,108,32,37,Chili,Leaf Spot
+15.2,74,170,5.97,73,40,54,Apple,Apple Scab
+25.9,56.7,118.3,7.1,56,41,33,Potato,Common Scab
+22.9,74.2,155.7,6.31,82,26,41,Potato,Late Blight
+36.7,39.5,247.1,6.79,62,49,38,Cotton,Bacterial Blight
+30.1,74.8,143.8,6.62,99,54,45,Tomato,Bacterial Spot
+21.2,82.2,184.6,6.14,89,53,43,Apple,Cedar Apple Rust
+22.6,88.8,190.3,6.15,86,48,54,Apple,Apple Scab
+25.2,77.4,161.4,6.47,91,34,34,Chili,Powdery Mildew
+23.1,86.4,181.9,6.45,71,49,41,Apple,Apple Scab
+24.9,68.4,133.7,6.17,81,57,30,Potato,Early Blight
+30.4,76.5,209,6.1,101,39,16,Maize,Gray Leaf Spot
+23.2,71.7,163,6.18,83,22,43,Potato,Late Blight
+22.8,60.7,153.3,5.98,73,56,29,Potato,Early Blight
+25.9,75.9,130.3,6.72,89,51,58,Apple,Fire Blight
+25.2,73.4,161.4,7.05,82,57,56,Apple,Fire Blight
+29.6,88.6,208,6.19,110,38,26,Maize,Gray Leaf Spot
+27.5,75.5,180,6.41,107,33,33,Maize,Common Rust
+29.7,81.3,150,6.34,104,30,28,Maize,Common Rust
+29.6,75.5,176.8,5.96,94,38,30,Maize,Common Rust
+26.6,60,135,6.06,88,56,31,Tomato,Early Blight
+26.1,72,131.3,6.31,88,48,32,Tomato,Early Blight
+28,65.6,145.6,6.25,96,42,42,Tomato,Bacterial Spot
+31.5,65.8,210.2,5.66,81,31,30,Rice,Brown Spot
+31.5,64.1,169.8,6.89,84,49,36,Cotton,Verticillium Wilt
+19,72.9,155,6.1,85,40,42,Apple,Apple Scab
+20.8,63.2,136.7,6.54,100,42,49,Wheat,Powdery Mildew
+28,80.7,194,6.44,104,36,17,Maize,Gray Leaf Spot
+22.6,87.8,199.6,5.86,76,37,32,Tomato,Late Blight
+31.3,81,253.5,6.08,110,32,40,Chili,Leaf Spot
+28.5,75.9,160.2,6.56,100,49,44,Tomato,Bacterial Spot
+25.5,69.5,152.8,6.46,88,47,44,Tomato,Bacterial Spot
+26.5,72,180.9,5.95,94,34,30,Maize,Common Rust
+24.5,51.3,100.7,7.69,51,49,38,Potato,Common Scab
+22.3,74.8,196.2,5.9,98,32,31,Wheat,Septoria Leaf Spot
+28.4,82.7,155.5,5.82,108,32,33,Maize,Common Rust
+23.6,66.4,150.8,6.02,66,55,26,Potato,Early Blight
+36.2,48.7,211.2,6.4,64,56,37,Cotton,Bacterial Blight
+24.8,77.3,184.5,6.71,75,54,46,Apple,Cedar Apple Rust
+18.3,78.3,181.8,6.92,87,54,36,Apple,Cedar Apple Rust
+34.6,92.9,151.5,7.14,105,54,23,Maize,Turcicum Leaf Blight
+28.7,77.8,151.9,6.5,98,38,36,Chili,Powdery Mildew
+25.6,83.7,175.2,6.39,107,36,25,Maize,Common Rust
+20.5,77.3,188.7,6.71,92,27,51,Potato,Late Blight
+21.3,62.4,159.2,5.96,82,59,32,Potato,Early Blight
+27.5,79.2,163.4,6.27,99,36,33,Maize,Common Rust
+33,87.9,134.6,7.12,106,41,22,Maize,Turcicum Leaf Blight
+25.9,74.7,166.5,6.35,85,37,43,Wheat,Leaf Rust
+36.1,45.2,226.7,6.33,65,52,35,Cotton,Bacterial Blight
+31.4,53.6,183.7,6.85,114,50,21,Chili,Anthracnose
+32.8,87.4,208.1,6.11,104,43,19,Maize,Gray Leaf Spot
+32.7,73.2,190.3,6.76,96,43,29,Cotton,Leaf Spot
+21.5,81.1,187,5.96,102,26,31,Wheat,Septoria Leaf Spot
+28.7,84.6,250.7,6.24,96,34,42,Chili,Leaf Spot
+22,58.5,140.6,7.05,101,40,40,Wheat,Powdery Mildew
+29,68.9,162,6.6,98,40,36,Chili,Powdery Mildew
+29.5,80.4,160.4,6.43,98,42,28,Maize,Common Rust
+27.8,63.1,159.7,6.44,102,41,40,Wheat,Leaf Rust
+25.8,84.3,189.8,6.9,88,27,54,Potato,Late Blight
+24,77.2,179.4,6.25,113,37,36,Wheat,Septoria Leaf Spot
+30.6,79.8,177.7,6.79,104,48,35,Tomato,Bacterial Spot
+23.5,76,193.1,6.29,73,45,50,Apple,Apple Scab
+32.2,88,156.1,6.81,115,50,26,Maize,Turcicum Leaf Blight
+29.4,79.6,198.1,6.6,92,43,34,Cotton,Leaf Spot
+23,61.8,132.7,6.58,103,38,36,Wheat,Leaf Rust
+25.1,67.6,162,7.45,76,46,37,Cotton,Verticillium Wilt
+30.5,80.9,297.3,6.15,99,26,44,Chili,Leaf Spot
+29.7,75.3,192.1,6.4,103,36,28,Maize,Gray Leaf Spot
+25.7,68.2,150.9,6.34,85,52,37,Tomato,Early Blight
+34.3,44.4,232.8,6.62,65,45,39,Cotton,Bacterial Blight
+25.4,73.8,151.3,6.26,95,38,30,Chili,Powdery Mildew
+33.4,80.5,199,6.06,106,42,29,Maize,Gray Leaf Spot
+32.2,94.9,138.4,7.17,124,48,20,Maize,Turcicum Leaf Blight
+24.3,80,151.9,6.92,98,48,46,Apple,Fire Blight
+24,52.1,137.4,6.7,92,41,42,Wheat,Powdery Mildew
+25.9,76.8,183.4,6.53,96,39,34,Chili,Powdery Mildew
+33.9,45.8,212.6,6.65,79,48,35,Cotton,Bacterial Blight
+27.5,78.5,171.5,6.24,93,45,46,Tomato,Bacterial Spot
+32.5,55.5,221.6,6.53,72,55,37,Cotton,Bacterial Blight
+20.1,76.8,164.4,6,86,20,47,Potato,Late Blight
+22,57.3,136.7,6.27,97,38,38,Wheat,Powdery Mildew
+21.9,73.7,188.7,6.42,108,34,43,Wheat,Septoria Leaf Spot
+22.2,89.5,167.4,5.84,70,46,48,Apple,Apple Scab
+36.4,91.6,154.8,7.07,115,43,27,Maize,Turcicum Leaf Blight
+22.7,56.6,137.7,5.83,95,33,40,Wheat,Leaf Rust
+37.4,44.7,242.7,7.07,71,48,37,Cotton,Bacterial Blight
+35.7,58.8,234.7,6.77,73,54,44,Cotton,Bacterial Blight
+26.6,76.6,157.7,6.11,93,38,31,Maize,Common Rust
+28.3,78.5,195.3,6.18,98,41,24,Maize,Gray Leaf Spot
+19.8,75.5,172.2,6.62,92,54,47,Apple,Cedar Apple Rust
+30.3,46.4,281.1,6.4,92,38,32,Rice,Leaf Blast
+29.4,68.2,153.4,6.71,92,48,44,Tomato,Bacterial Spot
+37.3,56.1,206.4,6.8,66,55,44,Cotton,Bacterial Blight
+22.4,83.6,198.8,5.92,78,37,33,Tomato,Late Blight
+24.9,75.9,149.3,6.75,92,53,47,Apple,Fire Blight
+18.7,81.8,194.5,5.52,89,32,31,Tomato,Late Blight
+20.9,87.8,179.2,5.72,77,41,43,Tomato,Late Blight
+20.1,80.4,162.6,5.95,89,38,37,Tomato,Late Blight
+21.9,73.5,166.3,6.35,106,36,34,Wheat,Septoria Leaf Spot
+21.8,89.6,171.6,5.87,79,35,44,Apple,Apple Scab
+18.9,84.4,180.7,5.86,107,28,42,Wheat,Septoria Leaf Spot
+35,51.5,192.8,6.92,116,60,19,Chili,Anthracnose
+35.7,88.2,153.2,7.19,123,43,22,Maize,Turcicum Leaf Blight
+23.2,58.9,120.5,6.84,96,41,45,Wheat,Powdery Mildew
+20.4,65.4,147.6,6.1,70,51,27,Potato,Early Blight
+33.4,45.3,204.5,6.58,71,46,41,Cotton,Bacterial Blight
+20.1,90.8,196.5,5.91,89,36,43,Tomato,Late Blight
+33.2,53.5,274,6.49,92,38,31,Rice,Leaf Blast
+25,77.5,174.6,6.24,87,41,36,Apple,Cedar Apple Rust
+21.9,83,195.8,6.54,96,33,41,Wheat,Septoria Leaf Spot
+24.2,51.9,108.4,7.05,57,41,41,Potato,Common Scab
+28.3,72.8,189.7,6.23,94,31,31,Chili,Powdery Mildew
+26.5,68.5,183.2,6.61,89,35,35,Chili,Powdery Mildew
+35.9,47.1,250.6,6.8,89,40,31,Rice,Leaf Blast
+20.4,77.3,181.6,6.45,98,37,40,Wheat,Septoria Leaf Spot
+32.9,52,253.4,6.4,88,41,31,Rice,Leaf Blast
+22.1,75.1,152.5,6.33,80,29,41,Potato,Late Blight
+18.5,65.9,153.6,6.08,88,23,49,Potato,Late Blight
+30.4,57.4,152.4,6.86,82,41,39,Cotton,Verticillium Wilt
+22.3,49,125.4,6.2,85,36,45,Wheat,Powdery Mildew
+37.8,40.6,247.9,6.35,65,45,42,Cotton,Bacterial Blight
+29.5,68.7,216.5,6.08,70,33,28,Rice,Brown Spot
+19.9,92.8,190.9,5.91,79,44,39,Tomato,Late Blight
+36.5,46.1,230.1,6.6,69,58,40,Cotton,Bacterial Blight
+22,47.5,128.5,7.5,69,55,44,Potato,Common Scab
+31.9,82,297.6,6.27,108,25,38,Chili,Leaf Spot
+22,84.8,166.5,6.99,89,52,36,Apple,Cedar Apple Rust
+27.4,79.8,167.6,6.59,86,39,38,Chili,Powdery Mildew
+31.9,56.6,192.9,6.67,108,59,24,Chili,Anthracnose
+26.4,51.7,120.4,7.44,68,40,37,Potato,Common Scab
+22.5,75.7,172.1,6.17,111,38,38,Wheat,Septoria Leaf Spot
+33,78,254.8,6.95,91,42,39,Rice,Bacterial Leaf Blight
+25.1,67.6,153.2,6.07,90,55,37,Tomato,Early Blight
+33.7,94,144,6.96,119,53,20,Maize,Turcicum Leaf Blight
+38,85,135.9,6.88,119,45,24,Maize,Turcicum Leaf Blight
+27.5,63.8,156.4,6.15,87,46,38,Tomato,Early Blight
+31.1,50.1,151.3,6.97,74,50,35,Cotton,Verticillium Wilt
+23.1,72.3,199,6.47,105,39,31,Wheat,Septoria Leaf Spot
+18.7,71.9,181.2,6.02,95,35,30,Wheat,Septoria Leaf Spot
+20.5,60.8,151,5.83,80,60,25,Potato,Early Blight
+33.2,58.5,198.9,6.87,116,50,22,Chili,Anthracnose
+29.8,66.9,147.6,6.69,98,49,41,Tomato,Bacterial Spot
+32.3,83.2,180.8,6.7,106,45,25,Maize,Gray Leaf Spot
+31,85,273.7,6.06,106,27,44,Chili,Leaf Spot
+36.6,92.7,150.2,6.92,114,41,24,Maize,Turcicum Leaf Blight
+22,82.1,161.4,6.08,76,46,35,Apple,Cedar Apple Rust
+29.7,74.3,203.8,5.92,71,38,30,Rice,Brown Spot
+29.9,81.1,179.7,6.62,113,41,24,Maize,Gray Leaf Spot
+37.5,43.9,222,6.7,75,46,41,Cotton,Bacterial Blight
+18.9,80.5,185.7,6.43,113,35,32,Wheat,Septoria Leaf Spot
+15.4,85.6,152,6.11,81,41,44,Apple,Apple Scab
+22,45.1,108.8,6.56,52,46,42,Potato,Common Scab
+18,84.5,179,5.95,76,38,45,Apple,Apple Scab
+24,60.7,137.8,6.43,99,41,46,Wheat,Powdery Mildew
+27.6,77.6,154.4,6.68,88,42,36,Chili,Powdery Mildew
+23.6,77.5,193.7,6.16,109,35,32,Wheat,Septoria Leaf Spot
+33.9,45.4,281.1,6.69,92,35,32,Rice,Leaf Blast
+28.2,64.1,202,5.79,87,39,31,Rice,Brown Spot
+19.5,80.3,160.3,6.48,81,50,44,Apple,Cedar Apple Rust
+21.5,77.8,165.8,6.69,85,49,46,Apple,Cedar Apple Rust
+23.9,59.5,103.6,7.53,59,47,39,Potato,Common Scab
+37.9,54.9,247.1,6.41,79,45,41,Cotton,Bacterial Blight
+28.1,82,284.1,6.38,111,27,44,Chili,Leaf Spot
+31.1,67.6,209,5.57,72,26,31,Rice,Brown Spot
+25.9,53.7,105.9,7.72,62,47,40,Potato,Common Scab
+21.2,79.4,157,6.32,88,21,49,Potato,Late Blight
+23.8,55.9,126.6,5.78,71,48,23,Tomato,Early Blight
+31.1,72.4,226.6,5.9,80,25,31,Rice,Brown Spot
+35.6,45.9,275.6,6.76,98,32,33,Rice,Leaf Blast
+32.7,45.3,294,6.31,99,37,33,Rice,Leaf Blast
+18.3,81.2,165,6.09,84,30,35,Tomato,Late Blight
+32.1,91.7,155.4,6.94,105,54,22,Maize,Turcicum Leaf Blight
+22.9,66.6,150.4,6.21,91,31,38,Wheat,Leaf Rust
+31.4,66.5,224.9,6.01,83,37,27,Rice,Brown Spot
+27.7,71.4,131.2,6.28,82,54,38,Tomato,Early Blight
+26.4,67.4,158.9,6.66,104,51,48,Tomato,Bacterial Spot
+25.4,70.5,157.1,6.34,93,48,33,Tomato,Early Blight
+23.1,67.9,168.6,7.46,94,49,48,Apple,Fire Blight
+30.1,56.6,183.3,6.51,105,54,23,Chili,Anthracnose
+22.9,76.9,175.3,6.44,83,48,49,Apple,Cedar Apple Rust
+37,89.3,246.3,6.39,106,41,43,Rice,Bacterial Leaf Blight
+29.4,71.9,158.4,6.72,93,41,35,Chili,Powdery Mildew
+24.5,66.3,140.2,5.94,78,63,33,Potato,Early Blight
+18.7,80.5,169.8,6.22,84,49,40,Apple,Cedar Apple Rust
+27.2,66.2,157.8,6.67,85,48,43,Tomato,Bacterial Spot
+29.4,79.8,155.8,6.45,109,36,30,Maize,Common Rust
+26.3,70.7,157.5,6.45,81,47,36,Tomato,Early Blight
+30.1,47.1,274.4,6.74,92,43,34,Rice,Leaf Blast
+20.7,87.5,150.1,6.33,74,36,47,Apple,Apple Scab
+32.7,46.9,275.4,6.56,97,41,36,Rice,Leaf Blast
+16.4,80.7,158.2,6.23,78,45,42,Apple,Apple Scab
+21,69.7,156.5,6.66,86,55,54,Apple,Fire Blight
+25.7,58.7,117.4,6.89,58,54,30,Potato,Common Scab
+26.5,74.3,140.2,6.24,88,50,33,Tomato,Early Blight
+30.1,74.1,163.2,6.8,90,51,43,Tomato,Bacterial Spot
+28.4,89.2,200.6,6.51,98,44,22,Maize,Gray Leaf Spot
+25,76.1,175.2,6.03,106,40,28,Maize,Common Rust
+35.1,53,281.4,6.86,100,47,33,Rice,Leaf Blast
+25.5,67.8,169.8,6.56,95,43,39,Tomato,Bacterial Spot
+22.7,71.5,150.1,7.26,87,49,57,Apple,Fire Blight
+31.4,51.9,218.2,6.73,78,54,38,Cotton,Bacterial Blight
+34,56.3,208.3,6.7,104,58,16,Chili,Anthracnose
+30.5,46.2,261.2,6.55,97,40,37,Rice,Leaf Blast
+23.7,73.2,132,6.18,102,35,37,Wheat,Leaf Rust
+32.8,50.1,182.1,6.97,115,62,18,Chili,Anthracnose
+22.5,82.1,189,5.86,76,39,39,Tomato,Late Blight
+32.1,72.3,216.4,6.44,86,39,27,Cotton,Leaf Spot
+31.3,87.4,180.9,6.63,114,48,26,Maize,Gray Leaf Spot
+31.7,83.5,286,6.22,108,28,38,Chili,Leaf Spot
+27.6,52.8,192.6,7.35,83,40,32,Cotton,Verticillium Wilt
+28.9,70.4,157.8,6.16,86,57,27,Tomato,Early Blight
+30.3,66,247,6.17,72,31,29,Rice,Brown Spot
+30.4,54.8,207.3,6.55,105,63,17,Chili,Anthracnose
+24.3,73.1,142.7,6.19,82,59,32,Tomato,Early Blight
+24.9,69.4,131.2,6.08,83,52,30,Potato,Early Blight
+27.3,71,177.3,5.83,95,35,32,Maize,Common Rust
+30.4,49,218.7,6.61,79,49,40,Cotton,Bacterial Blight
+26.3,49.2,138,7.37,58,51,37,Potato,Common Scab
+20.7,75.2,189.9,6.51,110,29,41,Wheat,Septoria Leaf Spot
+29.3,65.1,205.5,6.56,96,42,34,Cotton,Leaf Spot
+29.6,72.8,251.8,6.04,73,37,32,Rice,Brown Spot
+32.2,91.1,158.5,7.2,114,47,26,Maize,Turcicum Leaf Blight
+27,72.7,169.4,6.26,90,53,41,Tomato,Bacterial Spot
+26.2,51.3,112.1,6.99,64,56,32,Potato,Common Scab
+24.2,48.1,102,7.77,69,55,42,Potato,Common Scab
+28,77.4,186.5,6.06,94,39,31,Maize,Common Rust
+24,89.5,170.5,6.05,85,39,52,Apple,Apple Scab
+23.5,82.3,174.2,6.32,105,35,40,Wheat,Septoria Leaf Spot
+29.2,82.8,182.1,6.14,97,42,29,Maize,Common Rust
+24.3,66.2,139.9,5.83,67,54,32,Potato,Early Blight
+23,91.6,176.2,5.85,80,44,40,Tomato,Late Blight
+36.3,85.8,147.2,7.03,123,47,21,Maize,Turcicum Leaf Blight
+32.4,52.7,205.1,6.87,105,50,19,Chili,Anthracnose
+21.4,71.3,176.5,6.4,108,39,34,Wheat,Septoria Leaf Spot
+24.7,65.4,133.6,6.66,82,48,51,Apple,Fire Blight
+20.7,67.9,148.6,6.01,82,61,26,Potato,Early Blight
+23.5,63.4,151.7,5.83,67,58,32,Potato,Early Blight
+31.7,76.1,207.9,6.4,105,47,27,Maize,Gray Leaf Spot
+23.8,74.6,161.8,7.4,94,47,57,Apple,Fire Blight
+29.2,82.8,156.9,6.14,104,41,32,Maize,Common Rust
+32.4,48.4,191.5,6.83,101,59,24,Chili,Anthracnose
+31.8,75.3,194.3,6.34,98,49,28,Maize,Gray Leaf Spot
+24.1,72.1,138.5,7.26,82,52,51,Apple,Fire Blight
+34,48.2,188,6.62,110,54,16,Chili,Anthracnose
+32,89.1,173.4,6.23,103,41,26,Maize,Gray Leaf Spot
+31.4,57.5,182.5,6.89,101,63,18,Chili,Anthracnose
+34.1,74.7,181,6.72,80,49,33,Cotton,Leaf Spot
+24.3,64.4,137,6.71,91,40,43,Wheat,Powdery Mildew
+34.4,57.5,198.2,6.69,110,61,23,Chili,Anthracnose
+29.5,83,189.9,6.21,105,33,31,Maize,Common Rust
+36.6,40.4,205.4,6.51,62,54,36,Cotton,Bacterial Blight
+30.9,45.7,290.6,6.68,96,40,36,Rice,Leaf Blast
+37.2,79.7,238.3,6.52,97,43,36,Rice,Bacterial Leaf Blight
+34.2,92.4,138.8,7.03,113,41,23,Maize,Turcicum Leaf Blight
+25.3,57.2,131.1,7.64,53,41,40,Potato,Common Scab
+30.6,48.1,283.2,6.63,89,36,31,Rice,Leaf Blast
+28.4,76.3,187.3,6.22,109,48,26,Maize,Gray Leaf Spot
+22,52.4,139.7,6.98,101,42,40,Wheat,Powdery Mildew
+30.1,84.3,178.1,7.32,106,40,44,Chili,Powdery Mildew
+24.4,67,150.1,6.18,84,58,37,Tomato,Early Blight
+28.7,81.2,257.2,6.33,108,33,42,Chili,Leaf Spot
+33.4,86.1,208.9,6.42,99,39,19,Maize,Gray Leaf Spot
+25.4,68.1,198.8,6.81,89,44,38,Cotton,Verticillium Wilt
+32.1,76.3,269.2,6.55,99,39,39,Rice,Bacterial Leaf Blight
+33.2,78.7,217.7,6.23,97,40,30,Cotton,Leaf Spot
+23.6,74.2,162.9,6.68,93,56,51,Apple,Fire Blight
+29.4,70.1,163,6.22,98,38,34,Chili,Powdery Mildew
+32.2,90,154.1,7.02,110,51,22,Maize,Turcicum Leaf Blight
+18.7,71.9,181.5,6.55,101,38,41,Wheat,Septoria Leaf Spot
+29.2,73.6,184.8,6.59,103,34,35,Chili,Powdery Mildew
+23.4,81,160.7,6.97,80,43,42,Apple,Cedar Apple Rust
+34.8,88.1,244.6,6.52,99,41,46,Rice,Bacterial Leaf Blight
+28.5,80.3,187.4,6.18,98,37,20,Maize,Gray Leaf Spot
+23.8,78.6,180.7,6.25,76,36,46,Apple,Apple Scab
+32.1,86.7,144.7,7.13,110,47,23,Maize,Turcicum Leaf Blight
+31.9,71.8,177.5,6.75,90,46,44,Tomato,Bacterial Spot
+29.4,60.2,207.8,5.72,72,39,28,Rice,Brown Spot
+32,56.9,202.9,6.57,101,63,20,Chili,Anthracnose
+24.7,71.2,144.3,6.51,88,44,40,Wheat,Leaf Rust
+34.1,58.4,243.7,6.37,64,50,37,Cotton,Bacterial Blight
+25.6,76.3,160.3,6.56,84,52,50,Apple,Fire Blight
+24.5,74,153,6.58,93,52,51,Apple,Fire Blight
+34.3,86,145.7,7.01,114,51,28,Maize,Turcicum Leaf Blight
+20,81.9,179.6,5.87,78,44,33,Tomato,Late Blight
+29.4,81.9,260.2,6.09,104,32,40,Chili,Leaf Spot
+27.5,71.9,168.6,7.24,96,46,53,Apple,Fire Blight
+22.6,69.4,154,6.2,68,61,29,Potato,Early Blight
+24,67.5,135.5,5.88,69,57,31,Potato,Early Blight
+25.5,79.4,180,6.58,91,32,34,Chili,Powdery Mildew
+22.8,78.9,195.5,6.13,107,34,36,Wheat,Septoria Leaf Spot
+34.4,49.7,216.1,6.34,82,57,36,Cotton,Bacterial Blight
+30.2,46,187.7,6.77,114,59,18,Chili,Anthracnose
+24.2,77.2,164.1,6.74,91,57,51,Apple,Fire Blight
+28.9,64.7,127.5,6.2,89,58,33,Tomato,Early Blight
+22.5,80.1,199.1,5.94,77,30,38,Tomato,Late Blight
+31.3,38.5,206.7,6.63,80,59,38,Cotton,Bacterial Blight
+32.4,48,183.7,6.67,102,64,15,Chili,Anthracnose
+37.2,59.2,232.7,6.72,73,48,40,Cotton,Bacterial Blight
+23.2,75.1,187,6.39,92,40,37,Apple,Cedar Apple Rust
+28.7,87.5,193.4,6.1,100,42,25,Maize,Gray Leaf Spot
+24.2,55.3,113.3,6.58,57,58,39,Potato,Common Scab
+33.8,47.2,201,6.9,117,62,19,Chili,Anthracnose
+23.3,57.5,100.6,7.07,56,40,31,Potato,Common Scab
+26.8,68.7,154.3,6.15,96,53,29,Tomato,Early Blight
+25.6,70.8,151.3,6.47,87,55,34,Tomato,Early Blight
+25.9,77.7,170.2,5.9,94,36,29,Maize,Common Rust
+32.3,65.8,205.3,6.87,84,41,34,Cotton,Leaf Spot
+30,64.5,234.7,5.85,81,29,28,Rice,Brown Spot
+19.5,68.4,163.1,5.42,74,38,39,Apple,Cedar Apple Rust
+30.1,48.6,203.2,6.62,114,53,18,Chili,Anthracnose
+27.1,62.2,141.7,6.19,88,52,26,Tomato,Early Blight
+28.2,75.7,175.1,6.01,102,34,25,Maize,Common Rust
+25.6,69.4,145.5,6.48,88,46,38,Tomato,Bacterial Spot
+34.8,52.2,237.9,6.36,80,55,40,Cotton,Bacterial Blight
+25.2,59.7,124.1,7.04,62,42,43,Potato,Common Scab
+32.4,77.4,201.4,6.64,99,47,29,Cotton,Leaf Spot
+28,71.8,156,6.75,92,52,48,Tomato,Bacterial Spot
+28.3,71.6,176.1,6.23,88,39,36,Chili,Powdery Mildew
+34.4,85.4,158.7,7.18,110,50,25,Maize,Turcicum Leaf Blight
+32.4,67.7,191.1,6.92,91,48,32,Cotton,Leaf Spot
+34.5,49.3,187.5,6.97,116,62,16,Chili,Anthracnose
+19.2,72.8,155,6.4,83,29,47,Potato,Late Blight
+27.2,66.6,123.8,6.37,95,55,28,Tomato,Early Blight
+27.6,75.2,160.8,6.56,93,38,32,Chili,Powdery Mildew
+27.7,69.2,163.4,6.57,87,44,37,Wheat,Leaf Rust
+33.1,49.6,312.3,7.12,96,34,39,Rice,Leaf Blast
+28.7,81.4,176.1,6.15,92,34,26,Maize,Common Rust
+26.2,73.9,185.4,6.75,104,41,39,Chili,Powdery Mildew
+23.8,67,134.6,6.13,65,53,30,Potato,Early Blight
+30.8,52.7,197.9,6.73,106,57,18,Chili,Anthracnose
+31.3,58.7,205.6,6.79,110,63,24,Chili,Anthracnose
+33.3,69.8,185.2,6.07,81,43,25,Cotton,Leaf Spot
+23.4,57.1,137.2,7.11,68,46,37,Potato,Common Scab
+25.3,60.8,168.9,6.41,90,39,43,Wheat,Leaf Rust
+32.9,91.2,132.4,7.08,112,41,28,Maize,Turcicum Leaf Blight
+23.9,77.8,161.6,6.13,87,49,38,Apple,Cedar Apple Rust
+22.4,51.9,127.7,6.64,100,39,41,Wheat,Powdery Mildew
+36.5,88.7,151.5,6.95,113,48,29,Maize,Turcicum Leaf Blight
+20.1,60.9,136.2,5.81,64,58,29,Potato,Early Blight
+20.6,55.9,124.9,6.84,94,35,45,Wheat,Powdery Mildew
+20.1,69.4,157.2,6.39,84,22,41,Potato,Late Blight
+21.8,71.1,174.5,6.23,114,32,42,Wheat,Septoria Leaf Spot
+21.5,87,163.9,5.83,76,40,41,Tomato,Late Blight
+27.6,76.5,168.7,6.54,93,45,56,Apple,Fire Blight
+30.8,52.4,198.6,6.98,79,46,35,Cotton,Verticillium Wilt
+26.8,70.4,189.3,6.24,100,35,30,Maize,Common Rust
+20.2,65.9,157.1,6.87,97,56,45,Apple,Fire Blight
+25.2,104.2,210.2,6.79,96,44,34,Tomato,Late Blight
+28.1,56.1,209.1,7.31,73,40,30,Cotton,Verticillium Wilt
+17.3,81.8,176.7,6.64,84,47,43,Apple,Apple Scab
+32.9,46.3,261.8,6.77,97,40,34,Rice,Leaf Blast
+22.9,78.3,153,6.11,84,26,48,Potato,Late Blight
+29.5,66.4,150.3,7.49,73,47,38,Cotton,Verticillium Wilt
+32.6,53.6,278.3,6.38,95,37,36,Rice,Leaf Blast
+25.9,74.5,161.7,6.67,101,36,31,Chili,Powdery Mildew
+29.4,74.8,182.2,6.07,91,36,25,Cotton,Leaf Spot
+18.3,58.6,123.2,5.37,67,55,24,Potato,Early Blight
+24.3,64.2,142.2,6.79,97,44,44,Wheat,Leaf Rust
+30.1,47.3,182.8,6.62,102,60,15,Chili,Anthracnose
+22.3,67.9,136,6.01,74,50,31,Potato,Early Blight
+24.5,64.7,150,5.87,64,50,26,Potato,Early Blight
+28.2,86.9,278.4,6.17,109,30,39,Chili,Leaf Spot
+22.7,54.3,134.8,6.58,101,39,41,Wheat,Powdery Mildew
+20.6,65,131,6.16,66,59,28,Potato,Early Blight
+34.1,87.9,237.5,6.56,91,48,37,Rice,Bacterial Leaf Blight
+33.4,49,268.2,6.41,95,44,31,Rice,Leaf Blast
+22.9,74.8,149.5,6.17,88,23,43,Potato,Late Blight
+33,62.6,253.8,5.96,87,32,30,Rice,Brown Spot
+18.9,69.9,160.2,6.04,78,28,47,Potato,Late Blight
+17,75.5,152.5,6.28,71,45,45,Apple,Apple Scab
+37.1,85.2,223.5,7,105,47,44,Rice,Bacterial Leaf Blight
+29.8,77.7,148.6,6.65,102,42,40,Tomato,Bacterial Spot
+22.4,73.9,169.9,7.02,98,56,56,Apple,Fire Blight
+25.6,50.2,175.6,6.91,89,47,32,Cotton,Verticillium Wilt
+30.5,71.6,206,6.63,96,41,33,Cotton,Leaf Spot
+24.1,76.2,178.5,6.6,92,40,37,Apple,Cedar Apple Rust
+21.4,78.8,131.8,7.23,80,57,58,Apple,Fire Blight
+26,72.4,122.9,6.1,86,54,35,Tomato,Early Blight
+27.1,72.1,148.6,6.37,86,44,39,Tomato,Bacterial Spot
+28.5,66.7,167.6,6.69,95,40,37,Chili,Powdery Mildew
+22.5,89.3,181.1,5.73,78,39,36,Tomato,Late Blight
+27.1,71.8,154.2,6.43,101,44,28,Maize,Common Rust
+26,68.7,187.3,6.65,100,31,38,Chili,Powdery Mildew
+29.7,84.6,298.5,6.15,107,29,35,Chili,Leaf Spot
+34.4,45.2,222.1,6.62,72,54,40,Cotton,Bacterial Blight
+34.8,79.7,212.7,6.88,84,49,26,Cotton,Leaf Spot
+23,70.6,151.4,6.51,88,34,35,Wheat,Leaf Rust
+28.2,70.1,127,6.46,84,48,37,Tomato,Early Blight
+29,67.1,208.5,6.94,71,51,35,Cotton,Verticillium Wilt
+20.1,61,154,5.87,76,53,25,Potato,Early Blight
+28.5,72.4,159.5,6.28,105,33,27,Maize,Common Rust
+18.4,77.7,159.7,6.31,78,39,42,Apple,Apple Scab
+34.8,71.4,255.9,6.26,100,42,48,Rice,Bacterial Leaf Blight
+18.8,88,172.3,5.84,78,30,41,Tomato,Late Blight
+18.3,67.5,149.6,6.36,87,23,45,Potato,Late Blight
+24.1,70,159.9,6.02,79,64,33,Potato,Early Blight
+22.1,75.5,175.4,6.36,88,38,54,Apple,Apple Scab
+27.7,72.4,178.7,6.39,100,32,37,Chili,Powdery Mildew
+35.4,93.4,135.8,7.08,106,53,20,Maize,Turcicum Leaf Blight
+25.9,67.2,169.5,7.79,113,49,56,Wheat,Powdery Mildew
+23.7,68.1,149.8,6.08,81,53,29,Potato,Early Blight
+37,94.8,149.3,6.98,111,43,22,Maize,Turcicum Leaf Blight
+33,89.4,257.1,6.98,96,45,38,Rice,Bacterial Leaf Blight
+20.3,86.6,167,6.18,78,32,39,Tomato,Late Blight
+26.3,73.6,182.9,6.67,102,43,32,Chili,Powdery Mildew
+19.7,80.7,194.6,5.62,88,37,35,Tomato,Late Blight
+24.4,62.9,142.1,6.47,81,45,27,Tomato,Early Blight
+27.5,78.7,188.2,6.76,90,33,32,Chili,Powdery Mildew
+22.2,55.7,147.5,6.55,106,39,45,Wheat,Powdery Mildew
+32.8,70.1,208.6,6.45,93,35,29,Cotton,Leaf Spot
+15.9,84.6,155.7,6.07,81,43,51,Apple,Apple Scab
+27.8,71.8,129.2,6.49,81,46,33,Tomato,Early Blight
+18.8,91.5,162.4,6.09,89,40,33,Tomato,Late Blight
+29,87.7,250.6,6.11,96,32,42,Chili,Leaf Spot
+29.6,77.2,181.7,6.36,101,43,15,Maize,Gray Leaf Spot
+31.7,45.6,258.1,6.75,95,33,30,Rice,Leaf Blast
+28.7,70.2,181.8,6.19,94,39,31,Cotton,Leaf Spot
+32.6,60.3,249,5.51,83,30,31,Rice,Brown Spot
+32.6,72.6,237.1,5.95,70,37,32,Rice,Brown Spot
+33.7,47.6,253.3,6.31,88,43,34,Rice,Leaf Blast
+34.5,52.3,207.7,6.62,64,56,38,Cotton,Bacterial Blight
+31.5,81.3,193.9,6.66,98,48,15,Maize,Gray Leaf Spot
+24.7,55.6,106.7,7.67,61,59,30,Potato,Common Scab
+34.4,85.8,138.7,7.02,110,43,25,Maize,Turcicum Leaf Blight
+21.6,67.5,149.5,6.14,76,58,25,Potato,Early Blight
+23.5,56.9,126.8,6.77,95,40,43,Wheat,Powdery Mildew
+23.5,58.3,130.8,6.95,90,38,40,Wheat,Powdery Mildew
+18.6,70.3,194.9,5.99,99,36,34,Wheat,Septoria Leaf Spot
+24.9,63.7,141.1,6.13,83,64,32,Potato,Early Blight
+22.8,68.7,160.7,6.33,102,42,43,Wheat,Leaf Rust
+26.1,59.8,111.5,7.94,57,47,35,Potato,Common Scab
+25.7,72.1,163.5,6.46,91,49,35,Tomato,Bacterial Spot
+33.8,51.7,241.5,6.48,70,51,38,Cotton,Bacterial Blight
+20.5,77.3,183.6,6.04,84,40,46,Apple,Apple Scab
+23.6,60.8,159,6.1,91,40,40,Wheat,Leaf Rust
+25.8,79.5,187.9,6.4,97,38,38,Chili,Powdery Mildew
+37.3,44.8,248.8,6.44,83,45,42,Cotton,Bacterial Blight
+33.2,61.8,247.1,5.97,72,35,29,Rice,Brown Spot
+26,46.8,110.6,6.53,55,55,37,Potato,Common Scab
+20.1,68.1,138.5,5.85,77,59,33,Potato,Early Blight
+20.3,67.5,136.3,6.16,65,52,25,Potato,Early Blight
+32.6,85.8,209.9,6.18,109,43,19,Maize,Gray Leaf Spot
+29.3,62.8,225.7,5.96,75,25,30,Rice,Brown Spot
+29.4,82.6,163.8,6.23,99,44,34,Maize,Common Rust
+27.9,80.8,172,6.35,95,32,25,Maize,Common Rust
+32.1,76.6,252.2,6.91,106,36,36,Rice,Bacterial Leaf Blight
+19.8,80.9,193.2,5.62,80,39,37,Tomato,Late Blight
+25.9,74.6,181,6.12,107,32,30,Maize,Common Rust
+30.4,58.9,193.7,6.68,112,60,17,Chili,Anthracnose
+29.5,86.5,267.8,6.34,109,31,36,Chili,Leaf Spot
+34.4,77.2,269.4,6.48,99,30,34,Rice,Brown Spot
+25.8,78.6,159.2,6.37,102,36,30,Chili,Powdery Mildew
+25.6,78.6,133.7,6.83,94,59,59,Apple,Fire Blight
+23.2,62.3,121.2,6.7,103,37,43,Wheat,Powdery Mildew
+25.8,71.9,150.5,6.24,97,31,28,Maize,Common Rust
+27.2,67.7,190.6,6.84,80,52,38,Cotton,Verticillium Wilt
+29.1,68.6,163.5,6.74,94,52,48,Tomato,Bacterial Spot
+27.5,73.3,155,6.65,86,36,38,Wheat,Leaf Rust
+31.6,52,159.3,7.46,70,54,30,Cotton,Verticillium Wilt
+24.5,70.5,148.9,6.09,80,51,33,Tomato,Early Blight
+22.3,66.3,147.5,6.16,61,54,34,Potato,Early Blight
+21.3,82.1,172.5,6.89,94,50,47,Apple,Cedar Apple Rust
+23.8,62.6,145.9,6.33,86,42,33,Wheat,Leaf Rust
+22.2,63.8,143.9,5.92,78,57,27,Potato,Early Blight
+24.2,71.6,136.8,6.31,91,38,42,Wheat,Leaf Rust
+34.6,48,196.3,6.82,110,56,16,Chili,Anthracnose
+26.4,53.6,120.7,7.15,56,48,41,Potato,Common Scab
+29.8,85.3,257.3,6.07,106,34,35,Chili,Leaf Spot
+23,48.7,94.2,6.94,53,39,31,Potato,Common Scab
+34.9,54.1,256,6.57,89,30,36,Rice,Leaf Blast
+31,50.9,183.3,6.52,113,59,22,Chili,Anthracnose
+25.6,66.8,161.3,6.23,98,31,32,Chili,Powdery Mildew
+27.8,67.5,155.3,6.02,98,47,38,Tomato,Early Blight
+22.7,77.6,172,5.92,100,30,41,Wheat,Septoria Leaf Spot
+33.5,92.2,152.7,6.89,115,45,27,Maize,Turcicum Leaf Blight
+28.2,73.8,160.6,6.7,89,45,46,Tomato,Bacterial Spot
+23.5,64.7,132.9,6,71,52,29,Potato,Early Blight
+37.6,87.4,138.2,7.17,106,49,26,Maize,Turcicum Leaf Blight
+21.2,77.6,163.2,6.31,76,31,41,Potato,Late Blight
+25.1,66.2,206.3,7.29,72,41,30,Cotton,Verticillium Wilt
+32.2,89.9,143.5,6.93,124,52,26,Maize,Turcicum Leaf Blight
+20.6,66.7,145.6,6.11,73,62,30,Potato,Early Blight
+30.3,47.8,196.8,6.93,117,51,19,Chili,Anthracnose
+22.2,90.2,161.3,5.59,84,39,41,Tomato,Late Blight
+36.8,93.4,142,6.97,107,40,26,Maize,Turcicum Leaf Blight
+21.8,60.6,159.1,6.15,83,64,26,Potato,Early Blight
+20.4,73,177,6.11,113,36,37,Wheat,Septoria Leaf Spot
+33.5,88.6,134.6,7.08,124,49,26,Maize,Turcicum Leaf Blight
+36.3,92,158.8,7.04,117,52,26,Maize,Turcicum Leaf Blight
+23.7,84.6,175.1,6.54,105,29,40,Wheat,Septoria Leaf Spot
+20.3,59.1,142.9,6.71,94,41,40,Wheat,Powdery Mildew
+28.8,60.9,218.3,5.61,73,36,25,Rice,Brown Spot
+29.8,74,179,6.76,93,50,47,Tomato,Bacterial Spot
+19.1,76.8,168.1,6.25,83,30,42,Potato,Late Blight
+23.7,66,147,6.14,78,23,49,Potato,Late Blight
+35.4,43.1,225.5,6.74,77,50,38,Cotton,Bacterial Blight
+27,75.1,177.6,6.23,91,36,30,Chili,Powdery Mildew
+24.8,52.6,137,6.75,99,41,42,Wheat,Powdery Mildew
+30,80.1,205.8,6.3,110,38,29,Maize,Gray Leaf Spot
+31.6,38.6,201,6.61,76,49,38,Cotton,Bacterial Blight
+34.5,90.2,152.4,6.85,109,45,23,Maize,Turcicum Leaf Blight
+37.9,40.1,229.5,6.61,73,54,36,Cotton,Bacterial Blight
+20.6,77.8,141.2,7.11,80,56,46,Apple,Fire Blight
+36.4,90,148.3,7.16,113,45,20,Maize,Turcicum Leaf Blight
+23.3,53.2,145.9,6.93,93,42,42,Wheat,Powdery Mildew
+36.1,94.6,139,7.14,123,51,22,Maize,Turcicum Leaf Blight
+23,60.8,158.7,6.38,101,37,36,Wheat,Leaf Rust
+21.4,88.4,174.2,5.9,78,36,34,Tomato,Late Blight
+16.6,80.6,152.2,6.3,72,47,41,Apple,Apple Scab
+30,76.8,188.7,6,103,36,15,Maize,Gray Leaf Spot
+32.1,58.3,193.1,6.54,118,63,21,Chili,Anthracnose
+20.2,71.6,195,6.43,98,32,37,Wheat,Septoria Leaf Spot
+25,55.1,103.2,7.93,66,56,42,Potato,Common Scab
+18.6,71,173,6.1,83,30,46,Potato,Late Blight
+20.2,79.3,161.6,6.99,85,40,43,Apple,Cedar Apple Rust
+29.4,78.4,175.7,6.52,91,44,33,Chili,Powdery Mildew
+23,70,151.1,6.36,87,21,42,Potato,Late Blight
+23.7,73.9,173.5,6.12,96,32,31,Wheat,Septoria Leaf Spot
+34.9,89.1,148.2,6.98,123,48,26,Maize,Turcicum Leaf Blight
+20.4,53.2,126.9,6.68,95,36,41,Wheat,Powdery Mildew
+24.7,68.6,169.3,6.19,98,44,41,Wheat,Leaf Rust
+19.6,76.4,160.7,6.39,75,27,40,Potato,Late Blight
+37.6,86.7,134.3,7.02,117,47,25,Maize,Turcicum Leaf Blight
+33.3,69.4,218.2,6.75,84,45,32,Cotton,Leaf Spot
+35.6,89.3,140,7.03,120,40,29,Maize,Turcicum Leaf Blight
+29.6,67.7,171.1,6.68,89,37,32,Chili,Powdery Mildew
+29.4,66.7,158.5,6.75,89,46,41,Tomato,Bacterial Spot
+30.6,75.7,171.6,6.76,97,53,37,Tomato,Bacterial Spot
+19.9,74.6,167.7,5.76,76,46,47,Apple,Apple Scab
+24.1,54.3,147.8,6.98,101,36,43,Wheat,Powdery Mildew
+25.3,59.1,198.1,7.27,88,47,31,Cotton,Verticillium Wilt
+23.5,79.5,188.8,6.01,109,25,35,Wheat,Septoria Leaf Spot
+20.4,92.2,172.5,5.78,85,43,31,Tomato,Late Blight
+25.7,79.9,170.1,6.46,97,41,42,Tomato,Bacterial Spot
+26.7,66.8,161.8,6.73,91,40,36,Chili,Powdery Mildew
+27.9,55.1,184.9,6.05,91,47,21,Chili,Anthracnose
+21,81.6,168.2,6.05,82,52,42,Apple,Cedar Apple Rust
+33.4,80.7,231.9,6.51,93,45,46,Rice,Bacterial Leaf Blight
+23.2,65.7,140.7,6.19,75,53,26,Potato,Early Blight
+19.5,85.4,200,6.04,89,40,36,Tomato,Late Blight
+30.9,68.2,180.6,7.19,72,48,32,Cotton,Verticillium Wilt
+30.9,57.1,187.8,6.9,105,50,20,Chili,Anthracnose
+31.6,70.9,228,6.34,95,47,29,Cotton,Leaf Spot
+27,68.4,163.5,6.8,101,43,39,Chili,Powdery Mildew
+22.3,57.2,145.2,6.53,97,43,48,Wheat,Powdery Mildew
+21.9,53.6,122.8,6.59,91,36,49,Wheat,Powdery Mildew
+22.6,50.1,105.7,7.54,54,47,43,Potato,Common Scab
+26.2,47.8,126.9,7.97,52,40,36,Potato,Common Scab
+19.3,92.3,162.2,5.99,81,40,43,Tomato,Late Blight
+35.7,86.7,157.2,6.88,124,40,22,Maize,Turcicum Leaf Blight
+28.3,65,197.5,6.24,81,37,26,Cotton,Leaf Spot
+20.4,75.9,187.3,6.39,81,43,48,Apple,Cedar Apple Rust
+25.8,61.1,134.5,6.04,90,32,37,Wheat,Leaf Rust
+33.8,70.7,268.9,6.45,96,42,47,Rice,Bacterial Leaf Blight
+24.9,69.9,150.9,6.01,67,62,31,Potato,Early Blight
+35.7,45.8,276.6,6.45,90,32,35,Rice,Leaf Blast
+24.3,75.6,177.7,6.37,82,53,47,Apple,Cedar Apple Rust
+20.6,94.8,169.4,6.01,81,39,33,Tomato,Late Blight
+33.1,58.1,206.3,6.51,68,52,39,Cotton,Bacterial Blight
+18.3,66.3,170.1,6.04,76,20,49,Potato,Late Blight
+34.9,89.5,159.2,7.2,118,41,25,Maize,Turcicum Leaf Blight
+26.2,58.6,100.5,7.51,51,50,34,Potato,Common Scab
+31,57.1,199.7,6.6,106,51,18,Chili,Anthracnose
+30.3,73.6,173.1,6.28,93,49,45,Tomato,Bacterial Spot
+23.4,78.9,173.2,6.53,82,53,47,Apple,Cedar Apple Rust
+25.8,68,176,6.5,100,40,41,Tomato,Bacterial Spot
+20.5,72.1,178,5.87,80,43,53,Apple,Apple Scab
+20,68.2,151.2,6.09,79,51,28,Potato,Early Blight
+29.7,84.4,175.2,6.62,111,44,21,Maize,Gray Leaf Spot
+31.2,50.6,189,6.55,109,55,21,Chili,Anthracnose
+30.4,53.4,188.7,6.91,113,64,17,Chili,Anthracnose
+19.6,83.4,164.1,6.33,113,27,44,Wheat,Septoria Leaf Spot
+19,79.2,174.7,6.33,81,26,46,Potato,Late Blight
+34.7,75.1,207.4,6,80,38,26,Cotton,Leaf Spot
+24.7,48,124.7,7.61,64,50,31,Potato,Common Scab
+30.3,74.4,188.6,6.26,89,38,30,Cotton,Leaf Spot
+30.8,51.4,267,6.65,93,33,36,Rice,Leaf Blast
+31.6,84.6,196.6,6.26,111,43,16,Maize,Gray Leaf Spot
+27.9,76.9,167.2,6.47,102,43,32,Chili,Powdery Mildew
+22.2,80.4,197.9,6,76,40,39,Tomato,Late Blight
+33.3,71.5,265.1,6.38,105,45,44,Rice,Bacterial Leaf Blight
+26.5,64.4,150.8,6.07,95,57,26,Tomato,Early Blight
+29.4,48.7,161,5.78,100,45,19,Chili,Anthracnose
+19.9,75.5,190.8,6.45,103,39,36,Wheat,Septoria Leaf Spot
+22.7,67.1,149.8,5.91,83,61,30,Potato,Early Blight
+31.4,47.4,254.2,6.76,93,40,39,Rice,Leaf Blast
+22.9,55.3,144,6.73,106,41,47,Wheat,Powdery Mildew
+25.7,66,160.2,6.59,91,50,35,Tomato,Bacterial Spot
+35.6,58.3,235.6,6.48,77,45,38,Cotton,Bacterial Blight
+35.2,75.3,274,6.93,98,48,40,Rice,Bacterial Leaf Blight
+32.3,63.2,202.4,5.64,73,30,29,Rice,Brown Spot
+23.5,49.4,134.9,7.51,65,45,39,Potato,Common Scab
+26.8,68.6,143.7,6.65,89,34,40,Wheat,Leaf Rust
+24.5,48.1,123.6,6.78,56,57,33,Potato,Common Scab
+34.1,57.5,313.8,7.25,102,44,41,Rice,Leaf Blast
+31.7,40.8,215.6,6.56,74,56,41,Cotton,Bacterial Blight
+32.7,66.9,256.5,5.84,79,36,33,Rice,Brown Spot
+22.9,57,123.6,6.99,94,35,45,Wheat,Powdery Mildew
+33.4,42.1,238.7,6.54,68,50,43,Cotton,Bacterial Blight
+31.9,73.1,149.7,6.31,87,46,35,Tomato,Bacterial Spot
+30.3,75.2,197.5,6.21,87,39,25,Cotton,Leaf Spot
+33,72.1,256.8,6.09,105,35,38,Rice,Bacterial Leaf Blight
+31.1,85.4,179,7,108,44,43,Chili,Powdery Mildew
+33.9,74.7,200.2,6.02,91,35,25,Cotton,Leaf Spot
+26.6,69.7,163.2,6.42,96,46,39,Tomato,Bacterial Spot
+36.5,80.1,273.6,6.94,106,44,39,Rice,Bacterial Leaf Blight
+30.3,89.8,264.5,6.4,104,25,42,Chili,Leaf Spot
+35,70.6,256.7,6.72,98,46,38,Rice,Bacterial Leaf Blight
+27.4,66,159.6,6.88,98,51,57,Apple,Fire Blight
+20.5,64.5,146,5.9,66,55,25,Potato,Early Blight
+36.5,96.2,262.8,6.97,107,45,47,Rice,Bacterial Leaf Blight
+18.3,81.3,198.2,5.99,101,27,38,Wheat,Septoria Leaf Spot
+33.9,50.5,202.1,6.76,114,63,24,Chili,Anthracnose
+33.6,89.9,142.6,6.92,121,47,26,Maize,Turcicum Leaf Blight
+24.1,72,167.1,7.27,96,46,56,Apple,Fire Blight
+37.9,89.7,134.9,6.88,122,53,26,Maize,Turcicum Leaf Blight
+20.6,63.5,138.6,5.92,65,50,25,Potato,Early Blight
+32.7,83.5,262.1,6.72,104,35,49,Rice,Bacterial Leaf Blight
+33.7,53.2,264.3,6.42,96,30,33,Rice,Leaf Blast
+32.4,50,283.4,6.31,98,36,33,Rice,Leaf Blast
+22.2,76.2,165.5,6.33,105,34,35,Wheat,Septoria Leaf Spot
+31.4,53.9,186.8,7.49,87,54,33,Cotton,Verticillium Wilt
+38,78,256.9,6.37,97,45,49,Rice,Bacterial Leaf Blight
+21.5,53.2,143,6.55,107,36,41,Wheat,Powdery Mildew
+24.8,79.6,153.4,6.97,90,57,54,Apple,Fire Blight
+32.3,86.6,195.4,6.17,112,45,26,Maize,Gray Leaf Spot
+25.4,76.7,152.8,6.53,89,33,39,Chili,Powdery Mildew
+30.6,85.9,197.7,6.14,96,43,25,Maize,Gray Leaf Spot
+31.1,58.5,209.4,6.82,118,59,15,Chili,Anthracnose
+32.8,57,242.7,6.31,75,50,39,Cotton,Bacterial Blight
+35.7,48.7,256.8,6.56,86,44,31,Rice,Leaf Blast
+18.8,75.2,192.3,6,96,26,42,Wheat,Septoria Leaf Spot
+25.4,77.7,136.9,6.95,86,49,57,Apple,Fire Blight
+25.3,64.2,158,6.18,80,56,35,Tomato,Early Blight
+28.8,87.6,254.5,6.26,96,28,41,Chili,Leaf Spot
+25,74.7,156.9,6.41,86,43,38,Tomato,Bacterial Spot
+28.8,65.9,175.2,6.29,98,45,40,Tomato,Bacterial Spot
+26.6,75,157.4,6.24,94,47,47,Tomato,Bacterial Spot
+27.2,67.2,132.8,6.44,93,47,37,Wheat,Leaf Rust
+19.5,74.9,156.4,6.39,76,34,44,Potato,Late Blight
+23.6,69.8,145.5,5.93,79,54,29,Potato,Early Blight
+19.8,75.2,188.4,6.02,91,42,40,Apple,Cedar Apple Rust
+22.2,80.1,199.2,6.59,108,28,41,Wheat,Septoria Leaf Spot
+20.3,67.4,147.2,6.14,63,61,27,Potato,Early Blight
+23.2,68,165,7.2,80,45,49,Apple,Fire Blight
+33,70.1,247.1,6.35,101,37,47,Rice,Bacterial Leaf Blight
+19.9,81.7,193.7,5.85,76,31,32,Tomato,Late Blight
+31.5,75.2,166.2,6.53,90,49,41,Tomato,Bacterial Spot
+30.7,59,206.8,6.59,106,59,15,Chili,Anthracnose
+37.1,80.1,264.9,6.14,95,45,37,Rice,Bacterial Leaf Blight
+33.6,51,207,6.3,66,55,35,Cotton,Bacterial Blight
+20.2,66.2,153.9,6.05,84,30,45,Potato,Late Blight
+22.9,58.5,135,6.44,91,41,43,Wheat,Powdery Mildew
+29.6,83,273,6.13,102,32,43,Chili,Leaf Spot
+22.1,53.6,140.2,6.9,103,43,43,Wheat,Powdery Mildew
+20.1,83.1,156.2,5.15,72,34,29,Tomato,Late Blight
+32.3,49.5,197.1,6.57,115,54,20,Chili,Anthracnose
+30.2,53.9,245.3,6.7,74,55,44,Cotton,Bacterial Blight
+31.8,52.2,162.7,6.97,89,51,38,Cotton,Verticillium Wilt
+31.9,78.7,190.3,6.09,112,40,24,Maize,Gray Leaf Spot
+13.6,71.3,140.5,5.63,66,37,46,Apple,Apple Scab
+28.9,76.7,190,7.24,107,45,32,Chili,Powdery Mildew
+33.2,72.9,200.6,6.27,99,36,25,Cotton,Leaf Spot
+32.8,83.5,253.6,6.79,104,44,49,Rice,Bacterial Leaf Blight
+21.1,82.8,182.5,5.59,75,39,39,Tomato,Late Blight
+30.9,61.8,161.5,7.08,80,45,31,Cotton,Verticillium Wilt
+34.8,85.9,159.9,7.02,119,46,25,Maize,Turcicum Leaf Blight
+32,76.5,155.3,6.53,92,42,38,Tomato,Bacterial Spot
+33,68.4,212.8,6.16,81,36,34,Cotton,Leaf Spot
+35,76.4,227.9,6.38,103,46,42,Rice,Bacterial Leaf Blight
+28.8,73.6,219,6.37,99,41,26,Cotton,Leaf Spot
+24.3,62.9,130.7,6.14,93,48,35,Tomato,Early Blight
+33.5,52.5,298.2,6.34,85,44,35,Rice,Leaf Blast
+28,69.2,124.4,6.34,99,58,38,Tomato,Early Blight
+22.2,81.4,164.2,6.2,111,39,37,Wheat,Septoria Leaf Spot
+18.1,87.8,199.4,5.87,77,30,35,Tomato,Late Blight
+21.8,76.4,150.6,6.23,75,23,47,Potato,Late Blight
+21.2,79.5,181.7,5.9,102,26,39,Wheat,Septoria Leaf Spot
+24.5,67,146.2,6.83,84,59,58,Apple,Fire Blight
+33.6,77,262.5,6.37,101,36,47,Rice,Bacterial Leaf Blight
+26,68.9,163.4,6.39,94,45,44,Tomato,Bacterial Spot
+30.7,81.2,203.4,6.27,96,35,15,Maize,Gray Leaf Spot
+32.1,76.2,258.3,6.01,90,47,45,Rice,Bacterial Leaf Blight
+28.4,70.2,210.4,5.74,71,29,32,Rice,Brown Spot
+33.1,92.9,159,7.09,124,49,22,Maize,Turcicum Leaf Blight
+28.5,69.7,224.8,5.78,83,26,30,Rice,Brown Spot
+25.6,66.6,138.8,6.14,87,53,33,Tomato,Early Blight
+34.9,70.5,261.2,6.29,101,39,37,Rice,Bacterial Leaf Blight
+30.9,54.2,187.5,6.57,86,42,30,Cotton,Verticillium Wilt
+21.6,83.1,193.9,5.7,86,37,40,Tomato,Late Blight
+33.4,54.1,256.1,6.57,98,36,34,Rice,Leaf Blast
+22,77.8,175.4,6.35,87,30,46,Potato,Late Blight
+20.2,74.8,154.1,6.53,82,53,58,Apple,Fire Blight
+32.5,49.5,280,6.34,88,43,39,Rice,Leaf Blast
+21.2,92.5,190.2,7.1,115,37,34,Wheat,Septoria Leaf Spot
+21.8,79.7,171.5,6.19,77,51,41,Apple,Cedar Apple Rust
+32.1,84.8,194,6.65,99,42,28,Maize,Gray Leaf Spot
+24.3,76.4,170.2,6.19,89,26,41,Potato,Late Blight
+20.9,60.9,133.6,5.98,65,55,30,Potato,Early Blight
+32.6,88.8,187.1,6.21,107,41,23,Maize,Gray Leaf Spot
+23.4,49.6,110,7.27,60,47,35,Potato,Common Scab
+29.1,76.8,141.8,6.26,101,49,37,Tomato,Bacterial Spot
+34.8,86.7,130.6,7.04,123,41,22,Maize,Turcicum Leaf Blight
+21.7,77.9,167.9,6.58,89,40,43,Apple,Cedar Apple Rust
+25.9,49.6,136.6,7.93,56,47,37,Potato,Common Scab
+33.8,57.1,218,6.76,77,48,40,Cotton,Bacterial Blight
+24.4,76,168.4,6.54,88,49,49,Apple,Cedar Apple Rust
+33.2,47.5,209.3,6.74,101,64,20,Chili,Anthracnose
+23.8,64.8,136.6,6.63,87,42,36,Wheat,Leaf Rust
+33.7,93.9,159,6.83,114,48,20,Maize,Turcicum Leaf Blight
+33.6,45.6,234.7,6.68,81,59,37,Cotton,Bacterial Blight
+30.7,53.3,199.5,6.7,109,63,16,Chili,Anthracnose
+34.8,51,274.7,6.32,99,35,31,Rice,Leaf Blast
+26.5,75.4,130.2,6.9,80,55,59,Apple,Fire Blight
+26.1,77.6,183.9,6.4,102,43,30,Maize,Common Rust
+29.7,68.3,186.8,6.55,92,45,31,Cotton,Leaf Spot
+21.4,65.9,130.9,5.81,80,55,26,Potato,Early Blight
+20.8,81.5,183.8,6.2,89,30,41,Tomato,Late Blight
+26.8,74.6,178.2,6.61,103,51,45,Tomato,Bacterial Spot
+36.5,92.6,141.7,7.1,112,53,21,Maize,Turcicum Leaf Blight
+23.7,76.2,180.1,6.64,93,41,39,Apple,Cedar Apple Rust
+30.1,53.4,251.6,6.77,98,38,35,Rice,Leaf Blast
+31.1,68.5,196.5,6.53,86,38,32,Cotton,Leaf Spot
+37.1,84.7,232.7,6.15,96,49,38,Rice,Bacterial Leaf Blight
+20.5,84.6,181.3,5.86,75,34,30,Tomato,Late Blight
+36.3,90.1,148.8,7.08,110,52,29,Maize,Turcicum Leaf Blight
+29.8,84.2,207.8,6.47,110,40,19,Maize,Gray Leaf Spot
+32.9,51.6,180.5,7,110,57,24,Chili,Anthracnose
+24.8,63.3,135.4,6.76,86,33,38,Wheat,Leaf Rust
+19.4,82.2,183.5,5.97,99,34,42,Wheat,Septoria Leaf Spot
+22,57.1,130.9,7.32,51,55,38,Potato,Common Scab
+29.1,57,164,7.12,80,54,39,Cotton,Verticillium Wilt
+33.4,66,211.1,6.24,91,49,33,Cotton,Leaf Spot
+20.5,83.5,195.9,6.35,112,26,42,Wheat,Septoria Leaf Spot
+23.8,71.2,149.3,6.17,104,44,44,Wheat,Leaf Rust
+22.8,64.4,138.8,6.18,79,52,33,Potato,Early Blight
+23.9,57.3,126.4,7.69,55,53,33,Potato,Common Scab
+34.8,75.4,200.1,6.19,87,37,26,Cotton,Leaf Spot
+26.8,62.9,147.3,6.47,84,48,27,Tomato,Early Blight
+23.2,71.9,158.1,7.02,87,46,53,Apple,Fire Blight
+21.7,69.3,154.9,6.19,63,60,34,Potato,Early Blight
+26,72.4,178.1,6.58,99,46,35,Tomato,Bacterial Spot
+27.8,77.8,185.8,6.59,99,38,33,Chili,Powdery Mildew
+17.7,69.7,187.5,5.72,92,29,32,Wheat,Septoria Leaf Spot
+28.8,66.1,121,6.3,85,51,32,Tomato,Early Blight
+32,75.6,190.1,6.67,83,44,29,Cotton,Leaf Spot
+24.4,64.7,133.6,6.09,79,58,32,Potato,Early Blight
+28.1,89.3,203.8,6.18,107,48,16,Maize,Gray Leaf Spot
+26.9,50,119.3,6.79,62,45,33,Potato,Common Scab
+29.3,67,228.2,6.11,85,32,31,Rice,Brown Spot
+36.4,77.9,235.8,6.38,99,40,38,Rice,Bacterial Leaf Blight
+25.9,54.3,189.4,6.89,86,54,38,Cotton,Verticillium Wilt
+18,77.2,181,6.77,80,46,35,Apple,Cedar Apple Rust
+20.5,82.4,167.7,6.51,86,44,42,Apple,Cedar Apple Rust
+21.6,89.5,188.6,5.8,85,32,32,Tomato,Late Blight
+15.4,78,162.9,5.83,72,37,42,Apple,Apple Scab
+30.5,78.7,208.8,6.74,89,35,25,Cotton,Leaf Spot
+31.4,76.6,177.7,6.7,98,44,21,Maize,Gray Leaf Spot
+21.4,94.8,197.7,6,82,32,35,Tomato,Late Blight
+28.5,79.5,166.5,6.74,88,47,48,Tomato,Bacterial Spot
+28.9,84.2,296,6.44,104,29,40,Chili,Leaf Spot
+30.1,48.3,281.4,6.44,98,39,30,Rice,Leaf Blast
+33.1,94.7,151.5,7.13,105,45,27,Maize,Turcicum Leaf Blight
+32.4,48.8,289.7,6.53,87,34,35,Rice,Leaf Blast
+21.7,55.9,135.9,6.5,101,43,47,Wheat,Powdery Mildew
+28.4,84,181.2,6.25,92,35,26,Maize,Common Rust
+29.4,80.9,271.4,6.49,101,33,43,Chili,Leaf Spot
+27.4,53.7,141.6,8.28,64,63,33,Potato,Common Scab
+23.9,51.8,120,6.83,97,37,40,Wheat,Powdery Mildew
+31.1,55.9,230.3,6.77,68,46,40,Cotton,Bacterial Blight
+26.7,62.3,194.7,5.08,75,22,22,Rice,Brown Spot
+30.5,69.2,162.6,6.44,94,45,39,Tomato,Bacterial Spot
+21,83.1,171.4,6.84,80,44,45,Apple,Cedar Apple Rust
+21.9,79.6,187,6.22,89,42,44,Apple,Cedar Apple Rust
+26.6,78.1,146.1,6.6,90,45,49,Tomato,Bacterial Spot
+28.2,81.5,271.2,6.09,102,26,39,Chili,Leaf Spot
+26,67.2,141.7,6.14,90,52,29,Tomato,Early Blight
+30.7,83,251.8,6.47,106,27,36,Chili,Leaf Spot
+30,76.2,174.6,6.45,97,35,30,Chili,Powdery Mildew
+23.4,50.3,135.8,7.92,67,48,41,Potato,Common Scab
+20.3,78.5,162.7,6.16,78,45,48,Apple,Cedar Apple Rust
+33.5,58.4,229.5,6.62,81,49,38,Cotton,Bacterial Blight
+29.3,73.4,214.6,6.53,88,40,33,Cotton,Leaf Spot
+22.4,63.8,122.2,6.57,96,42,49,Wheat,Powdery Mildew
+29,86,184.5,6.13,101,43,25,Maize,Gray Leaf Spot
+31,82.8,177.8,6.48,113,37,16,Maize,Gray Leaf Spot
+24.8,70.6,141.6,6.43,81,57,29,Tomato,Early Blight
+25.7,74.7,173.7,6.05,90,31,27,Maize,Common Rust
+37.6,71.1,260.4,6.89,106,37,39,Rice,Bacterial Leaf Blight
+21.4,78.8,180,6.97,87,50,36,Apple,Cedar Apple Rust
+34.6,50.4,292,6.32,90,33,34,Rice,Leaf Blast
+30.5,86.9,283.4,6.22,108,25,43,Chili,Leaf Spot
+33.4,90.1,148.2,6.8,120,52,29,Maize,Turcicum Leaf Blight
+29.5,62.6,231.8,5.7,82,26,31,Rice,Brown Spot
+28.8,70.7,226.2,5.78,72,32,26,Rice,Brown Spot
+16.9,81.2,197.5,6.41,76,44,49,Apple,Apple Scab
+20.5,87.7,176.7,6.05,81,34,42,Tomato,Late Blight
+33.1,72,224.6,5.66,78,37,27,Rice,Brown Spot
+31.9,77.9,221.6,6.28,90,36,34,Cotton,Leaf Spot
+23.9,71.1,176.3,6.11,78,20,46,Potato,Late Blight
+24.1,80.2,186.5,6.92,83,44,36,Apple,Cedar Apple Rust
+29.4,77.3,175.5,6.36,101,42,41,Tomato,Bacterial Spot
+22.7,66.1,165.5,6.04,104,43,41,Wheat,Leaf Rust
+30.4,51.9,160.4,6.51,81,53,36,Cotton,Verticillium Wilt
+22.7,80.5,193.4,5.84,109,37,34,Wheat,Septoria Leaf Spot
+32.9,89.4,276.8,6.88,94,44,46,Rice,Bacterial Leaf Blight
+33.7,50.7,285.7,6.77,98,44,32,Rice,Leaf Blast
+25,50.4,138.1,6.8,103,36,49,Wheat,Powdery Mildew
+21.4,61,120.7,6.75,108,36,44,Wheat,Powdery Mildew
+37.4,70.3,276,6.81,106,36,46,Rice,Bacterial Leaf Blight
+28.3,63.8,204.5,5.57,86,25,31,Rice,Brown Spot
+25.8,71.1,153,6.55,91,49,40,Tomato,Bacterial Spot
+23.4,60.2,148.4,6.58,90,37,42,Wheat,Powdery Mildew
+25.5,68.6,143.3,6.25,87,37,35,Wheat,Leaf Rust
+26.1,72.1,165.9,6.23,99,41,37,Tomato,Bacterial Spot
+32.6,70.5,203.5,6.27,86,44,33,Cotton,Leaf Spot
+29.5,68,249.4,5.57,88,36,26,Rice,Brown Spot
+31.7,57.1,207.6,6.95,118,63,20,Chili,Anthracnose
+36.1,82.7,268.6,6.04,95,39,37,Rice,Bacterial Leaf Blight
+30,65.5,151.6,6.57,92,51,44,Tomato,Bacterial Spot
+18.9,77.6,163.1,6.51,76,43,41,Apple,Cedar Apple Rust
+20.7,68.3,159.5,6.01,64,54,25,Potato,Early Blight
+20.9,83.5,196.3,5.87,113,37,41,Wheat,Septoria Leaf Spot
+21.9,82.6,168,6.38,80,52,45,Apple,Cedar Apple Rust
+26.6,68.5,160.6,6.33,88,31,39,Chili,Powdery Mildew
+29.6,67.6,244.6,5.85,71,35,33,Rice,Brown Spot
+28.6,82.2,274.1,6.02,104,29,42,Chili,Leaf Spot
+18.1,75.6,174.1,6.23,96,36,33,Wheat,Septoria Leaf Spot
+21.9,65.2,131.4,5.87,78,51,31,Potato,Early Blight
+30.2,65.8,144.9,7.12,97,35,37,Wheat,Leaf Rust
+22.9,71,158,6.08,81,40,52,Apple,Apple Scab
+16.7,84.3,152.5,6.28,72,41,51,Apple,Apple Scab
+20.8,66.5,161.7,6.93,96,49,48,Apple,Fire Blight
+24.9,71.4,141.3,6.25,103,31,39,Wheat,Leaf Rust
+25.7,50.8,101,7.76,50,54,44,Potato,Common Scab
+20.1,71.8,171.2,6.33,84,25,48,Potato,Late Blight
+18.3,85.5,198.2,5.77,82,35,38,Tomato,Late Blight
+30.8,76.9,168.9,6.42,87,43,47,Tomato,Bacterial Spot
+20.3,61,130.5,5.84,77,51,28,Potato,Early Blight
+29.3,70.3,213.2,5.81,85,36,29,Rice,Brown Spot
+30.7,53,262.3,6.75,98,44,35,Rice,Leaf Blast
+20.3,78.7,196.5,6.24,98,30,42,Wheat,Septoria Leaf Spot
+34.2,77.1,258.2,6.75,103,37,42,Rice,Bacterial Leaf Blight
+37.3,85,245.4,6.52,97,46,46,Rice,Bacterial Leaf Blight
+20.3,69.5,159,6.12,67,51,31,Potato,Early Blight
+29.9,79.1,224.2,6.08,90,38,29,Cotton,Leaf Spot
+25.9,84,171.2,6.45,94,39,29,Maize,Common Rust
+20.4,80.3,178.3,6.61,89,49,36,Apple,Cedar Apple Rust
+33.8,78.4,175.7,6.64,108,41,23,Maize,Gray Leaf Spot
+31,63.2,203.6,5.73,72,35,30,Rice,Brown Spot
+18.7,78.6,194.5,6.18,114,35,31,Wheat,Septoria Leaf Spot
+25.7,73.7,136.3,6.6,96,35,39,Wheat,Leaf Rust
+29,82.6,274.4,6.33,97,26,37,Chili,Leaf Spot
+28.6,83.6,151.4,6.11,103,31,29,Maize,Common Rust
+25.8,64.7,144.5,6.07,85,45,26,Tomato,Early Blight
+23.6,74.7,164.4,5.57,83,27,24,Maize,Common Rust
+37.4,88.6,131.9,7.04,107,51,26,Maize,Turcicum Leaf Blight
+34.9,79,232,6.31,90,44,38,Rice,Bacterial Leaf Blight
+26.1,65,150,6.52,95,32,38,Wheat,Leaf Rust
+24.5,65.1,154.8,5.93,82,55,25,Potato,Early Blight
+33,45.8,281,6.47,97,36,31,Rice,Leaf Blast
+32,79.6,194.1,7.34,103,45,42,Chili,Powdery Mildew
+22.1,82.6,176.5,6.04,89,44,43,Tomato,Late Blight
+30.6,56.8,185,6.67,115,64,18,Chili,Anthracnose
+23.4,71.5,169.3,6.37,111,37,36,Wheat,Septoria Leaf Spot
+31.9,69.6,233.2,5.51,83,30,34,Rice,Brown Spot
+37.7,90,234.1,6.73,97,35,35,Rice,Bacterial Leaf Blight
+32.9,83.9,209.9,6.55,100,38,20,Maize,Gray Leaf Spot
+30.1,52.3,199.3,6.96,107,61,20,Chili,Anthracnose
+32.3,49.1,286.4,6.53,97,44,33,Rice,Leaf Blast
+20,88.3,171.7,6.19,79,36,31,Tomato,Late Blight
+25.5,48.4,104.7,6.75,50,54,40,Potato,Common Scab
+25.8,65,118.5,5.79,83,44,31,Tomato,Early Blight
+25.3,72.8,166.4,5.88,93,36,28,Maize,Common Rust
+20.7,64.9,159.6,5.9,76,61,27,Potato,Early Blight
+27.2,70.6,134.2,6.62,101,45,36,Wheat,Leaf Rust
+24.5,63.4,141.3,5.84,74,50,29,Potato,Early Blight
+23.7,79.3,170.2,6.61,89,43,37,Apple,Cedar Apple Rust
+26.6,71.1,179,6.56,100,46,42,Tomato,Bacterial Spot
+24.5,62.1,137.5,6.84,97,41,44,Wheat,Powdery Mildew
+30.4,76.5,200.5,6.26,112,48,15,Maize,Gray Leaf Spot
+32.5,49.5,262.7,6.71,92,38,33,Rice,Leaf Blast
+33.2,57.1,193.6,6.76,116,56,22,Chili,Anthracnose
+34.7,59.9,208.8,6.5,100,52,18,Chili,Anthracnose
+20.4,62.2,128.4,6.48,98,41,43,Wheat,Powdery Mildew
+28.5,79.9,159.6,6.33,95,40,48,Tomato,Bacterial Spot
+30.9,81.9,295.5,6.41,98,33,37,Chili,Leaf Spot
+25.8,74,155.7,7.08,80,59,45,Apple,Fire Blight
+19.6,72.8,155.5,6.47,78,26,48,Potato,Late Blight
+21.5,79.7,161.2,6.29,105,33,35,Wheat,Septoria Leaf Spot
+26,53.5,201.8,6.89,70,44,35,Cotton,Verticillium Wilt
+26.7,73.9,141.4,6.26,80,46,25,Tomato,Early Blight
+23.2,72.1,178.9,6.09,88,31,47,Potato,Late Blight
+26.3,75.6,265.6,5.66,87,31,33,Chili,Leaf Spot
+31.2,65.2,140.1,6.7,104,50,35,Tomato,Bacterial Spot
+23,65.7,154.7,6.78,99,48,42,Wheat,Leaf Rust
+21.8,80.1,179.1,6.06,84,37,39,Tomato,Late Blight
+19.5,81.3,164.7,6.19,87,54,48,Apple,Cedar Apple Rust
+33.8,57.1,214.6,6.36,81,53,43,Cotton,Bacterial Blight
+27.8,65.9,135.2,6.54,99,41,37,Wheat,Leaf Rust
+24.9,77.2,148.1,6.88,99,46,52,Apple,Fire Blight
+28.4,87.1,253.5,6.25,104,28,43,Chili,Leaf Spot
+29.3,82.8,282.8,6.06,112,32,36,Chili,Leaf Spot
+27.4,66.4,165.8,6.51,101,31,33,Chili,Powdery Mildew
+20.2,67,138.9,6.17,84,64,29,Potato,Early Blight
+25,76.7,145.7,6.66,88,56,56,Apple,Fire Blight
+26.3,68,171.7,6.56,97,35,34,Chili,Powdery Mildew
+21.3,88.2,194.3,6.59,79,39,47,Apple,Apple Scab
+30.6,67.4,250.9,5.99,79,28,33,Rice,Brown Spot
+25,73.7,138.2,7.3,80,57,45,Apple,Fire Blight
+22.8,73.1,155.9,6.31,85,24,44,Potato,Late Blight
+33.6,74,233.9,6.8,101,35,41,Rice,Bacterial Leaf Blight
+33,69.8,213.7,5.69,76,26,27,Rice,Brown Spot
+23.6,64.2,140.4,6.18,98,47,35,Wheat,Leaf Rust
+26.8,62.7,134.4,6.71,91,43,35,Wheat,Leaf Rust
+23.7,75.2,162.4,6.31,88,28,40,Potato,Late Blight
+24.3,49.3,136,6.67,69,46,43,Potato,Common Scab
+25.7,72.7,123.5,6.43,89,57,29,Tomato,Early Blight
+24.3,83.6,175.5,6.24,78,54,38,Apple,Cedar Apple Rust
+29.9,62,253.3,5.83,87,33,31,Rice,Brown Spot
+20.4,81.2,172.1,6.03,84,46,46,Apple,Cedar Apple Rust
+20.8,70.6,146.9,7.05,99,48,50,Apple,Fire Blight
+24.1,70.4,144.8,6.32,87,48,35,Tomato,Early Blight
+29.5,69.6,252.6,5.79,88,39,26,Rice,Brown Spot
+28.9,69.1,140,6.19,97,48,29,Tomato,Early Blight
+35.7,86.2,134.9,7.06,121,45,25,Maize,Turcicum Leaf Blight
+36.4,88.6,240,6.5,90,35,38,Rice,Bacterial Leaf Blight
+20,65.1,142.5,5.89,62,55,34,Potato,Early Blight
+25.2,69.9,156.6,7.27,91,48,45,Apple,Fire Blight
+20.6,57.8,127.4,6.61,109,41,49,Wheat,Powdery Mildew
+27.4,66.5,151.4,6.38,92,47,43,Wheat,Leaf Rust
+18.1,75.7,164.7,6.05,83,45,44,Apple,Cedar Apple Rust
+20.7,69.9,145.6,6.81,82,48,55,Apple,Fire Blight
+26.3,52.2,193.4,6.77,86,54,30,Cotton,Verticillium Wilt
+35.4,46.4,254.8,6.51,99,38,35,Rice,Leaf Blast
+28.6,68.5,156.1,6.42,104,52,40,Tomato,Bacterial Spot
+28.5,82.7,173.8,6.35,104,38,28,Maize,Common Rust
+20.8,70.9,170.5,6.15,98,39,41,Wheat,Septoria Leaf Spot
+22,76.5,154.3,6.01,76,34,42,Potato,Late Blight
+28.7,66.1,186.8,6.78,97,37,37,Chili,Powdery Mildew
+31.5,87.5,261,6.04,109,28,42,Chili,Leaf Spot
+28.7,85.6,179.2,6.29,95,37,19,Maize,Gray Leaf Spot
+20.6,65.4,132.2,6.94,85,46,54,Apple,Fire Blight
+26.9,84.4,180.7,5.95,97,38,31,Maize,Common Rust
+28.5,70,155.9,6.29,88,30,39,Chili,Powdery Mildew
+30.5,86.9,275.6,6.24,107,30,41,Chili,Leaf Spot
+21.9,83.4,190.9,5.82,76,34,36,Tomato,Late Blight
+28.8,60.7,246.5,5.9,85,27,30,Rice,Brown Spot
+23.3,63.5,132,6.6,90,43,48,Wheat,Powdery Mildew
+32.9,45.9,288.4,6.67,89,34,38,Rice,Leaf Blast
+20.5,66.9,134.8,7.49,83,58,59,Apple,Fire Blight
+22,86.6,198.4,5.69,86,36,37,Tomato,Late Blight
+22.8,64.6,138.1,6.73,100,43,38,Wheat,Leaf Rust
+24.2,78.6,166.2,6.46,79,47,48,Apple,Cedar Apple Rust
+32.7,86.6,235.1,6.78,109,45,43,Rice,Bacterial Leaf Blight
+36.5,74.2,240.3,6.81,103,46,41,Rice,Bacterial Leaf Blight
+30.3,63.8,169.4,7.05,72,46,38,Cotton,Verticillium Wilt
+18.3,87.5,192.2,5.98,88,41,50,Apple,Apple Scab
+28.4,62,155.7,6.88,88,48,33,Cotton,Verticillium Wilt
+22.7,74.1,138.8,6.73,90,51,49,Apple,Fire Blight
+34.6,56.8,240.3,6.37,77,51,37,Cotton,Bacterial Blight
+19.9,79.7,180.3,6.93,77,45,36,Apple,Cedar Apple Rust
+29.7,66,175,6.76,97,53,36,Tomato,Bacterial Spot
+34.2,73.3,228.4,7,82,47,29,Cotton,Leaf Spot
+21.1,66.3,157.3,6.02,76,25,41,Potato,Late Blight
+32,88.1,259.4,6.11,101,28,44,Chili,Leaf Spot
+31.7,55,287.5,6.62,90,30,30,Rice,Leaf Blast
+28.2,71.9,166.8,6.35,100,42,40,Tomato,Bacterial Spot
+26,67.7,167.4,6.89,89,51,49,Apple,Fire Blight
+34.7,46.3,280,6.32,92,32,31,Rice,Leaf Blast
+30.1,55.2,196.4,6.58,116,55,17,Chili,Anthracnose
+17.8,83.7,191.1,6.22,88,36,52,Apple,Apple Scab
+31.5,59.3,201.4,6.66,105,57,15,Chili,Anthracnose
+34,87.4,148.3,7.16,111,42,28,Maize,Turcicum Leaf Blight
+22.9,64,143.9,6.18,63,58,30,Potato,Early Blight
+24.2,79.3,162.2,6.53,87,44,47,Apple,Cedar Apple Rust
+25.1,66.8,155.4,6.17,87,57,32,Tomato,Early Blight
+18.7,67.3,152.9,6.13,87,28,45,Potato,Late Blight
+21.7,63.5,152.1,5.98,65,56,26,Potato,Early Blight
+29.4,59.6,174,7.49,86,46,37,Cotton,Verticillium Wilt
+26.9,51.3,153,6.62,71,51,34,Cotton,Verticillium Wilt
+29.2,74,215.6,6.32,90,45,29,Cotton,Leaf Spot
+22.3,63.1,146.7,6.18,85,48,43,Wheat,Leaf Rust
+23.2,72.1,137.4,6.07,93,43,39,Wheat,Leaf Rust
+30.4,86.9,273.6,6.44,103,27,43,Chili,Leaf Spot
+36.4,92.3,142.8,7.17,108,44,20,Maize,Turcicum Leaf Blight
+32.6,86.4,152,7.15,115,44,23,Maize,Turcicum Leaf Blight
+22.9,52.5,116.5,7.81,62,50,31,Potato,Common Scab
+37.7,88,272.5,6.8,108,36,38,Rice,Bacterial Leaf Blight
+25.1,74.7,181.2,6.27,104,42,32,Maize,Common Rust
+30.2,68.6,163.4,6.61,87,45,48,Tomato,Bacterial Spot
+31.4,81,267.4,6.27,111,27,43,Chili,Leaf Spot
+25,76.4,179.9,6.51,103,43,35,Chili,Powdery Mildew
+15.9,82.5,155.7,6.06,73,37,49,Apple,Apple Scab
+24.3,84.4,164.9,6.85,84,46,46,Apple,Cedar Apple Rust
+21,53.6,147.3,6.68,99,42,41,Wheat,Powdery Mildew
+26.1,72.9,170.8,6.27,90,33,29,Maize,Common Rust
+30.6,55.6,212.2,6.66,61,59,36,Cotton,Bacterial Blight
+22.7,76,197,6.08,88,49,42,Apple,Apple Scab
+26.2,70.5,173.7,6.41,89,31,38,Chili,Powdery Mildew
+33.7,48.1,254.3,6.35,98,40,31,Rice,Leaf Blast
+20.2,68.8,134.9,6.54,85,59,49,Apple,Fire Blight
+25.4,72.9,156.7,6.35,104,44,44,Wheat,Leaf Rust
+31.9,86.5,189.8,6.69,95,38,20,Maize,Gray Leaf Spot
+23.7,75.8,166.1,6.66,83,44,41,Apple,Cedar Apple Rust
+29.9,83.3,270.5,6.33,92,31,34,Chili,Leaf Spot
+19.7,79.8,149.9,6.1,77,33,46,Potato,Late Blight
+29,73.1,209.7,6.54,81,39,25,Cotton,Leaf Spot
+28,59.7,221.1,7.83,88,53,36,Cotton,Verticillium Wilt
+40.9,95.9,157.6,7.92,125,60,30,Maize,Turcicum Leaf Blight
+25.4,79.8,173.5,6.35,96,31,37,Chili,Powdery Mildew
+25.3,66.3,153.4,6.39,96,52,38,Tomato,Early Blight
+29.6,81.7,274.7,6.24,114,29,42,Chili,Leaf Spot
+26.5,67.1,139,6.49,85,36,39,Wheat,Leaf Rust
+21.5,69.1,141.8,7.01,82,50,47,Apple,Fire Blight
+30.3,87.4,215.3,7.16,122,44,31,Maize,Gray Leaf Spot
+27.1,70.3,148.8,6.28,84,59,35,Tomato,Early Blight
+22.1,78.9,184,6.53,79,43,40,Apple,Cedar Apple Rust
+30.5,55.2,187.6,6.7,112,56,17,Chili,Anthracnose
+20.5,73.7,182.8,6.26,82,38,46,Apple,Apple Scab
+23.1,53.3,129.2,6.73,98,36,41,Wheat,Powdery Mildew
+34,56.8,190.9,6.99,111,55,23,Chili,Anthracnose
+31,85.2,260.2,6.27,110,33,42,Chili,Leaf Spot
+25.9,69.9,142.6,6.59,104,52,49,Tomato,Bacterial Spot
+23.9,74.5,154.1,6.32,83,31,41,Potato,Late Blight
+26.8,56.5,182.2,6.71,86,51,31,Cotton,Verticillium Wilt
+28.6,76.2,186.2,6.2,85,37,30,Chili,Powdery Mildew
+34.5,41.3,223.5,6.72,60,49,35,Cotton,Bacterial Blight
+28.8,75.8,200.7,6.47,104,42,22,Maize,Gray Leaf Spot
+25,66.3,143.5,6.65,92,52,45,Apple,Fire Blight
+15.8,87.9,189.5,6.77,82,42,47,Apple,Apple Scab
+30.7,79.8,177.5,6.41,92,51,37,Tomato,Bacterial Spot
+25.7,73.9,168.5,6.41,94,35,44,Wheat,Leaf Rust
+31.5,81.7,273.7,6.49,102,28,36,Chili,Leaf Spot
+30.2,86.3,187.6,6.55,114,38,27,Maize,Gray Leaf Spot
+21.7,72,158.3,6.43,82,27,40,Potato,Late Blight
+35,83.8,240.1,6.7,103,45,42,Rice,Bacterial Leaf Blight
+22.5,73.7,130.2,6.39,87,36,44,Wheat,Leaf Rust
+37.7,93.5,132.4,7.09,111,54,23,Maize,Turcicum Leaf Blight
+21.1,89.2,189.5,5.73,85,43,30,Tomato,Late Blight
+33.2,48.7,180.7,6.9,109,54,16,Chili,Anthracnose
+19.2,80.6,187.7,6.58,82,49,54,Apple,Apple Scab
+23.9,67,169.3,6.2,81,30,46,Potato,Late Blight
+25,66.4,148.3,6.41,95,44,39,Tomato,Bacterial Spot
+27.3,74.2,186.7,6.07,100,34,31,Maize,Common Rust
+22.7,45.2,116.9,6.94,59,51,30,Potato,Common Scab
+23,77.7,181.1,6.25,98,27,34,Wheat,Septoria Leaf Spot
+22.8,46.3,100.8,6.75,67,44,35,Potato,Common Scab
+23,63.3,153.1,5.84,61,60,29,Potato,Early Blight
+19.1,75.4,152,6.27,76,26,47,Potato,Late Blight
+18.5,75.1,163.6,6.57,111,31,33,Wheat,Septoria Leaf Spot
+27.6,82.7,167.5,6.1,108,38,30,Maize,Common Rust
+29.8,59.5,204,6.84,75,53,37,Cotton,Verticillium Wilt
+29.1,85.8,296.7,6.02,110,32,44,Chili,Leaf Spot
+30.4,89.7,268.1,6.2,99,25,42,Chili,Leaf Spot
+22.6,68.1,141.2,6.93,83,59,46,Apple,Fire Blight
+28.3,82.8,262.4,6.12,98,30,38,Chili,Leaf Spot
+22.7,74.9,152,6.78,85,53,47,Apple,Fire Blight
+35.7,86.4,244.2,6.22,100,43,43,Rice,Bacterial Leaf Blight
+34.3,79.5,211.7,6.76,81,37,32,Cotton,Leaf Spot
+30.9,86.3,190.6,6.06,109,47,28,Maize,Gray Leaf Spot
+29.4,87.7,251.5,6.34,111,34,43,Chili,Leaf Spot
+34.6,47.7,288.4,6.4,89,36,39,Rice,Leaf Blast
+33.8,72.2,213.7,6.43,91,35,31,Cotton,Leaf Spot
+29.2,71.5,155.8,6.01,105,34,29,Maize,Common Rust
+24,54.3,116.3,5.3,86,32,34,Wheat,Leaf Rust
+23,67.1,130.6,6.19,80,53,26,Potato,Early Blight
+37.9,88.8,149.2,6.86,124,50,27,Maize,Turcicum Leaf Blight
+22.3,72.7,147.5,6.27,95,31,42,Wheat,Leaf Rust
+18.1,78.4,153.4,5.35,64,35,44,Apple,Apple Scab
+33.1,76.4,201,6.3,89,36,25,Cotton,Leaf Spot
+34,48.8,208.6,6.44,63,47,44,Cotton,Bacterial Blight
+24.3,75.8,170.5,6.61,86,41,46,Apple,Cedar Apple Rust
+28.3,78,200.1,6.5,100,35,27,Maize,Gray Leaf Spot
+28.2,45.9,135,6.48,77,36,27,Cotton,Verticillium Wilt
+32.6,49,208.1,6.73,102,56,16,Chili,Anthracnose
+35.3,79.9,228.1,6.5,93,36,48,Rice,Bacterial Leaf Blight
+21.8,66.8,150,7.15,91,55,45,Apple,Fire Blight
+35,79.1,180.2,6.89,81,49,27,Cotton,Leaf Spot
+27,78.2,189.2,6.5,92,37,38,Chili,Powdery Mildew
+23,74.4,151.5,6.01,90,38,41,Wheat,Leaf Rust
+23.9,62.7,150.2,6.26,90,39,36,Wheat,Leaf Rust
+36.3,71.5,269.3,6.49,106,44,45,Rice,Bacterial Leaf Blight
+22.6,57.1,137.9,6.61,69,50,34,Potato,Common Scab
+23,65.3,146,6.05,96,47,36,Wheat,Leaf Rust
+28.8,69.1,160.8,7.22,86,50,36,Cotton,Verticillium Wilt
+25.1,68.5,186.2,6.7,88,53,39,Cotton,Verticillium Wilt
+23.7,80.2,172.1,5.95,101,26,32,Wheat,Septoria Leaf Spot
+31.9,47.1,211.6,6.55,81,55,40,Cotton,Bacterial Blight
+31.6,88.5,271.7,6.38,96,25,42,Chili,Leaf Spot
+30.6,47,270.7,6.4,98,32,34,Rice,Leaf Blast
+22.6,81.7,194.7,5.88,75,36,42,Tomato,Late Blight
+18.3,94.7,184.4,5.83,81,38,31,Tomato,Late Blight
+35.6,49.8,233.9,6.74,70,51,42,Cotton,Bacterial Blight
+27.1,55.6,186.3,7.32,85,43,32,Cotton,Verticillium Wilt
+27.8,58,160.2,6.88,87,45,39,Cotton,Verticillium Wilt
+36.5,87.1,156.3,7.01,122,44,20,Maize,Turcicum Leaf Blight
+25.7,57.9,209,7.31,73,44,33,Cotton,Verticillium Wilt
+29.8,74.2,179.1,6.41,98,33,32,Chili,Powdery Mildew
+27.5,56.3,191.1,6.72,78,42,30,Cotton,Verticillium Wilt
+34,89.8,209.5,7.08,103,48,28,Cotton,Leaf Spot
+33.3,48.4,220.7,6.72,65,45,41,Cotton,Bacterial Blight
+23.7,70.5,139.7,6.84,93,45,44,Apple,Fire Blight
+23.1,79,139.2,6.82,94,56,58,Apple,Fire Blight
+33.8,65.4,213.8,6.93,84,45,34,Cotton,Leaf Spot
+32.8,74.9,215.2,5.81,80,29,25,Rice,Brown Spot
+23.3,74.9,172.6,6.21,113,25,35,Wheat,Septoria Leaf Spot
+21.9,80.9,188.2,6.07,84,30,32,Tomato,Late Blight
+23.3,77.7,154.7,6.1,79,37,46,Apple,Apple Scab
+34.7,72.8,200,6.52,95,40,26,Cotton,Leaf Spot
+26.5,73.9,133.5,6.36,89,54,32,Tomato,Early Blight
+22.6,90.2,169.7,5.93,89,44,39,Tomato,Late Blight
+27.2,70.5,127,6.49,92,47,25,Tomato,Early Blight
+28.9,85.4,268.6,6.35,104,33,41,Chili,Leaf Spot
+23.7,78.9,178.1,6.21,83,53,43,Apple,Cedar Apple Rust
+29.2,86.4,294.1,6.2,96,30,38,Chili,Leaf Spot
+37.9,89,224.7,6.93,97,47,41,Rice,Bacterial Leaf Blight
+28.9,71.6,137.9,6.27,98,53,28,Tomato,Early Blight
+32.7,70.2,238.1,6.14,70,33,32,Rice,Brown Spot
+22.1,64.4,136.2,6.76,94,41,45,Wheat,Powdery Mildew
+31.3,78.9,192.9,6.27,88,38,26,Cotton,Leaf Spot
+19.5,86.7,174.6,6.19,87,37,43,Tomato,Late Blight
+25.1,73,152,6.75,90,45,51,Apple,Fire Blight
+25.8,69.3,129.2,6.46,91,58,25,Tomato,Early Blight
+28.7,87.6,291.6,6.44,107,33,35,Chili,Leaf Spot
+33.4,52.5,185.7,6.78,108,55,23,Chili,Anthracnose
+21.2,67.4,131,6.03,79,63,28,Potato,Early Blight
+30.3,67.6,233.8,5.72,75,36,33,Rice,Brown Spot
+25.7,61.2,133.5,6.14,95,34,37,Wheat,Leaf Rust
+20.9,92.3,192.5,5.74,89,30,41,Tomato,Late Blight
+32.8,49.5,250.4,6.71,90,38,36,Rice,Leaf Blast
+30.1,69.9,157.9,6.55,83,52,38,Cotton,Verticillium Wilt
+27.8,65.4,170.1,6.78,97,52,42,Tomato,Bacterial Spot
+30.6,55.6,205.5,6.98,104,57,21,Chili,Anthracnose
+28.3,62.4,248.8,5.59,74,31,30,Rice,Brown Spot
+21.3,69.6,158.9,6.22,84,27,49,Potato,Late Blight
+22.3,57.4,111.7,7.17,50,46,37,Potato,Common Scab
+28.6,78,179.9,6.67,97,41,45,Tomato,Bacterial Spot
+30,47.4,260.4,6.43,97,34,31,Rice,Leaf Blast
+26.4,46.5,115.7,7.33,60,43,42,Potato,Common Scab
+25.6,68.1,152.5,6.27,94,54,42,Tomato,Bacterial Spot
+24.1,77.8,159.7,7.34,97,51,50,Apple,Fire Blight
+30.4,60.4,220.1,6.18,87,29,30,Rice,Brown Spot
+21.8,81.3,179.6,5.51,89,41,32,Tomato,Late Blight
+31.7,60.2,204.8,7.47,86,44,31,Cotton,Verticillium Wilt
+21.7,80.3,174.4,5.51,89,31,38,Tomato,Late Blight
+30,53.1,254.4,6.62,98,33,36,Rice,Leaf Blast
+33.3,79.9,197.3,6.41,83,38,31,Cotton,Leaf Spot
+25.6,92.9,207.7,6.61,92,43,41,Tomato,Late Blight
+34.2,53.6,194,6.82,105,52,21,Chili,Anthracnose
+19.5,93.8,196.6,5.77,81,40,39,Tomato,Late Blight
+36.8,88.2,145.1,7.05,109,50,25,Maize,Turcicum Leaf Blight
+18.7,77.9,165.1,6.27,104,34,30,Wheat,Septoria Leaf Spot
+31.1,83,278.1,6.12,111,26,43,Chili,Leaf Spot
+31.9,79.7,198.6,6.68,112,39,19,Maize,Gray Leaf Spot
+22.1,56.4,129.9,6.74,107,37,49,Wheat,Powdery Mildew
+22.1,84.2,160.3,6.63,84,45,44,Apple,Cedar Apple Rust
+23.1,78.9,185.4,6.92,85,43,48,Apple,Cedar Apple Rust
+22.9,79.8,161.2,5.84,83,38,54,Apple,Apple Scab
+20.2,82.7,167.8,6.46,106,36,40,Wheat,Septoria Leaf Spot
+30.9,48.3,187.7,6.78,110,53,15,Chili,Anthracnose
+19.4,73.1,175.8,6.33,82,24,43,Potato,Late Blight
+37.9,90.8,133.3,6.98,120,40,20,Maize,Turcicum Leaf Blight
+18.3,84.3,165.4,6.91,76,54,38,Apple,Cedar Apple Rust
+25.3,72.8,182.7,6.32,95,33,31,Chili,Powdery Mildew
+19.6,82.1,163.8,6.23,79,45,51,Apple,Apple Scab
+29.1,81.5,170.2,6.4,105,41,34,Maize,Common Rust
+29.2,89.1,279.3,6.11,112,34,35,Chili,Leaf Spot
+25.5,51.3,113.9,7.1,55,44,37,Potato,Common Scab
+25.3,82.2,174.8,6.47,95,31,29,Maize,Common Rust
+25.2,49.9,110.8,6.79,63,44,38,Potato,Common Scab
+29.8,83.2,297.1,6.42,111,30,42,Chili,Leaf Spot
+24.3,54.5,109.9,7.56,58,48,39,Potato,Common Scab
+26.7,63.7,123.7,6.18,85,52,39,Tomato,Early Blight
+27.2,61.2,182,7.32,89,46,37,Cotton,Verticillium Wilt
+37.1,83.7,251.2,6.83,98,37,39,Rice,Bacterial Leaf Blight
+23.4,82.7,174.9,6.8,80,41,41,Apple,Cedar Apple Rust
+31,61.1,162.4,7.12,77,52,34,Cotton,Verticillium Wilt
+19,94.6,180.7,6.13,80,42,30,Tomato,Late Blight
+26,65.1,178.3,6.76,88,39,37,Chili,Powdery Mildew
+32.1,71.6,245.1,6.94,104,36,47,Rice,Bacterial Leaf Blight
+32.9,49.3,233.8,6.78,66,58,44,Cotton,Bacterial Blight
+25.1,59.9,143.4,5.66,81,42,28,Tomato,Early Blight
+20.2,60.3,141.3,6.12,84,52,30,Potato,Early Blight
+26,72.8,163.8,6.52,89,30,35,Chili,Powdery Mildew
+34.3,79.3,225.3,6.61,95,37,43,Rice,Bacterial Leaf Blight
+22.2,79.7,168.3,6.95,76,54,39,Apple,Cedar Apple Rust
+20.1,61.8,129.2,6.42,101,38,49,Wheat,Powdery Mildew
+23.4,54.9,138.7,7.41,51,41,44,Potato,Common Scab
+36.4,91.9,154.6,7.06,113,47,27,Maize,Turcicum Leaf Blight
+23.7,78.7,181.6,5.84,96,27,30,Wheat,Septoria Leaf Spot
+26,78.9,179.6,6.02,92,40,27,Maize,Common Rust
+23.5,73.1,161.6,6.39,111,39,43,Wheat,Septoria Leaf Spot
+31.3,68.4,242.4,5.62,75,37,34,Rice,Brown Spot
+32.6,51.2,253.7,6.55,87,38,36,Rice,Leaf Blast
+23.9,45,112,7.47,69,56,30,Potato,Common Scab
+22.7,94,182.9,5.71,89,40,36,Tomato,Late Blight
+28.7,72.8,159.4,6.36,91,36,25,Maize,Common Rust
+28.4,74.9,217.3,5.6,74,39,30,Rice,Brown Spot
+33.2,44.8,222.6,6.49,70,59,35,Cotton,Bacterial Blight
+22.2,62.6,124.8,6.41,98,37,40,Wheat,Powdery Mildew
+20.1,80.5,182.4,6.11,103,33,30,Wheat,Septoria Leaf Spot
+28.1,82.6,180.4,6.22,109,32,34,Maize,Common Rust
+29.3,70.2,246.3,5.83,82,31,33,Rice,Brown Spot
+28.8,72.3,171.5,6.24,96,41,35,Chili,Powdery Mildew
+24,74.9,164.5,6.37,81,20,45,Potato,Late Blight
+25,87.1,171.9,6.88,85,32,53,Potato,Late Blight
+28.8,66.1,217.2,6.71,81,43,25,Cotton,Leaf Spot
+18.5,86.6,165.3,6.19,79,38,41,Tomato,Late Blight
+33.5,78.1,191.6,6.19,104,41,19,Maize,Gray Leaf Spot
+23.2,84.4,185.1,5.95,97,37,38,Wheat,Septoria Leaf Spot
+28.8,50.5,195.9,7.08,82,40,32,Cotton,Verticillium Wilt
+35.1,87.4,237.3,6.09,108,40,43,Rice,Bacterial Leaf Blight
+25,67.6,128.1,6.38,84,55,33,Tomato,Early Blight
+28.6,73.5,221,5.89,77,26,30,Rice,Brown Spot
+19.7,89.4,182.7,6.09,74,36,51,Apple,Apple Scab
+32.3,76.4,207.3,6.63,98,39,28,Cotton,Leaf Spot
+30.5,45.6,193.7,6.91,106,55,24,Chili,Anthracnose
+20.9,80.9,161.7,6.99,91,53,45,Apple,Cedar Apple Rust
+26.5,80.9,162.2,5.84,97,40,28,Maize,Common Rust
+24.3,69.1,145.3,6,79,59,32,Potato,Early Blight
+21.6,72.5,191.9,6.38,96,31,32,Wheat,Septoria Leaf Spot
+27,71.7,146.9,6.25,94,57,28,Tomato,Early Blight
+31.8,63.6,175,7.2,85,51,34,Cotton,Verticillium Wilt
+19.2,82.7,196.6,6.4,87,47,47,Apple,Apple Scab
+32.1,56.4,216.4,6.54,83,48,38,Cotton,Bacterial Blight
+36.8,90.3,132.7,7.03,117,50,27,Maize,Turcicum Leaf Blight
+35.9,48.1,228.5,6.65,74,58,38,Cotton,Bacterial Blight
+15.8,74.4,172.2,6.79,79,43,50,Apple,Apple Scab
+26.9,63.9,147.6,6.15,96,48,25,Tomato,Early Blight
+25.2,73.3,146.8,6.2,102,50,36,Tomato,Bacterial Spot
+27,68.8,156.3,6.62,86,44,38,Chili,Powdery Mildew
+18.5,65.9,156.7,6.39,85,31,45,Potato,Late Blight
+27,75.8,177.4,6.78,89,38,36,Chili,Powdery Mildew
+26,79.3,155.2,5.8,108,38,34,Maize,Common Rust
+25.3,61.3,145.1,6.33,85,35,44,Wheat,Leaf Rust
+29,85,178.1,6.23,101,33,15,Maize,Gray Leaf Spot
+33.2,52.9,223.8,6.8,78,59,43,Cotton,Bacterial Blight
+35.9,87.3,135.5,6.8,114,46,22,Maize,Turcicum Leaf Blight
+28.3,59.2,156.9,5.76,76,47,33,Tomato,Bacterial Spot
+27.8,65.1,158.6,6.21,100,32,38,Chili,Powdery Mildew
+26.8,66.5,164.8,6.14,103,34,38,Wheat,Leaf Rust
+22.5,83.8,161,6.83,83,49,40,Apple,Cedar Apple Rust
+31.4,55.5,180.3,7.46,73,50,36,Cotton,Verticillium Wilt
+30.2,71.9,163.9,6.45,88,42,36,Tomato,Bacterial Spot
+32.6,41.5,210.3,6.69,64,45,41,Cotton,Bacterial Blight
+33.5,49.9,203.6,6.95,104,59,18,Chili,Anthracnose
+23.1,64,137.9,6.2,91,41,40,Wheat,Leaf Rust
+27.3,79.2,136.7,6.76,96,52,51,Apple,Fire Blight
+20.8,92,199.2,5.99,83,30,35,Tomato,Late Blight
+20.8,81.4,185.4,6.23,71,49,46,Apple,Apple Scab
+18.4,79,157.3,6.05,82,23,42,Potato,Late Blight
+30.1,86,278.3,6.33,101,26,42,Chili,Leaf Spot
+31.8,50,271.1,6.51,88,32,31,Rice,Leaf Blast
+20.2,92,197.1,6.18,88,34,44,Tomato,Late Blight
+29.9,69.5,151.2,6.3,92,34,30,Chili,Powdery Mildew
+28.3,67.4,147.3,6.04,83,51,32,Tomato,Early Blight
+32,66.4,253.3,6.09,80,35,33,Rice,Brown Spot
+24.1,57.2,130.5,6.62,106,38,42,Wheat,Powdery Mildew
+30.9,73.2,176.9,6.75,103,41,36,Tomato,Bacterial Spot
+20.5,82.8,194.2,5.88,96,28,43,Wheat,Septoria Leaf Spot
+26.2,75.1,152.8,6.03,99,44,28,Maize,Common Rust
+20.2,65.9,150.3,5.81,72,53,31,Potato,Early Blight
+23.3,64,128,6.77,103,38,48,Wheat,Powdery Mildew
+35.8,85.5,222,6.59,93,40,40,Rice,Bacterial Leaf Blight
+28.5,84.5,182.4,5.85,104,38,25,Maize,Common Rust
+35.3,47.6,279.6,6.77,95,36,36,Rice,Leaf Blast
+34,66.7,216.2,6.04,83,35,39,Rice,Bacterial Leaf Blight
+32.5,86.3,176.2,6.11,96,39,22,Maize,Gray Leaf Spot
+28.8,77.7,142.4,6.56,99,54,47,Tomato,Bacterial Spot
+30.3,71.2,189.1,8.16,80,57,33,Cotton,Verticillium Wilt
+29.9,81.9,175.9,6.25,112,35,17,Maize,Gray Leaf Spot
+23.1,73.1,162.9,6.36,103,38,39,Wheat,Septoria Leaf Spot
+30.1,85.4,289,6.16,104,34,41,Chili,Leaf Spot
+23.1,68.9,148.5,5.89,60,63,25,Potato,Early Blight
+30.5,79,169.3,6.67,86,43,49,Tomato,Bacterial Spot
+18.4,77.2,186.8,6.12,87,43,44,Apple,Cedar Apple Rust
+34.4,86,146,6.84,120,48,27,Maize,Turcicum Leaf Blight
+26.1,57.8,161.1,7.29,78,41,34,Cotton,Verticillium Wilt
+26.1,57.8,108.5,7.49,59,57,33,Potato,Common Scab
+37.9,89.1,223.6,6.44,93,42,47,Rice,Bacterial Leaf Blight
+21.4,52.9,125.5,6.61,98,43,41,Wheat,Powdery Mildew
+32.1,94.9,141,7.11,111,47,23,Maize,Turcicum Leaf Blight
+30.5,66.1,208.4,6.56,96,49,30,Cotton,Leaf Spot
+23,81.5,164.3,6.59,77,46,43,Apple,Cedar Apple Rust
+31.5,65.4,234.6,5.74,71,39,26,Rice,Brown Spot
+33.9,84.3,228.1,6.29,92,47,38,Rice,Bacterial Leaf Blight
+34.8,45.2,239,6.72,68,57,36,Cotton,Bacterial Blight
+33.9,52,281.9,6.46,86,36,31,Rice,Leaf Blast
+21.9,77.5,163.3,6.9,92,41,46,Apple,Cedar Apple Rust
