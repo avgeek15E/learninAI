@@ -1,0 +1,53 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Virtual environments ---
+.venv/
+env/
+venv/
+.uv/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Requirements ---
+req.txt
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+
+# --- Environment variables ---
+.env
+*.env
+
+# --- Editors and IDEs ---
+.vscode/
+.idea/
+*.iml
+
+# --- Testing and typing ---
+.pytest_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+coverage.xml
+.cache
+
+# --- Logs ---
+*.log
+
+# --- Local config ---
+.python-version
+ignition.bat
+
+# --- Dependency locks (optional) ---
+# Uncomment this line if you don’t want to track the lock file
+# uv.lock
