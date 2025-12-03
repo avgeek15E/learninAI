@@ -50,4 +50,5 @@ engage.bat
 
 # --- Dependency locks (optional) ---
 # Uncomment this line if you don’t want to track the lock file
-# uv.lock
+uv.lock
+
